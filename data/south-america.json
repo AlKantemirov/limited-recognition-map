@@ -1,0 +1,181 @@
+{
+  "name": "South America",
+  "name_ru": "Южной Америки",
+  "viewPath": "./resources/map/states/south-america.svg",
+    "unrec": [
+ 	{
+	    "id": "Parana",
+	    "name": "Parana",
+	    "name_ru": "Парана",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bandeira_do_Paran%C3%A1.svg",
+	    "flag_cc": "FXXX, Public Domain, via Wikipedia Commons",
+	    "description": "<p>State in southern Brazil. It borders the states of Mato Grosso do Sul and São Paulo to the north, the state of Santa Catarina and Argentina to the south, and Paraguay to the west; the east of the state is washed by the Atlantic Ocean. The administrative center is the city of Curitiba.</p><p>Supporters of the separatist movement <b>'The South is my country'</b> argue that the states of Paraná, Rio Grande do Sul and Santa Catarina have different characteristics from the rest of Brazil and claim the right to to political, economic, social and cultural self-determination.</p>",
+     	"description_ru": "<p>Штат на юге Бразилии. Граничит со штатами Мату-Гросу-ду-Сул и Сан-Паулу на севере, штатом Санта-Катарина и Аргентиной на юге, а также с Парагваем на западе; восток штата омывается Атлантическим океаном. Административный центр — город Куритиба.</p><p>Сторонники сепаратистского движения <b>'Юг - моя страна'</b> утверждают, что штаты Парана, Риу-Гранди-ду-Сул и Санта-Катарина имеют отличные характеристики от остальной части Бразилии и претендуют на право на политическое, экономическое, социальное и культурное самоопределение.</p>",
+	    "links": [
+		{
+		    "link": "https://en.wikipedia.org/wiki/Paran%C3%A1_(state)",
+		    "label": "Parana - Wikipedia"
+		},
+		{
+		    "link": "https://en.wikipedia.org/wiki/The_South_Is_My_Country",
+		    "label": "Separatist movement of Parana - Wikipedia"
+		}
+	    ],
+	    "links_ru": [
+		{
+		    "link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BD%D0%B0_(%D1%88%D1%82%D0%B0%D1%82)",
+		    "label": "Парана - Википедия"
+		},
+		{
+		    "link": "https://en.wikipedia.org/wiki/The_South_Is_My_Country",
+		    "label": "The South Is My Country - Википедия [en]"
+		}
+	    ]	  
+	},
+	{
+	    "id": "Santa_Catarina",
+	    "name": "Santa Catarina",
+	    "name_ru": "Санта-Катарина",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bandeira_de_Santa_Catarina.svg",
+	    "flag_cc": "OAlexander (talk) (colours from  Manual de Identidade Visual do Governo do Estado do Santa Catarina), Public domain, via Wikimedia Commons",
+	    "description": "<p>State in southern Brazil. The administrative center is the city of Florianópolis. It borders the states of Rio Grande do Sul to the south and Parana to the north, as well as Argentina to the west; the east of the state is washed by the Atlantic Ocean.</p><p>Supporters of the separatist movement <b>'The South is my country'</b> argue that the states of Paraná, Rio Grande do Sul and Santa Catarina have different characteristics from the rest of Brazil and claim the right to to political, economic, social and cultural self-determination.</p>",
+	    "description_ru" : "<p>Штат на юге Бразилии. Административный центр — город Флорианополис. Граничит со штатами Риу-Гранди-ду-Сул на юге и Парана на севере, а также с Аргентиной на западе; восток штата омывается Атлантическим океаном.</p><p>Сторонники сепаратистского движения <b>'Юг - моя страна'</b> утверждают, что штаты Парана, Риу-Гранди-ду-Сул и Санта-Катарина имеют отличные характеристики от остальной части Бразилии и претендуют на право на политическое, экономическое, социальное и культурное самоопределение.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
+				"label": "Santa Catarina - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/The_South_Is_My_Country",
+				"label": "Separatist movement of Santa Catarina - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D1%82%D0%B0-%D0%9A%D0%B0%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0",
+				"label": "Санта-Катарина - Википедия"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/The_South_Is_My_Country",
+				"label": "The South Is My Country - Википедия [en]"
+			}
+		]
+	}, 
+	{
+	    "id": "Rio_Grande_do_Sul",
+	    "name": "Rio Grande do Sul",
+	    "name_ru": "Риу-Гранди-ду-Сул",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bandeira_do_Rio_Grande_do_Sul.svg",
+	    "flag_cc": "Srfortes, Public domain, via Wikimedia Commons",
+	    "description": "<p>The southernmost state of Brazil, in its Southern region. The administrative center is the city of Porto Alegre. In the north it borders with the state of Santa Catarina, in the south with Uruguay, in the west along the Uruguay River with Argentina.</p><p>Supporters of the separatist movement <b>'The South is my country'</b> argue that the states of Paraná, Rio Grande do Sul and Santa Catarina have different characteristics from the rest of Brazil and claim the right to to political, economic, social and cultural self-determination.</p>",
+	    "description_ru" : "<p>Самый южный штат Бразилии, в её Южном регионе. Административный центр — город Порту-Алегри. На севере граничит со штатом Санта-Катарина, на юге с Уругваем, на западе по реке Уругвай с Аргентиной.</p><p>Сторонники сепаратистского движения <b>'Юг - моя страна'</b> утверждают, что штаты Парана, Риу-Гранди-ду-Сул и Санта-Катарина имеют отличные характеристики от остальной части Бразилии и претендуют на право на политическое, экономическое, социальное и культурное самоопределение.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
+				"label": "Rio Grande do Sul - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/The_South_Is_My_Country",
+				"label": "Separatist movement of Rio Grande do Sul - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D1%83-%D0%93%D1%80%D0%B0%D0%BD%D0%B4%D0%B8-%D0%B4%D1%83-%D0%A1%D1%83%D0%BB",
+				"label": "Риу-Гранди-ду-Сул - Википедия"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/The_South_Is_My_Country",
+				"label": "The South Is My Country - Википедия [en]"
+			}
+		]
+	},
+	{
+	    "id": "Mapuche",
+	    "name": "Mapuche",
+	    "name_ru": "Мапуче",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/07/Lautaro_flag.svg",
+	    "flag_cc": "Al2, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+	    "description": "<p>A group of indigenous people from south-central Chile and southwest Argentina, including parts of Patagonia.</p><p>Mapuche in the Spanish-ruled areas, especially the Picunche, mingled with the Spanish during the colonial period, forming a mestizo population that lost its indigenous identity. But Mapuche society in Araucanía and Patagonia remained independent until the late nineteenth century, when Chile occupied Araucanía and Argentina conquered Puelmapu. Since then the Mapuche have become subjects, and later nationals and citizens of the respective states. Today, many Mapuche and Chilean communities are engaged in the so-called <b>Mapuche conflict</b> over land and indigenous rights in both Argentina and Chile.</p>",
+	    "description_ru" : "<p>Группа коренных жителей юга центральной части Чили и юго-запада Аргентины, включая части Патагонии.</p><p>Мапуче на территориях, находящихся под властью Испании, особенно Пикунче, ассимилировались испанцами в колониальный период, образовав популяцию метисов, потерявшую свою коренную идентичность. Но общество мапуче в Араукании и Патагонии оставалось независимым до конца девятнадцатого века, когда Чили присоединила Арауканию, а Аргентина завоевала Пуэльмапу. С тех пор мапуче стали подданными, а позже гражданами соответствующих государств. Сегодня многие мапуче и вовлечены в так называемый <b>конфликт Мапуче</b> по поводу земли и прав коренных народов как в Аргентине, так и в Чили.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Mapuche",
+				"label": "Mapuche - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Mapuche_conflict",
+				"label": "Mapuche conflict - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D1%83%D0%BA%D0%B0%D0%BD%D1%8B",
+				"label": "Мапуче - Википедия"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Mapuche_conflict",
+				"label": "Конфликт Мапуче - Википедия [en]"
+			}
+		]
+	},
+	{
+	    "id": "Patagonia",
+	    "name": "Patagonia",
+	    "name_ru": "Патагония",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Patagonia.svg",
+	    "flag_cc": "Sergio Pérez (designer)Xarucoponce (raster image)SiBr4 (vector image), Public domain, via Wikimedia Commons",
+	    "description": "<p>A geographic region in southern South America, located south of the Rio Colorado in Argentina and the Bio-Bio in Chile, although there is no completely precise definition. Sometimes Tierra del Fuego is also considered Patagonia. Patagonia is located in Argentina and Chile, and includes the Andes mountains to the west and south, and plateaus and low plains to the east.</p><p><b>'Movimiento Independentista Patagónico'</b> is a historic initiative that was reborn as a political movement in 2017. This movement seeks political and economic sovereignty for Patagonia and federal control of its resources.</p>",
+	    "description_ru" : "<p>Географический регион в южной части Южной Америки, расположенный к югу от рек Рио-Колорадо в Аргентине и Био-Био в Чили, хотя полностью точного определения не существует. Иногда к Патагонии причисляют и Огненную Землю. Патагония расположена в Аргентине и Чили, включает горы Анды на западе и юге, а также плато и низкие равнины на востоке.</p><p><b>'Movimiento Independentista Patagónico'</b> - историческая инициатива, которая возродилась как политическое движение в 2017 году. Это движение стремится к политическому и экономическому суверенитету Патагонии и федеральному управлению ее ресурсами.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Patagonia",
+				"label": "Patagonia - Wikipedia"
+			},
+			{
+				"link": "https://es.wikipedia.org/wiki/Movimientos_independentistas_de_Argentina#Movimiento_Independentista_Patag%C3%B3nico",
+				"label": "Movimiento Independentista Patagónico - Wikipedia [es]"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D0%B0%D0%B3%D0%BE%D0%BD%D0%B8%D1%8F",
+				"label": "Патагония - Википедия"
+			},
+			{
+				"link": "https://es.wikipedia.org/wiki/Movimientos_independentistas_de_Argentina#Movimiento_Independentista_Patag%C3%B3nico",
+				"label": "Movimiento Independentista Patagónico - Википедия [es]"
+			}
+		]
+	},
+	{
+	    "id": "French_Guiana",
+	    "name": "French Guiana",
+	    "name_ru": "Французская Гвиана",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_French_Guiana.svg",
+	    "flag_cc": "Madden, Public Domain, via Wikipedia Commons",
+	    "description": "<p>The largest overseas region and overseas department of France, located in northeastern South America. The administrative center is the city of Cayenne. It borders on the west with Suriname, on the south and east with Brazil, and on the north and northeast by the Atlantic Ocean.</p><p><b>'Mouvement de décolonisation et d'émancipation sociale' (MDES)</b> is a radical left-wing political party advocating full independence for French Guiana, or at least a change in its status from an overseas region to an overseas territory.</p>",
+	    "description_ru": "<p>Крупнейший заморский регион и заморский департамент Франции, расположенный на северо-востоке Южной Америки. Административный центр — город Кайенна. Граничит на западе с Суринамом, на юге и востоке с Бразилией, на севере и северо-востоке омывается Атлантическим океаном.</p><p><b>'Движение за деколонизацию и социальную эмансипацию'</b> — радикальная левая политическая партия, выступающая за полную независимость Французской Гвианы или, по крайней мере, за смену её статуса с заморского региона на заморскую территорию.</p>",
+	    "links": [
+		{
+		    "link": "https://en.wikipedia.org/wiki/French_Guiana",
+		    "label": "French Guiana - Wikipedia"
+		},
+		{
+		    "link": "https://en.wikipedia.org/wiki/Decolonization_and_Social_Emancipation_Movement",
+		    "label": "Pro-independence party of French Guiana - Wikipedia"
+		}
+	    ],
+	    "links_ru": [
+		{
+		    "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B2%D0%B8%D0%B0%D0%BD%D0%B0_(%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8)",
+		    "label": "Французская Гвиана - Википедия"
+		},
+		{
+		    "link" : "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0_%D0%B4%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E_%D0%B8_%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E_%D1%8D%D0%BC%D0%B0%D0%BD%D1%81%D0%B8%D0%BF%D0%B0%D1%86%D0%B8%D1%8E",
+		    "label": "Движение за деколонизацию и социальную эмансипацию Французской Гвианы - Википедия"
+		}
+	    ]
+	}
+    ]  
+}

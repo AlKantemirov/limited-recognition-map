@@ -1,0 +1,396 @@
+{
+    "name": "Asia",
+    "name_ru": "Азии",
+    "viewPath": "./resources/map/states/asia.svg",
+    "unrec": [
+		{
+			"id": "Uyghuristan",
+			"name": "Uyghuristan",
+			"name_ru": "Восточный Туркестан",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kokbayraq_flag.svg",
+			"flag_cc": "User:Tarkan, Public domain, via Wikimedia Commons",
+			"description": "<p>A subregion of Central Asia, covering the Tarim Basin and the territory from the Tien Shan to the Mongolian Altai.</p><p>Uyghuristan is the homeland of the Turkic-speaking Uighurs and other peoples of Central Asia. The territory of modern Xinjiang is inhabited mainly by peoples of Turkic-speaking and Mongol-speaking origin, such as the Uyghurs, Kazakhs, Kyrgyz, Uzbeks, Tatars, Salars and Mongols, and later by the Tajiks and Han Chinese. In total, there are more than a dozen main ethnic groups. Currently region is a part of the People's Republic of China.</p><p>The entire 19th century for Uyghuristan is characterized by numerous national liberation uprisings of the Uyghurs for independence (1825-1828, 1857, Yettishar 1862-1872), which continued into the 20th century (1931-1937, from 1943-1949 to our time). <br>On the territory of Eastern Turkestan in the 20th century, state formations arose twice: <br><b>First East Turkestan Republic (1933-1934);</b><br><b>Second East Turkestan Republic (1944-1949).</b></p><p>Currently, the Xinjiang Uyghur Autonomous Region (XUAR) of the People's Republic of China has been formed on the territory of East Turkestan.</p>",
+			"description_ru" : "<p>Субрегион Центральной Азии, охватывающий Таримский бассейн и территорию от Тянь-Шаня до Монгольского Алтая.</p><p>Восточный Туркестан — это родина тюркоязычных уйгуров и других народов Центральной Азии. Территория современного Синьцзяна населена, в основном, народами тюркоязычного и монголоязычного происхождения, такими как уйгуры, казахи, киргизы, узбеки, татары, салары и монголы, а позже таджиками и ханьцами. Всего выделяется более десятка основных этнических групп. В настоящее время входит в состав Китайской Народной Республики.</p><p>Весь XIX век для Восточного Туркестана характеризуется многочисленными национально-освободительными восстаниями уйгуров за независимость (1825—1828, 1857, Йеттишар 1862—1872 гг.), продолжавшимися и в XX веке (1931—1937, с 1943—1949 гг. до нашего времени).<br>На территории Восточного Туркестана в XX веке дважды возникали государственные образования:<br><b>Восточно-Туркестанская Исламская республика (1933—1934);</b><br><b>Восточно-Туркестанская Революционная республика (1944—1949).</b></p><p>В данное время на территории Восточного Туркестана образован Синьцзян-Уйгурский автономный район (СУАР) КНР.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/East_Turkestan",
+					"label": "East Turkestan - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/East_Turkestan_independence_movement",
+					"label": "East Turkestan independence movement - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/First_East_Turkestan_Republic",
+					"label": "First East Turkestan Republic - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Second_East_Turkestan_Republic",
+					"label": "Second East Turkestan Republic - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD",
+					"label": "Восточный Туркестан - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B9%D0%B3%D1%83%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+					"label": "Уйгурское национально-освободительное движение - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0",
+					"label": "Восточно-Туркестанская Исламская республика - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%A2%D1%83%D1%80%D0%BA%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0",
+					"label": "Восточно-Туркестанская Революционная республика - Википедия"
+				}
+			]
+		}, 
+		{
+			"id": "Tibet",
+			"name": "Tibet",
+			"name_ru": "Тибет",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_Tibet.svg",
+			"flag_cc": "See page for author, Public domain, via Wikimedia Commons",
+			"description": "<p>A region of Central Asia, located on the Tibetan Plateau. It is a cultural and religious community whose distinctive features are the Tibetan language and Tibetan Buddhism. The inclusion of Tibet into the PRC as a result of <p>military invasion</p> remains a complex and controversial issue to this day.</p><p>World public opinion, especially in the West, is on the side of “independence or at least a high degree of autonomy” for Tibet. Official bodies of states recognize Tibet as part of China, but their position may not be clear: whether we are talking about a simple statement of the fact of China’s power over Tibet or about recognition of its legal rights to this. A number of governments and international organizations, as well as the US Congress, have repeatedly protested against the occupation of Tibet and the oppression of the indigenous population.</p><p>Currently, all countries of the world recognize Tibet as part of the PRC.</p>",
+			"description_ru" : "<p>Район Центральной Азии, расположен на Тибетском нагорье. Представляет собой культурную и религиозную общность, отличительными чертами которой являются тибетский язык и тибетский буддизм. Включение Тибета в состав КНР в результате <b>военного вторжения</b> остаётся сложным и противоречивым вопросом вплоть до настоящего времени.</p><p>Мировое общественное мнение, в особенности на Западе, встаёт на сторону «независимости или, по крайней мере, высокой степени автономии» Тибета. Официальные органы государств признают Тибет частью Китая, при этом их позиция может не иметь чёткости: идёт ли речь о простой констатации факта власти Китая над Тибетом или же о признании его законных прав на это. Ряд правительств и международных организаций, Конгресс США неоднократно выражали протест против оккупации Тибета и притеснений коренного населения.</p><p>В настоящее время все страны мира признают Тибет частью КНР.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Tibet",
+					"label": "Tibet - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Battle_of_Chamdo",
+					"label": "Battle of Chamdo - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Central_Tibetan_Administration",
+					"label": "Central Tibetan Administration - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Tibetan_sovereignty_debate",
+					"label": "Tibetan sovereignty debate - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%B1%D0%B5%D1%82",
+					"label": "Тибет - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BC%D0%B4%D0%BE%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
+					"label": "Чамдоская операция - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%A2%D0%B8%D0%B1%D0%B5%D1%82%D0%B0_%D0%B2_%D0%B8%D0%B7%D0%B3%D0%BD%D0%B0%D0%BD%D0%B8%D0%B8",
+					"label": "Правительство Тибета в изгнании - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%A2%D0%B8%D0%B1%D0%B5%D1%82%D0%B0",
+					"label": "Статус Тибета - Википедия"
+				}
+			]
+		}, 
+		{
+			"id": "Taiwan",
+			"name": "Taiwan",
+			"name_ru": "Тайвань",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+			"flag_cc": "Sun Yat-sen, Public domain, via Wikimedia Commons",
+			"description": "<p>A state in East Asia that previously had a one-party system, widespread diplomatic recognition, and control over all of China. It was one of the founders of the UN and a permanent member of its Security Council.</p><p>After the defeat of the country's ruling <b>Kuomintang</b> from the Communist Party in the <b>civil war of 1945-1950</b>, only Taiwan and a number of small islands remained under the control of the Republic of China. It gradually began to lose international recognition, and in 1971 its seat at the UN was transferred to the People's Republic of China. Taiwan maintains official diplomatic relations with 11 UN member states, but actual relations with most countries of the world through its representative offices.</p><p>The Republic of China is a democracy with a semi-presidential system and universal suffrage. As one of the <b>'Four Asian Tigers'</b>, the Republic of China has the 19th largest economy in the world. Its technology industry plays an important role in the global economy. The standard of living is very high, according to IMF data for 2019-2020. The country's GDP per capita is significantly higher than that of China.</p><p>Today, 14 countries around the world officially recognize Taiwan.</p>",
+			"description_ru" : "<p>Государство в Восточной Азии, ранее имевшее однопартийную систему, широкое дипломатическое признание и контроль над всем Китаем. Являлось одним из основателей ООН и постоянным членом её Совета Безопасности.</p><p>После поражения правившего в стране <b>Гоминьдана</b> от Коммунистической партии в <b>гражданской войне 1945—1950</b> годов под управлением Китайской Республики остались только Тайвань и ряд малых островов. Она стала постепенно терять международное признание, а в 1971 году её место в ООН было передано Китайской Народной Республике. Тайвань поддерживает официальные дипломатические отношения с 11 государствами — членами ООН, но фактические связи — с большинством стран мира через свои представительства.</p><p>Китайская Республика — демократия с полупрезидентской системой и всеобщим избирательным правом. Будучи одним из <b>«четырёх азиатских тигров»</b>, Китайская Республика имеет 19-ю по величине экономику мира. Её технологическая индустрия играет важную роль в мировой экономике. Уровень жизни является очень высоким, согласно данным МВФ на 2019—2020 гг. страна по ВВП на душу населения значительно превосходит КНР.</p><p>В сентябре 2021 года Тайвань начал кампанию по возвращению в ООН</p><p>Сегодня 14 государств мира официально признают Тайвань.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Taiwan",
+					"label": "Taiwan - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Kuomintang",
+					"label": "Kuomintang - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Chinese_Civil_War",
+					"label": "Chinese Civil War - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Political_status_of_Taiwan",
+					"label": "Political status of Taiwan - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_(%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C)",
+					"label": "Китайская Республика (Тайвань) - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D0%B8%D0%BD%D1%8C%D0%B4%D0%B0%D0%BD",
+					"label": "Гоминьдан - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%9A%D0%B8%D1%82%D0%B0%D0%B5",
+					"label": "Гражданская война в Китае - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8F",
+					"label": "Политический статус Тайваня - Википедия"
+				}
+			]
+		}, 
+		{
+			"id": "Inner_Mongolia",
+			"name": "Inner Mongolia",
+			"name_ru": "Внутренняя Монголия",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_the_Inner_Mongolian_People%27s_Party.svg",
+			"flag_cc": "Author: Shazz, via Wikimedia Commons",
+			"description": "<p>Autonomous region in the north of the People's Republic of China. Founded on December 2, 1949. The administrative center is Hohhot.</p><p>After the collapse of the Qing Empire in 1912, Outer and Inner Mongolia declared themselves a single national state, similar to the Han Chinese national state - the Republic of China. Since Inner Mongolia did not receive recognition of independence or autonomy, the Republic of China annexed it by force. Later, in Inner Mongolia there were the People's Revolutionary Party and other movements of the Mongols for separation from China and irredentist reunification with Mongolia, called Outer Mongolia in China. In 1934, a weakened China granted autonomy to this territory, and in 1935-1936 the local military-princely government declared independence, which was supported by the Japanese occupation authorities with the creation of the puppet state of Mengjiang within the Japanese Empire. With Japan's defeat in World War II under occupation by Soviet and Mongolian forces in the mid-1940s, the 'Declaration of Liberation of the Peoples of Inner Mongolia' was proclaimed with the states of <b>People's Republic of Inner Mongolia</b> and <b>East Mongol Republic.</b> During the <b>civil war in China</b> there were again attempts to proclaim the independent Republic of Inner Mongolia and the Mongolian Alashan Republic by the prince and nationalists. With the complete victory of the Communists in China, they formed the Autonomous Region of Inner Mongolia, and due to the active policy of the central Chinese authorities to populate this territory with the Chinese and assimilate the Mongols, the latter’s movements for independence were greatly weakened.</p>",
+			"description_ru" : "<p>Автономный район на севере Китайской Народной Республики. Основан 2 декабря 1949 года. Административный центр — Хух-Хото.</p><p>После распада империи Цин в 1912 году Внешняя и Внутренняя Монголии объявили себя единым национальным государством, по аналогии с национальным государством ханьцев - Китайской республикой. Поскольку Внутренняя Монголия не получила признания независимости или автономии, Китайская Республика вооружённым путем присоединила её к себе. Позже во Внутренней Монголии существовали Народно-революционная партия и прочие движения монголов за отделение от Китая и ирридентистское воссоединение с Монголией, именуемой в Китае Внешней. В 1934 году ослабевший Китай предоставил этой территории автономию, а в 1935—1936 годах местное военно-княжеское правительство провозгласило независимость, которая была поддержана японскими оккупационными властями с созданием марионеточного государства Мэнцзян в составе Японской империи. С поражением Японии во Второй Мировой войне при оккупации советскими и монгольскими войсками в середине 1940-х годов была провозглашена «Декларация об освобождении народов Внутренней Монголии» с государствами <b>Народная республика Внутренней Монголии</b> и <b>Восточномонгольская республика.</b> Во время <b>гражданской войны в Китае</b> вновь были попытки провозглашения князем и националистами Независимой республики Внутренней Монголии и Монгольской Алашанской республики. С полной победой в Китае коммунистов ими был образован Автономный район Внутренняя Монголия, и ввиду активной политики центральных китайских властей на заселение этой территории китайцами и ассимиляцию монголов движения последних за независимость сильно ослабли.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Inner_Mongolia",
+					"label": "Inner Mongolia - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Chinese_Civil_War",
+					"label": "Chinese Civil War - Wikipedia"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8E_%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B9_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B8",
+					"label": "United Assembly of the Inner Mongolia Autonomy Movement - Wikipedia [ru]"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Inner_Mongolian_People%27s_Republic",
+					"label": "Inner Mongolian People's Republic - Wikipedia"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B9_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B8",
+					"label": "People's Autonomous Government of Eastern Mongolia - Wikipedia [ru]"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D1%8F",
+					"label": "Внутренняя Монголия - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%9A%D0%B8%D1%82%D0%B0%D0%B5",
+					"label": "Гражданская война в Китае - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B7%D0%B0_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8E_%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B9_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B8",
+					"label": "Объединённое собрание движения за автономию Внутренней Монголии - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B9_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B8",
+					"label": "Народная Республика Внутренней Монголии - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B9_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B8",
+					"label": "Народное автономное правительство Восточной Монголии - Википедия"
+				}
+			]
+		}, 
+		{
+			"id": "Manipur",
+			"name": "Manipur",
+			"name_ru": "Манипур",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Manipur.svg",
+			"flag_cc": "User:Hosmich, CC0, via Wikimedia Commons",
+			"description": "<p>An ancient independent kingdom on the border of India and Burma. Since 1824 it has been a vassal state of the British East India Company, and since 1891 it has been a native principality within British India. Manipur bordered the province of Assam in the west and British Burma in the east. In the 20th century, the princely state of Manipur covered an area of ​​22,327 square kilometers (8,621 sq mi). The capital of the state was Imphal.</p><p>On August 15, 1947, upon the expiration of the British Crown's term of office, Manipur briefly became 'independent', that is, free from the control of the Governor of Assam. But the Maharaja had already acceded to India on 11 August, as a result of which he ceded three subjects, namely defence, foreign affairs and communications to the Indian government, but received internal sovereignty over the state. The <b>'Principal State of Manipur Constitution Act, 1947'</b> was passed, giving the princely state its own constitution, although this did not become known in other parts of India due to the relative isolation of the state. The Indian government did not recognize the Manipur Constitution.<br>On September 21, 1949, the Maharaja was forced to sign an agreement to merge his princely state with the Indian Union, which came into force on October 15 of the same year. As a result of this agreement, the princely state of Manipur was included in the Indian Union as a Part C state (similar to the Chief Commissioner's Province under the colonial regime, later called a Union Territory), which was governed by a Chief Commissioner appointed by the Government of India. The Manipur representative assembly was abolished.<br>Dissatisfied with central rule, Rishan Keishing (1920–2017) started a movement for representative government in Manipur in 1954. However, the Indian Home Minister stated that the time had not yet come for the establishment of representative assemblies in Part C states like Manipur and Tripura, arguing that they were located in the strategic border areas of India, that the people were politically backward and that the administration in these states is still weak. However, Manipur was given a significant measure of local government under the Territorial Councils Act 1956, a legislature and Council of Ministers in 1963, and full statehood in 1972.</p>",
+			"description_ru" : "<p>Древнее независимое королевство на границе Индии и Бирмы. С 1824 года — вассальное государство Британской Ост-Индской компании, а с 1891 года — туземное княжество в составе Британской Индии. Манипур граничил с провинцией Ассам на западе и Британской Бирмой на востоке. В XX веке княжество Манипур занимало площадь в 22 327 квадратных километров (8621 квадратных миль). Столицей государства был Импхал.</p><p>15 августа 1947 года, по истечении срока полномочий Британской Короны, Манипур ненадолго стал «независимым», то есть свободным от контроля со стороны губернатора Ассама. Но Махараджа уже присоединился к Индии 11 августа, в результате чего он уступил три предмета, а именно оборону, внешние дела и связь индийскому правительству, но получил внутренний суверенитет над государством. Был принят <b>«закон о Конституции княжества Манипур 1947 года»</b>, дающий княжеству его собственную конституцию, хотя это не стало известно в других частях Индии из-за относительной изоляции государства. Правительство Индии не признало Манипурскую конституцию.<br>21 сентября 1949 года Махараджа был вынужден подписать соглашение о слиянии своего княжества с Индийским союзом, которое вступило в силу 15 октября того же года. В результате этого соглашения княжество Манипур было включено в Индийский союз в качестве штата части С (аналогично провинции главного комиссара при колониальном режиме, позже названной союзной территорией), который управлялся главным комиссаром, назначаемым правительством Индии. Представительное собрание Манипура было упразднено.<br>Недовольный центральным правлением, Ришан Кейшинг (1920—2017) начал движение за представительное правительство в Манипуре в 1954 году. Вместе с тем министр внутренних дел Индии заявил, что еще не настало время для создания представительных собраний в таких государствах части С, как Манипур и Трипура, утверждая, что они расположены в стратегических пограничных районах Индии, что народ является политически отсталым и что администрация в этих государствах все еще слаба. Однако в соответствии с Законом о территориальных советах 1956 года Манипуру была предоставлена существенная мера местного самоуправления, в 1963 году — законодательный орган и Совет министров, а в 1972 году — полная государственность</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Manipur_(princely_state)",
+					"label": "Manipur - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Manipur_State_Constitution_Act_1947",
+					"label": "Manipur State Constitution Act 1947 - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D1%80_(%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE)",
+					"label": "Манипур - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Manipur_State_Constitution_Act_1947",
+					"label": "Закон о Конституции княжества Манипур 1947 года - Википедия [en]"
+				}
+			]
+		}, 
+		{
+			"id": "Kashmir",
+			"name": "Azad Jammu and Kashmir",
+			"name_ru": "Государство Азад Джамму и Кашмир",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Azad_Kashmir.svg",
+			"flag_cc": "Himasaram, Public domain, via Wikimedia Commons",
+			"description": "<p>The southernmost administrative unit within the Pakistani-ruled portion of the former princely state of Kashmir. It is de facto part of Pakistan, although it officially recognizes Pakistan as <b>'a self-governing state with its own elected president, prime minister, legislative assemblies, supreme court and flag'.</b> It borders the modern Indian territory of Jammu and Kashmir, as well as the Pakistani provinces of Khyber Pakhtunkhwa in the west, Gilgit-Baltistan in the north and Punjab in the south. At the same time, India claims the territory of Azad Kashmir and officially considers it the western part of its union territory. Jammu and Kashmir The administrative center is the city of Muzaffarabad.</p><p>Free Kashmir was proclaimed in October 1947 in protest against the unpopular Maharaja Hari Singh in Kashmir. After the <b>First Indo-Pakistani War</b>, today's de facto borders were formed, including only the western parts of the geographical regions of Kashmir and Jammu. According to UN resolutions, the status of Kashmir must be determined through a plebiscite or referendum; India abandoned the idea of ​​holding a second, explaining that the decision of the local council, which agreed to be part of India, is a substitute for a plebiscite. Until a real plebiscite is held, Azad Kashmir is actually a province of Pakistan. Formally, Azad Kashmir was not separated from the state of Jammu and Kashmir, and the existence of the free state of Jammu and Kashmir is characterized as temporary until the entire territory becomes part of Pakistan. The partition of Jammu and Kashmir along religious lines, proposed by UN envoy Sir Owen Dixon in September 1950, was rejected by both India and Pakistan. In 2019, India divided the state of Jammu and Kashmir into two union territories: Ladakh and Jammu and Kashmir, the latter of which formally included the territory of Azad Kashmir.</p>",
+			"description_ru" : "<p>Самая южная административная единица в пределах управляемой пакистанцами части прежнего княжества Кашмир. Де-факто является частью Пакистана, хотя официально признаётся Пакистаном в качестве <b>«самоуправляемого государства со своим избираемым президентом, премьер-министром, законодательным собранием, верховным судом и официальным флагом».</b> Граничит с современной индийской территорией Джамму и Кашмир, а также с пакистанскими провинциями Хайбер-Пахтунхва на западе, Гилгит-Балтистан на севере и Пенджабом на юге. При этом Индия претендует на территорию Азад-Кашмира и официально считает её западной частью своей союзной территории Джамму и Кашмир. Административный центр — город Музаффарабад.</p><p>Свободный Кашмир провозглашён в октябре 1947 года в знак протеста против непопулярного в Кашмире махараджи Хари Сингха. После <b>Первой индо-пакистанской войны</b> сложились сегодняшние фактические границы, включающие лишь западные части географических регионов Кашмир и Джамму. Согласно резолюциям ООН, статус Кашмира должен определиться путём плебисцита или референдума; от идеи проведения второго Индия отказалась, разъяснив, что решение местного совета, давшего согласие на нахождение в составе Индии, является заменой плебисцита. Пока же настоящий плебисцит не проведён, Азад-Кашмир фактически является провинцией Пакистана. Формально Азад-Кашмир не отделялся от штата Джамму и Кашмир, а существование свободного штата Джамму и Кашмир характеризуется как временное, пока вся территория не перейдёт в состав Пакистана. Раздел Джамму и Кашмира по религиозному признаку, предложенный посланником ООН сэром Оуэном Диксоном в сентябре 1950 года, отклонён и Индией, и Пакистаном. В 2019 году Индия разделила штат Джамму и Кашмир на две союзные территории: Ладакх и Джамму и Кашмир, к последней из которых формально и была отнесена территория Азад-Кашмира.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Azad_Kashmir",
+					"label": "Azad Jammu and Kashmir - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Indo-Pakistani_war_of_1947%E2%80%931948",
+					"label": "Indo-Pakistani war of 1947–1948 - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%B0%D0%B4-%D0%9A%D0%B0%D1%88%D0%BC%D0%B8%D1%80",
+					"label": "Государство Азад Джамму и Кашмир - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%B8%D0%BD%D0%B4%D0%BE-%D0%BF%D0%B0%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0",
+					"label": "Первая индо-пакистанская война - Википедия"
+				}
+			]
+		}, 
+		{
+			"id": "Gorkhaland",
+			"name": "Gorkhaland",
+			"name_ru": "Горкхаланд",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Gurkhaland.svg",
+			"flag_cc": "Washiucho, Public domain, via Wikimedia Commons",
+			"description": "<p>The area near the city of Darjeeling and in the dooars in the northern state of West Bengal, inhabited by Gurkhas who speak the Nepali language. The campaign for Gurkha self-determination began in the 1980s at the initiative of the <b>Gorkha National Liberation Front</b>, led by Subash Ghising, the author of the Gorkhaland Organizing Project. According to Ghising's plan, Gorkhaland was to be a separate state in India, independent of West Bengal.</p><p>In 2008, the <b>Gorkha Janmukti Morcha</b> party was formed, again making demands for a separate state (not subordinate to West Bengal), which were categorically rejected by the government of West Bengal and the central government of India. According to the party's proposal, the entire territory of the Darjeeling district, as well as a significant part of the Jalpaiguri district, should now be included in Gorkhaland.</p>",
+			"description_ru" : "<p>Территория около города Дарджилинг и в дуарах на севере штата Западная Бенгалия, которую населяют гуркхи, говорящие на языке непали. Кампания с требованиями самоопределения гуркхов началась в 1980-е годы по инициативе <b>Национального фронта освобождения гуркхов</b>, который возглавлял Субаш Гхисинг, автор проекта организации Горкхаланда. По замыслу Гхисинга Горкхаланд должен был представлять собой отдельный штат в Индии, независимый от Западной Бенгалии.</p><p>В 2008 году образовалась партия <b>Гуркха Джанмукти Морча</b>, выступившая снова с требованиями отдельного штата (не подчинённого Западной Бенгалии), которые были категорически отвергнуты правительством Западной Бенгалии и центральным правительством Индии. По предложению партии в Горкхаланд должна быть включена теперь уже вся территория округа Дарджилинг, а также значительная часть округа Джалпайгури.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Gorkhaland_movement",
+					"label": "Gorkhaland movement - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Gorkha_National_Liberation_Front",
+					"label": "Gorkha National Liberation Front - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Gorkha_Janmukti_Morcha",
+					"label": "Gorkha Janmukti Morcha - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BA%D1%85%D0%B0%D0%BB%D0%B0%D0%BD%D0%B4",
+					"label": "Горкхаланд - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82_%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D1%85_%D0%B3%D1%83%D1%80%D0%BA%D1%85%D0%BE%D0%B2_%D0%94%D0%B0%D1%80%D0%B4%D0%B6%D0%B8%D0%BB%D0%B8%D0%BD%D0%B3%D0%B0",
+					"label": "Совет горных гуркхов Дарджилинга - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Gorkha_Janmukti_Morcha",
+					"label": "Гуркха Джанмукти Морча - Википедия [en]"
+				}
+			]
+		}, 
+		{
+			"id": "Assam",
+			"name": "Assam",
+			"name_ru": "Ассам",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_United_Liberation_Front_of_Asom.svg",
+			"flag_cc": "Simbu123, CC0, via Wikimedia Commons",
+			"description": "<p>A state in eastern India with its capital in Dispur.</p><p>When India gained independence in 1947, Assam became a large state comprising the northeastern regions of India. Assam turned out to be an extremely unstable entity; numerous rebel groups, national liberation movements, separatist movements, from moderate to radical and terrorist, operated and are still active in it.<br>Later, as separatism grew, Assam began to crumble. Now the territory of the former Assam and its dependent states is occupied by the “seven sisters” - Assam itself, Manipur, Tripura, Mizoram, Meghalaya, Nagaland and Arunachal Pradesh. Each of these states was formed in the process of many years of struggle for independence and self-determination, some of them for a long time carried the subordinate status of “Group C Province” or “Union Territory”. <b>The Sino-Indian Border War of 1962</b> led to the formation of the state of Arunachal Pradesh, which was carved out of Assam. At the same time, China considers a significant part of the territory of this state to be its own and does not recognize the jurisdiction of India.<br>The situation was also complicated by the influx of refugees from Bangladesh. In 1961, the government began to fight for the compulsory use of the Assamese language, trying to squeeze Bengali speakers out of the state to Cachar. From 1979 to 1985, the Brahmaputra Valley witnessed a six-year <b>'Assam for Assamese'</b> campaign, accompanied by a struggle for votes and election rights to government bodies. This campaign led to the expulsion of migrants back to Bangladesh. The campaign ended under pressure from the Indian central government.<br>Despite the formation of new states, separatism in the late seventies in the remaining Assam increased sharply and took the form of armed struggle. The activity of the <b>United Liberation Front of Assam (ULFA)</b> and the <b>National Democratic Front of Bodoland (NDFB)</b> increased. Since November 1990, the Indian army began to conduct military operations, but the conflict dragged on for many years. years. The number of national armed groups has increased.",
+			"description_ru" : "<p>Штат на востоке Индии со столицей в Диспуре.</p><p>Когда в 1947 году Индия обрела независимость, Ассам стал большим штатом, объединяющим северо-восточные районы Индии. Ассам оказался крайне нестабильным образованием, в нём действовали и действуют до сих пор многочисленные повстанческие группы, национально-освободительные движения, сепаратистские движения, от умеренных до радикальных и террористических.<br>В дальнейшем, по мере роста сепаратизма, Ассам стал рассыпаться. Теперь территорию бывшего Ассама и зависимых от него государств занимают «семь сестёр» — собственно Ассам, Манипур, Трипура, Мизорам, Мегхалая, Нагаленд и Аруначал-Прадеш. Каждый из этих штатов был образован в процессе многолетней борьбы за независимость и самоопределение, некоторые из них долгое время носили подчинённые статусы «провинции группы С» или «Союзной Территории». <b>Китайско-индийская пограничная война 1962 года</b> привела к образованию штата Аруначал-Прадеш, выделившегося из Ассама. Китай при этом считает значительную часть территории этого штата своей и не признаёт юрисдикции Индии.<br>Ситуация осложнялась также притоком беженцев из Бангладеш. В 1961 году правительство стало бороться за обязательность использования ассамского языка, пытаясь выдавливать из штата говорящих на бенгальском в Качар. В 1979—1985 годах в долине Брахмапутры проводилась шестилетняя кампания <b>«Ассам для ассамцев»</b>, сопровождаемая борьбой за голоса и права выбора в органы власти. Эта кампания привела к выдворению мигрантов обратно в Бангладеш. Кампания прекратилась под давлением центрального правительства Индии.<br>Несмотря на образование новых штатов, сепаратизм в конце семидесятых годов в оставшемся Ассаме резко возрос и принял форму вооружённой борьбы. Увеличил активность <b>Объединённый фронт освобождения Ассама</b> и <b>Национально-демократический фронт Бодоланда.</b> С ноября 1990 индийская армия стала проводить военные операции, однако конфликт от этого затянулся на многие годы. Выросло количество национальных вооружённых группировок.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Assam",
+					"label": "Assam - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Sino-Indian_War",
+					"label": "Sino-Indian War - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/United_Liberation_Front_of_Asom",
+					"label": "United Liberation Front of Assam - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Assam_separatist_movements",
+					"label": "Assam separatist movements - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Assam_Movement",
+					"label": "Assam Movement (Anti-Foreigners Agitation) - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%B0%D0%BC",
+					"label": "Ассам - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%BE-%D0%B8%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_(1962)",
+					"label": "Китайско-индийская пограничная война (1962) - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%84%D1%80%D0%BE%D0%BD%D1%82_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%90%D1%81%D1%81%D0%B0%D0%BC%D0%B0",
+					"label": "Объединённый фронт освобождения Ассама - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Assam_separatist_movements",
+					"label": "Сепаратистские движения Ассама - Википедия [en]"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Assam_Movement",
+					"label": "Движение Ассама против иностранцев - Википедия [en]"
+				}
+			]
+		}, 
+		{
+			"id": "Chittagong",
+			"name": "Chittagong Hill Tracts",
+			"name_ru": "Читтагонгский горный район",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Parbatya_Chattagram_Jana_Samhati_Samiti_%28PCJSS%29.png",
+			"flag_cc": "Indigenous Zombie, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+			"description": "<p>The territory in the southeast of Bangladesh on the border with India and Myanmar, the only mountainous region in the country. Until 1984, it was a separate administrative unit; after 1984, it was divided into three districts: Khagrachhari, Rangamati and Bandarban.</p><p>During the constitutional debates, Mujibur Rahman, the father of the nation and the then Prime Minister of the country, emphasized the exclusive primacy of Bengali culture and language in the new state. Bangladesh was declared a unitary state. The constitution also stated that the citizens of Bangladesh are Bengalis. Manabendra Narayan Larma, the only representative from the Chittagong Hill Tracts in Parliament, refused to assent to the constitution because it did not recognize the existence of other ethnic communities in the state.<br>Manabendra Narayan Larma proposed his own version of the constitution, which would spell out autonomy for the tribal region. However, this option was rejected by Sheikh Mujibur Rahman, who urged the residents to become Bengalis and forget about their tribal identity. Rahman also said that he would turn the tribal people into a minority in the mountainous region by resettling the Bengalis.<br>Bangladesh itself has long been a victim of Pakistani nationalism, which ultimately led to a bloody people's liberation struggle. Paradoxical as it may seem, the leadership of Bangladesh itself began to pursue a policy of nationalism towards the country's national minorities.</p>",
+			"description_ru" : "<p>Территория на юго-востоке Бангладеш на границе с Индией и Мьянмой, единственный горный район в стране. До 1984 года представлял собой отдельную административную единицу, после 1984 года был разделён на три округа: Кхаграчхари, Рангамати и Бандарбан.</p><p>Во время конституционных дебатов Муджибур Рахман, отец нации и тогдашний премьер-министр страны, подчеркнул исключительное первенство бенгальской культуры и языка в новом государстве. Бангладеш был провозглашен унитарным государством. В конституции также было прописано, что граждане Бангладеш являются бенгальцами. Манабендра Нараян Ларма, единственный представитель от Читтагонгского горного региона в парламенте, отказался одобрить конституцию, так как она не признавала существование других национальных общин в государстве.<br>Манабендра Нараян Ларма предложил свой вариант конституции, в которой была бы прописана автономия для племенного региона. Однако этот вариант был отвергнут Шейхом Муджибуром Рахманом, который призвал жителей стать бенгальцами и забыть о своей племенной идентичности. Также Рахман заявил, что превратит племенных жителей в меньшинство в горном регионе, путём переселения бенгальцев.<br>Бангладеш сам долгое время был жертвой пакистанского национализма, что в итоге привело к кровопролитной народно-освободительной борьбе. Как это ни парадоксально, но руководство Бангладеш само начало проводить политику национализма по отношению к национальным меньшинствам страны.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Chittagong_Hill_Tracts",
+					"label": "Chittagong Hill Tracts - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Bangladesh_Liberation_War",
+					"label": "Bangladesh Liberation War - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Chittagong_Hill_Tracts_conflict",
+					"label": "Chittagong Hill Tracts conflict - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Parbatya_Chattagram_Jana_Samhati_Samiti",
+					"label": "Parbatya Chattagram Jana Samhati Samiti - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Shanti_Bahini",
+					"label": "Shanti Bahini - armed wing of PCJSS - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%82%D1%82%D0%B0%D0%B3%D0%BE%D0%BD%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD",
+					"label": "Читтагонгский горный район - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B7%D0%B0_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%91%D0%B0%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B5%D1%88",
+					"label": "Война за независимость Бангладеш - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82_%D0%B2_%D0%A7%D0%B8%D1%82%D1%82%D0%B0%D0%B3%D0%BE%D0%BD%D0%B3%D1%81%D0%BA%D0%BE%D0%BC_%D0%B3%D0%BE%D1%80%D0%BD%D0%BE%D0%BC_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B5",
+					"label": "Конфликт в Читтагонгском горном районе - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Parbatya_Chattagram_Jana_Samhati_Samiti",
+					"label": "Объединенная народная партия горного района Читтагонг - Википедия [en]"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Shanti_Bahini",
+					"label": "Повстанческая группировка Шанти-бахини - Википедия [en]"
+				}
+			]
+		}
+    ]  
+}

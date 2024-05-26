@@ -1,0 +1,292 @@
+{
+    "name": "North America",
+    "name_ru": "Северной Америки",
+    "viewPath": "./resources/map/states/north-america.svg",
+    "unrec": [
+	{
+	    "id": "Martinique",
+	    "name": "Martinique",
+	    "name_ru": "Мартиника",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag-of-Martinique.svg",
+	    "flag_cc": "User:MapGrid/User:HapHaxion/User:Femfem5/User:Triton, based on work by User:Carport, Public domain, via Wikimedia Commons",
+	    "description": "<p>An island in the central part of the Lesser Antilles archipelago, located in the Caribbean Sea of ​​the Atlantic Ocean. Administratively, it is a region and at the same time an overseas department of France. Governed by a prefect, there is a General Council.</p><p>In 1946, the French National Assembly voted unanimously to transform the colony into an Overseas Department of France. Meanwhile, the post-war period saw a growing campaign for full independence; a notable proponent of this was the author Aimé Césaire, who founded the <b>Progressive Party of Martinique</b> in the 1950s. Tensions boiled over in December 1959 when riots broke out following a racially-charged altercation between two motorists, resulting in three deaths. In 1962, as a result of this and the global turn against colonialism, the strongly pro-independence OJAM (Organisation de la jeunesse anticolonialiste de la Martinique) was formed. Its leaders were later arrested by the French authorities. However, they were later acquitted. Tensions rose again in 1974, when gendarmes shot dead two striking banana workers. However the independence movement lost steam as Martinique's economy faltered in the 1970s, resulting in large-scale emigration. Hurricanes in 1979–80 severely affected agricultural output, further straining the economy. Greater autonomy was granted by France to the island in the 1970s–80s.</p><p>In 2009, Martinique was convulsed by the <b>French Caribbean general strikes.</b> Initially focusing on cost-of-living issues, the movement soon took on a racial dimension as strikers challenged the continued economic dominance of the Béké, descendants of French European settlers. President Nicolas Sarkozy later visited the island, promising reform. While ruling out full independence, which he said was desired neither by France nor by Martinique, Sarkozy offered Martiniquans a referendum on the island's future status and degree of autonomy.</p><p>On 2 February 2023, Martinique adopted its independent activist flag, symbolising its three colors of Pan-Africanism.</p>",
+	    "description_ru" : "<p>Остров в центральной части архипелага Малые Антильские острова, расположенного в Карибском море Атлантического океана. Административно является регионом и одновременно заморским департаментом Франции. Управляется префектом, есть Генеральный совет.</p><p>В 1946 году Национальное собрание Франции единогласно проголосовало за преобразование колонии в заморский департамент Франции. Между тем, в послевоенный период усилилась кампания за полную независимость; ярким сторонником этого был писатель Эме Сезер, основавший <b>Прогрессивную партию Мартиники</b> в 1950-х годах. Напряженность достигла пика в декабре 1959 года, когда после ссоры на расовой почве между двумя автомобилистами вспыхнули беспорядки, в результате которых погибли три человека. В 1962 году в результате этого и глобального поворота против колониализма была сформирована решительно выступающая за независимость 'Организация молодых антиколониалистов Мартиники'. Позднее ее лидеры были арестованы французскими властями. Однако позже они были оправданы. Напряженность снова возросла в 1974 году, когда жандармы застрелили двух бастующих рабочих. Однако движение за независимость зашло в тупик, поскольку в 1970-х годах экономика Мартиники пришла в упадок, что привело к крупномасштабной эмиграции. Ураганы 1979–1980 годов серьезно повлияли на сельскохозяйственное производство, что еще больше ухудшило экономику. Большая автономия была предоставлена ​​Францией острову в 70–х 80-х годах.</p><p>В 2009 году Мартинику потрясли <b>всеобщие забастовки во Франции и Карибском бассейне.</b> Первоначально сосредоточившись на вопросах стоимости жизни, движение вскоре приобрело расовый характер, поскольку забастовщики бросили вызов продолжающемуся экономическому доминированию беке, потомков французских европейских поселенцев. Позднее остров посетил президент Николя Саркози, обещая реформы. Исключив полную независимость, которой, по его словам, не желают ни Франция, ни Мартиника, Саркози предложил жителям Мартиники провести референдум о будущем статусе острова и степени автономии.</p><p>2 февраля 2023 года Мартиника приняла флаг активистов за независимость, символизирующий три цвета панафриканизма.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Martinique",
+				"label": "Martinique - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Martinican_Progressive_Party",
+				"label": "Martinican Progressive Party - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/2009_French_Caribbean_general_strikes",
+				"label": "2009 French Caribbean general strikes - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0",
+				"label": "Мартиника - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B8%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F",
+				"label": "Мартиникская прогрессивная партия - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B8%D0%BA%D0%B5_%D0%B8_%D0%93%D0%B2%D0%B0%D0%B4%D0%B5%D0%BB%D1%83%D0%BF%D0%B5_(2009)",
+				"label": "Массовые беспорядки на Мартинике и Гваделупе (2009) - Википедия"
+			}
+		]
+	},
+	{
+	    "id": "Guadeloupe",
+	    "name": "Guadeloupe",
+	    "name_ru": "Гваделупа",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Guadeloupe_%28UPLG%29.svg",
+	    "flag_cc": "Himasaram, Public domain, via Wikimedia Commons",
+	    "description": "<p>A region and at the same time an overseas department of France in the West Indies, in the eastern part of the Caribbean Sea, with a total area of ​​1628 km². The overseas department of Guadeloupe includes the islands of Basse-Terre and Grande-Terre, separated by the narrow Rivière-Salé Strait, also known collectively as 'Guadeloupe'. The department is governed by a prefect appointed by the French government and has an elected General Council. Guadeloupe is represented in the Parliament of the French Republic by three deputies and two senators.</p><p>Tensions arose in the post-war era over the social structure of Guadeloupe and its relationship with mainland France. The 'Massacre of St Valentine' occurred in 1952, when striking factory workers in Le Moule were shot at by the Compagnies républicaines de sécurité, resulting in four deaths. In May 1967 racial tensions exploded into rioting following a racist attack on a black Guadeloupean, Raphael Balzinc, resulting in eight deaths.</p><p>An independence movement grew in the 1970s, prompting France to declare Guadeloupe a French region in 1974. The <b>Union populaire pour la libération de la Guadeloupe (UPLG)</b> campaigned for complete independence, and by the 1980s the situation had turned violent with the actions of groups such as <b>Groupe de libération armée (GLA)</b> and <b>Alliance révolutionnaire caraïbe (ARC).</b></p><p>Greater autonomy was granted to Guadeloupe in 2000. Through a referendum in 2003, Saint-Martin and Saint Barthélemy voted to separate from the administrative jurisdiction of Guadeloupe, this being fully enacted by 2007.</p><p>In January 2009, labour unions and others known as the <b>Liyannaj Kont Pwofitasyon</b> went on <b>strike</b> for more pay. Strikers were angry with low wages, the high cost of living, high levels of poverty relative to mainland France and levels of unemployment that are amongst the worst in the European Union. The situation quickly escalated, exacerbated by what was seen as an ineffectual response by the French government, turning violent and prompting the deployment of extra police after a union leader (Jacques Bino) was shot and killed. The strike lasted 44 days and had also inspired similar actions on nearby Martinique. President Nicolas Sarkozy later visited the island, promising reform.</p>",
+	    "description_ru" : "<p>Регион и одновременно заморский департамент Франции в Вест-Индии, в восточной части Карибского моря, общей площадью 1628 км². В состав заморского департамента Гваделупа входят острова Бас-Тер и Гранд-Тер, разделённые узким проливом Ривьер-Сале, известные также под общим названием 'Гваделупа'. Департамент управляется префектом, назначаемым французским правительством, имеется выборный Генеральный совет. Гваделупа представлена в парламенте Французской республики тремя депутатами и двумя сенаторами.</p><p>В послевоенную эпоху возникла напряженность из-за социальной структуры Гваделупы и ее отношений с материковой Францией. «Резня Святого Валентина» произошла в 1952 году, когда бастующие рабочие фабрики в Ле-Муле были обстреляны республиканскими компаниями безопасности, в результате чего четыре человека погибли. В мае 1967 года расовая напряженность переросла в беспорядки после расистского нападения на чернокожего жителя Гваделупы Рафаэля Бальцинка, в результате которого погибло восемь человек.</p><p>Движение за независимость возросло в 1970-х годах, что побудило Францию ​​объявить Гваделупу французским регионом в 1974 году. <b>'Народный союз за освобождение Гваделупы'</b> проводил кампанию за полную независимость, и к 1980-м годам ситуация приобрела насильственный характер из-за действий таких групп, как <b>'Groupe de libération armée'</b> и <b>'Карибский революционный альянс'.</b></p><p>Большая автономия была предоставлена ​​Гваделупе в 2000 году. На референдуме 2003 года Сен-Мартен и Сен-Бартелеми проголосовали за отделение от административной юрисдикции Гваделупы, и это решение полностью вступило в силу к 2007 году.</p><p>В январе 2009 года профсоюзы и другие организации, известные как <b>Liyannaj Kont Pwofitasyon</b>, объявили забастовку с требованием повышения заработной платы. Бастующие были недовольны низкой заработной платой, высокой стоимостью жизни, высоким уровнем бедности по сравнению с материковой Францией и уровнем безработицы, который является одним из самых высоких в Европейском Союзе. Забастовка длилась 44 дня и спровоцировала аналогичные действия на соседней Мартинике. Позднее остров посетил президент Николя Саркози, обещая реформы.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Guadeloupe",
+				"label": "Guadeloupe - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/People%27s_Union_for_the_Liberation_of_Guadeloupe",
+				"label": "People's Union for the Liberation of Guadeloupe - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Caribbean_Revolutionary_Alliance",
+				"label": "Caribbean Revolutionary Alliance - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/2009_French_Caribbean_general_strikes",
+				"label": "2009 French Caribbean general strikes - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B2%D0%B0%D0%B4%D0%B5%D0%BB%D1%83%D0%BF%D0%B0",
+				"label": "Гваделупа - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%93%D0%B2%D0%B0%D0%B4%D0%B5%D0%BB%D1%83%D0%BF%D1%8B",
+				"label": "Народный союз освобождения Гваделупы - Википедия"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Caribbean_Revolutionary_Alliance",
+				"label": "Карибский революционный альянс - Википедия [en]"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B1%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B8%D0%BA%D0%B5_%D0%B8_%D0%93%D0%B2%D0%B0%D0%B4%D0%B5%D0%BB%D1%83%D0%BF%D0%B5_(2009)",
+				"label": "Массовые беспорядки на Мартинике и Гваделупе (2009) - Википедия"
+			}
+		]
+	},
+	{
+	    "id": "Republic_of_Molossia",
+	    "name": "Republic of Molossia",
+	    "name_ru": "Республика Молоссия",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Flag_of_Molossia.svg",
+	    "flag_cc": "Himasaram, Public domain, via Wikimedia Commons8938e, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+	    "description": "<p>A state founded near the city of Dayton, Nevada, USA, in 1977 by James Spielman (King James I) and Kevin Boe (Prime Minister).</p><p>Laws and regulations of Molossia include compulsory military service, the death penalty, freedom of speech, and a smoking ban.  The population of the state is 38 people, including the President Kevin Bo himself, his wife and two children.  Also on the territory of Molossia live 3 dogs, a cat and a rabbit.  Moreover, Molossia officially has a space and nuclear program.</p>",
+	    "description_ru" : "<p>Государство, основанное недалеко от города Дейтон, штат Невада, США, в 1977 году Джеймсом Спилманом (Король Джеймс I) и Кевином Бо (премьер-министр).</p><p>Законы и правила в Молоссии включают обязательную военную службу, смертную казнь, свободу слова и запрет на курение. Население государства составляет 38 человек, среди которых сам президент Кевин Бо, его жена и двое детей. Также на территории Молоссии проживают 3 собаки, кот и кролик. При этом официально Молоссия даже имеет космическую и ядерную программу.</p>",
+	    "links": [
+			{
+				"link": "https://en.m.wikipedia.org/wiki/Republic_of_Molossia",
+				"label": "Republic of Molossia - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.m.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D1%81%D1%81%D0%B8%D1%8F",
+				"label": "Республика Молоссия - Википедия"
+			}
+		]
+	},
+	{
+	    "id": "Republic_of_Lakotah",
+	    "name": "Republic of Lakotah",
+	    "name_ru": "Республика Лакота",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Pine_Ridge_Flag.svg",
+	    "flag_cc": "Himasaram, Public domain, via Wikimedia Commons",
+	    "description": "<p>A state proclaimed by a group of Indian activists led by Russell Means. On behalf of the Lakotah Republic, claims were made to part of the US territory, which is considered the homeland of the Lakotah tribes, including parts of the states of North Dakota, South Dakota, Nebraska, Wyoming and Montana. It gained the greatest popularity due to its unconditional anti-american orientation.</p><p>The Lakotah Republic was proclaimed on December 17, 2007 by Native American activist Russell Means and the <b>Lakotah Freedom Movement.</b> The proclamation announced the termination of treaties between the Lakotah people and the US federal government, sending notification of this to the US State Department. In the period from December 17 to 19, the so-called. The Lakotah Freedom delegation applied for recognition of independence to the embassies of several countries: Chile, Bolivia, Venezuela and the Republic of South Africa. It was also announced the renunciation of US citizenship and complete tax exemption for everyone who recognizes themselves as a citizen of the Lakotah Republic.</p><p>At the beginning of 2008, a split occurred among activists of the Lakotah Republic as a result of 'personal contradictions', as a result of which Chanupa Gluha Mani, an active participant in the declaration of independence, organized an alternative community - 'Lakotah Oyate' ('Lakotah Nation').</p>",
+	    "description_ru" : "<p>Государство, провозглашённое группой индейских активистов во главе с Расселом Минсом. От имени Республики Лакота были выдвинуты претензии на часть территории США, которая считается родиной племён лакота, в том числе — части штатов Северная Дакота, Южная Дакота, Небраска, Вайоминг и Монтана. Наибольшую известность получило из-за своей безусловной антиамериканской направленности.</p><p>Республика Лакота провозглашена 17 декабря 2007 года индейским активистом Расселом Минсом и <b>движением за свободу Лакота.</b> При провозглашении было объявлено о расторжении договоров между народом Лакота и федеральным правительством США, направлении уведомления об этом в Государственный департамент США. В период с 17 по 19 декабря т. н. Делегация Свободы Лакота обратилась с просьбой о признании независимости в посольства ряда стран: Чили, Боливии, Венесуэлы и Южно-Африканской Республики. Также было заявлено об отказе от гражданства США и полном освобождении от налогов всех, кто признает себя гражданином Республики Лакота.</p><p>В начале 2008 года среди активистов Республики Лакота в результате 'личных противоречий' произошёл раскол, в результате которого Чанупа Глуха Мани, активный участник провозглашения независимости, организовал альтернативное сообщество — 'Лакота Ояте' ('Нация Лакота').</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Republic_of_Lakotah_proposal",
+				"label": "Republic of Lakotah - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Russell_Means",
+				"label": "Russell Means - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9B%D0%B0%D0%BA%D0%BE%D1%82%D0%B0",
+				"label": "Республика Лакота - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D1%81,_%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BB",
+				"label": "Рассел Минс - Википедия"
+			}
+		]
+	},
+	{
+	    "id": "Conch_Republic",
+	    "name": "Conch Republic",
+	    "name_ru": "Республика Конк",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Key_West%2C_Florida.svg",
+	    "flag_cc": "Jmckean, Public domain, via Wikimedia Commons",
+	    "description": "<p>A state founded on April 23, 1982 by the mayor of Key West, Dennis Wardlow, in the Florida Keys, USA.</p><p>U.S. authorities have established border patrols along US1, which links the archipelago to the mainland, to combat drugs and illegal immigrants. Key West city officials have repeatedly complained about the patrol causing huge traffic jams on the highway, disturbing travelers and tourists, but the complaints have gone unanswered. Then, on April 23, 1982, the mayor of Key West, Dennis Wardlaw, declared the archipelago an independent republic, arguing that the US authorities had set up an analogue of the border checkpoint between them and the mainland. Dennis Wardlaw became the country's first president. After reading the declaration of secession from the United States, he declared war on the United States, symbolically breaking a loaf of stale Cuban bread over the head of a man in a US Navy uniform. A minute later, Dennis Wardlow announced surrender and demanded one billion dollars in foreign aid. US authorities did not publicly respond to these events, but the patrol was removed. The uproar in the US media lasted for several days.</p><p>The Declaration of Independence has become a highlight that attracts new tourists to the Florida Keys. The republic issues its own passports, which are sold to tourists and everyone through the website.</p>",
+	    "description_ru" : "<p>Государство, основанное 23 апреля 1982 года мэром города Ки-Уэст Деннисом Уардлоу на архипелаге Флорида-Кис, США.</p><p>Власти США установили пограничный патруль на шоссе US1, связывающем архипелаг с материком, для борьбы с наркотиками и нелегальными иммигрантами. Власти города Ки-Уэст неоднократно жаловались на этот патруль, создающий огромные пробки на магистрали, мешающий путешественникам и туристам, но жалобы оставались без ответа. Тогда 23 апреля 1982 года мэр города Ки-Уэст Деннис Уардлоу объявил архипелаг независимой республикой, аргументировав это тем, что власти США устроили аналог пограничного пункта между ними и материком. Деннис Уардлоу и стал первым президентом страны. После зачтения декларации о выходе из США он объявил Соединённым Штатам войну, символически сломав буханку чёрствого кубинского хлеба о голову мужчины в форме военно-морского флота США. Через минуту Деннис Уардлоу объявил о капитуляции и потребовал иностранной помощи в размере одного миллиарда долларов. Власти США никак публично не отреагировали на эти события, но патруль был убран. Шумиха в средствах массовой информации США длилась несколько дней.</p><p>Провозглашение независимости стало 'изюминкой', привлекающей новых туристов во Флорида-Кис. Республика выпускает собственные паспорта, которые продаются туристам и всем желающим через web-сайт.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Conch_Republic",
+				"label": "Conch Republic - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D0%BE%D0%BD%D0%BA",
+				"label": "Республика Конк - Википедия"
+			}
+		]
+	},
+	{
+	    "id": "Vermont",
+	    "name": "Vermont",
+	    "name_ru": "Вермонт",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_the_Vermont_Republic.svg",
+	    "flag_cc": "Mysid at en.wikipedia, revised version first uploaded by Lexicon., Public domain, via Wikimedia Commons",
+	    "description": "<p>State in the northeastern United States. Located in the New England region. Part of the United States since 1791. One of the smallest states in the USA: in terms of territory (24,923 km²) - 45th. The capital is Montpelier. The official motto of the state is 'Liberty and Unity'.</p><p>On July 30, 1609, French explorer Samuel de Champlain declared Vermont part of New France and founded a fort, the first European settlement in Vermont. The first permanent settlement of the British was founded in 1724. The loss of French possessions in North America that followed the Seven Years' War and the end of the war attracted settlers to Vermont.</p><p>The emergence of Vermont as a state entity is associated with a territorial dispute between the British provinces of New York and New Hampshire. From 1777 to 1791, Vermont existed as the <b>independent Republic of Vermont</b>, where one of the first and most advanced written constitutions was adopted, which prohibited slavery, provided universal suffrage for all men, and guaranteed funding for public schools. On March 4, 1791, Vermont became part of the United States of America, becoming the fourteenth state.</p><p>There is currently a political group in the state called <b>Second Republic of Vermont</b>, advocating for the peaceful re-establishment of an independent Republic of Vermont.</p>",
+	    "description_ru" : "<p>Штат на северо-востоке США. Расположен в регионе Новая Англия. В составе США с 1791 года. Один из самых маленьких штатов США: по площади территории (24 923 км²) — 45-й. Столица — Монтпилиер. Официальный девиз штата — 'Свобода и единство'.</p><p>30 июля 1609 года французский исследователь Самуэль де Шамплен объявил Вермонт частью Новой Франции и основал форт — первое поселение европейцев в Вермонте. Первое постоянное поселение британцев было основано в 1724. Последовавшая за Семилетней войной потеря Францией владений в Северной Америке и окончание войны привлекли в Вермонт переселенцев.</p><p>Появление Вермонта как государственного образования связано с территориальным спором между британскими провинциями Нью-Йорк и Нью-Гэмпшир. С 1777 по 1791 год Вермонт существовал как <b>независимая Республика Вермонт</b>, где была принята одна из первых и наиболее передовых письменных конституций, запрещавшая рабство, дававшая всеобщее избирательное право для всех мужчин и гарантировавшая финансирование общеобразовательных школ. 4 марта 1791 Вермонт вошёл в состав Соединённых Штатов Америки, став четырнадцатым штатом.</p><p>В настоящее время в штате существует политическая группа <b>Вторая республика Вермонт</b>, выступающая за мирное воссоздание независимой Республики Вермонт.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Vermont_Republic",
+				"label": "Vermont Republic - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Second_Vermont_Republic",
+				"label": "Second Vermont Republic - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82",
+				"label": "Республика Вермонт - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%92%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82",
+				"label": "Вторая республика Вермонт - Википедия"
+			}
+		]
+	},
+	{
+	    "id": "Greenland",
+	    "name": "Greenland",
+	    "name_ru": "Гренландия",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg",
+	    "flag_cc": "Jeffrey Connell (IceKarma), Public domain, via Wikimedia Commons",
+	    "description": "<p>An autonomous territory that is part of the Kingdom of Denmark. Located on the island of Greenland between the Arctic and Atlantic oceans, east of the Arctic archipelago.</p><p>On November 25, 2008, a <b>referendum was held in Greenland on the issue of expanding the autonomy of the province of Greenland from Denmark.</b> 75.54% of those who took part in the vote were in favor of expanding self-government, 23.57% were against, with a turnout of 71.96% of the 39 thousand residents of the island with the right to vote.</p><p>On May 20, 2009, the Danish Parliament adopted a law on expanded autonomy for Greenland. Increased autonomy allowed the Greenlandic authorities to independently manage natural resources and directly subordinated them to the judiciary and law enforcement agencies, and also expanded their influence on Danish foreign policy concerning Greenland. On June 21, 2009, Greenland's expanded autonomy was officially proclaimed.</p>",
+	    "description_ru" : "<p>Автономная территория, входящая в Датское королевство. Расположена на острове Гренландия между Северным Ледовитым и Атлантическим океанами, к востоку от Арктического архипелага.</p><p>25 ноября 2008 года в Гренландии прошёл <b>референдум по вопросу расширения автономии провинции Гренландия от Дании.</b> За расширение самоуправления высказались 75,54 % принявших участие в голосовании, против — 23,57 %, при явке 71,96 % из 39 тысяч жителей острова, обладающих правом голоса.</p><p>20 мая 2009 года Датский парламент принял закон о расширенной автономии Гренландии. Расширение автономии позволило властям Гренландии самостоятельно распоряжаться природными ресурсами и напрямую подчинило им судебную систему и органы правопорядка, а также расширило их влияние на внешнюю политику Дании, касающуюся Гренландии. 21 июня 2009 года официально провозглашена расширенная автономия Гренландии.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Greenland",
+				"label": "Greenland - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/2008_Greenlandic_self-government_referendum",
+				"label": "2008 Greenlandic self-government referendum - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F_(%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B0)",
+				"label": "Гренландия - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D0%B4%D1%83%D0%BC_%D0%B2_%D0%93%D1%80%D0%B5%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%83_%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_(2008)",
+				"label": "Референдум в Гренландии по вопросу самоуправления - Википедия"
+			}
+		]
+	},
+	{
+	    "id": "Anguilla",
+	    "name": "Republic of Anguilla",
+	    "name_ru": "Республика Ангилья",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Flag_of_Anguilla_%281967%29.svg",
+	    "flag_cc": "BlinxTheKitty, CC0, via Wikimedia Commons",
+	    "description": "<p>State on the island of Anguilla. It existed from July 11, 1967 to March 18, 1969, until British control was restored.</p><p>On February 27, 1967, Great Britain granted the territory of St. Christopher-Nevis-Anguilla the status of an 'associated state' with its own constitution and a significant degree of self-government. Many Anguillians strongly objected to the continued political subjugation of St. Kitts, and on May 30, the St. Kitts police were expelled from the island. The Provisional Government requested the United States administration, which was rejected. On July 11, 1967, a <b>referendum was held on the separation of Anguilla from the young state.</b> As a result, 1813 votes were cast for secession and 5 against. The Declaration of Independence was read publicly by Walter Hodge.</p><p>On February 6, 1969, Anguilla held a <b>second referendum</b> that resulted in a vote of 1,739 to 4 against returning to association with St. Kitts. The next day, Anguilla declared itself an independent republic.</p><p>On 18 March 1969, a contingent of 315 infantrymen from the 16th Brigade, 2nd Parachute Battalion, Parachute Regiment, and 22 London police officers, were transported to the island by two frigates and landed by helicopter, ostensibly to 'restore order'. The British press called the operation a 'paper blitzkrieg' or 'war in a cup of tea'. The Chairman fled the island and eventually addressed the United Nations General Assembly, declaring that Anguilla should have the right to self-determination.</p>",
+	    "description_ru" : "<p>Государство на острове Ангилья. Она существовала с 11 июля 1967 по 18 марта 1969, до восстановления британского контроля.</p><p>27 февраля 1967 года Великобритания предоставила территории Сент-Кристофер-Невис-Ангилья статус 'ассоциированного государства' со своей собственной конституцией и значительной степенью самоуправления. Многие ангильцы решительно возражали против продолжающегося политического подчинения Сент-Китсу, и 30 мая полиция Сент-Китса была изгнана с острова. Временное правительство запросило администрацию Соединённых Штатов, которая была отклонена. 11 июля 1967 года был проведён <b>референдум об отделении Ангильи от молодого государства.</b> В результате было подано 1813 голосов за отделение и 5 против. Декларация независимости была публично прочитана Уолтером Ходжем.</p><p>6 февраля 1969 года Ангилья провела <b>второй референдум</b>, в результате которого 1739 голосами против 4 проголосовали против возвращения к ассоциации с Сент-Китсом. На следующий день Ангилья объявила себя независимой республикой.</p><p>18 марта 1969 года контингент из 315 пехотинцев 16 бригады 2-го парашютного батальона парашютного полка и 22 лондонских полицейских, был доставлен на остров двумя фрегатами и десантировался с помощью вертолётов, якобы для 'наведения порядка'. Британская пресса называла операцию 'бумажный блицкриг' или 'война в чашке чая'. Председатель бежал с острова и в конечном итоге обратился к Генеральной Ассамблее Организации Объединённых Наций, заявив, что Ангилья должна иметь право на самоопределение.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Republic_of_Anguilla",
+				"label": "Republic of Anguilla - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/1967_Anguillian_separation_referendum",
+				"label": "1967 Anguillian separation referendum - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/1969_Anguillian_constitutional_referendum",
+				"label": "1969 Anguillian constitutional referendum - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%90%D0%BD%D0%B3%D0%B8%D0%BB%D1%8C%D1%8F",
+				"label": "Республика Ангилья - Википедия"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/1967_Anguillian_separation_referendum",
+				"label": "Референдум об отделении Ангильи - Википедия [en]"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/1969_Anguillian_constitutional_referendum",
+				"label": "Anguillian constitutional referendum - Википедия [en]"
+			}
+		]
+	},
+	{
+	    "id": "Barbuda",
+	    "name": "Barbuda",
+	    "name_ru": "Барбуда",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_Barbuda.svg",
+	    "flag_cc": "CROIX, CC0, via Wikimedia Commons",
+	    "description": "<p>An island in the Caribbean Sea, in the Lesser Antilles group. It is one of the islands of the state of Antigua and Barbuda.</p><p>During the arrival of Columbus's second expedition to the island in 1493, it was inhabited by Arawaks. Early Spanish and French settlements went to Great Britain, which founded a colony on the island in 1666.</p><p>On November 1, 1981, the island gained independence as an integral part of Antigua and Barbuda, a member of the Commonwealth of Nations. In the 1989 elections, the <b>Barbuda Independence Movement</b> received too few votes to qualify for a seat in the national parliament.</p>",
+	    "description_ru" : "<p>Остров в Карибском море, в группе Малых Антильских островов. Является одним из островов государства Антигуа и Барбуда.</p><p>Во время прибытия на остров второй экспедиции Колумба в 1493 году он был заселён араваками. Ранние поселения испанцев и французов отошли Великобритании, которая в 1666 году основала на острове колонию.</p><p>1 ноября 1981 года остров обрёл независимость в качестве неотъемлемой части Антигуа и Барбуды, члена Содружества Наций. На выборах 1989 года <b>Движение за независимость Барбуды</b> получило слишком мало голосов, чтобы претендовать на место в национальном парламенте.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Barbuda",
+				"label": "Barbuda - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Barbuda_Independence_Movement_(political_party)",
+				"label": "Barbuda Independence Movement - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Barbuda_People%27s_Movement",
+				"label": "Barbuda People's Movement - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B1%D1%83%D0%B4%D0%B0",
+				"label": "Барбуда - Википедия"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Barbuda_Independence_Movement_(political_party)",
+				"label": "Движение за независимость Барбуды - Википедия [en]"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%91%D0%B0%D1%80%D0%B1%D1%83%D0%B4%D1%8B",
+				"label": "Народное движение Барбуды - Википедия"
+			}
+		]
+	}
+    ]
+}

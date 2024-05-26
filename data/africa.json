@@ -1,0 +1,216 @@
+{
+  "name": "Africa",
+  "name_ru": "Африки",
+  "viewPath": "./resources/map/states/africa.svg",
+  "unrec": [
+    {
+			"id": "Reunion",
+			"name": "Reunion",
+			"name_ru": "Реюньон",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Proposed_flag_of_R%C3%A9union_%28VAR%29.svg",
+			"flag_cc": "Ch1902, Public domain, via Wikimedia Commons",
+			"description": "<p>Overseas region of France. Located on the island in the Indian Ocean, 700 km east of Madagascar.</p><p>Reunion became an overseas department of France on March 19, 1946. In 1982, regional councils were created in France, including in existing overseas departments, which also became overseas regions.</p><p>The French government actively subsidizes Reunion, and therefore separatist sentiment on the island is extremely weak.</p>",
+			"description_ru" : "<p>Заморский регион Франции. Расположен на одноимённом острове в Индийском океане, в 700 км к востоку от Мадагаскара.</p><p>Реюньон стал заморским департаментом Франции 19 марта 1946 года. В 1982 году во Франции были созданы региональные советы, в том числе в существующих заморских департаментах, которые также стали заморскими регионами.</p><p>Правительство Франции активно субсидирует Реюньон, и в связи с этим сепаратисткие настроения на острове крайне слабы.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/R%C3%A9union",
+					"label": "Réunion - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%8E%D0%BD%D1%8C%D0%BE%D0%BD",
+					"label": "Реюньон - Википедия"
+				}
+			]
+		}, 
+    {
+			"id": "Somaliland",
+			"name": "Somaliland",
+			"name_ru": "Сомалиленд",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Somaliland.svg",
+			"flag_cc": "Government of Somaliland, Public domain, via Wikimedia Commons",
+			"description": "<p>A state in the northern part of the Horn of Africa on the territory of the former colony of <b>British Somalia</b>. Recognized by the international community as part of Somalia.</p><p>In April 1981, the creation of the <b>Somali National Movement (SNM)</b> led to the outbreak of the <b>Somaliland War of Independence.</b> At the height of the war in 1988, the harsh punitive measures of the government of Siad Barre aimed at combating the SNM served as one of the reasons for the outbreak of the <b>civil war in Somalia</b>, which led to the collapse of the economic system and military infrastructure of the country. After the fall of the ruling Barre regime in early 1991, the local authorities of Somaliland, led by the SNM, on May 18, 1991 unilaterally declared the independence of Somaliland from Somalia within the borders in which the country gained independence from Great Britain in 1960.</p><p>C Since 1991, Somaliland has been governed by a democratically elected government seeking international recognition as the independent Republic of Somaliland.</p><p>On January 1, 2024, a deal was announced between Ethiopia and Somaliland, under which Ethiopia would recognize the independence of Somaliland in exchange for Ethiopia's access to the sea through Somaliland. If the agreement is honoured, Ethiopia would become the first UN member state to recognize the breakaway state.</p>",
+			"description_ru" : "<p>Государство в северной части Африканского Рога на территории бывшей колонии <b>Британское Сомали</b>. Признаётся международным сообществом как часть Сомали.</p><p>В апреле 1981 создание <b>Сомалийского национального движения (СНД)</b> послужило причиной начала <b>войны за независимость Сомалиленда.</b> В разгар войны в 1988 году жесткие карательные меры правительства Сиада Барре, направленные на борьбу с СНД послужили одной из причин начала <b>гражданской войны в Сомали</b>, приведшей к краху экономической системы и военной инфраструктуры страны. После падения правящего режима Барре в начале 1991 года местные власти Сомалиленд, ведомые СНД, 18 мая 1991 в одностороннем порядке провозгласили независимость Сомалиленда от Сомали в границах, в которых страной была получена в 1960 году независимость от Великобритании.</p><p>С 1991 года Сомалиленд управляется демократически выборным правительством, стремящимся получить международное признание как независимая Республика Сомалиленд.</p><p>1 января 2024 года было объявлено о заключении сделки между Эфиопией и Сомалилендом, по условиям которой Эфиопия признаëт независимость Сомалиленда в обмен на предоставление Эфиопии доступа к морю через территорию Сомалиленда. Если это соглашение будет соблюдаться, Эфиопия станет первым государством-членом ООН, признавшим отколовшееся государство.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Somaliland",
+					"label": "Somaliland - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Somali_National_Movement",
+					"label": "Somali National Movement - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Somaliland_War_of_Independence",
+					"label": "Somaliland War of Independence - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Somali_Civil_War",
+					"label": "Somali Civil War - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/2024_Ethiopia%E2%80%93Somaliland_memorandum_of_understanding",
+					"label": "2024 Ethiopia–Somaliland memorandum of understanding - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4",
+					"label": "Сомалиленд - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5",
+					"label": "Сомалийское национальное движение - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B7%D0%B0_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%A1%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0",
+					"label": "Война за независимость Сомалиленда - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%A1%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8",
+					"label": "Гражданская война в Сомали - Википедия"
+				},
+				{
+					"link": "https://tass.ru/mezhdunarodnaya-panorama/19665253",
+					"label": "Меморандум о взаимопонимании между Эфиопией и Сомалилендом - ТАСС"
+				}
+			]
+		}, 
+    {
+			"id": "Sahrawi_Arab_Democratic_Republic",
+			"name": "Sahrawi Arab Democratic Republic",
+			"name_ru": "Сахарская Арабская Демократическая Республика",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
+			"flag_cc": "El Uali Mustapha Sayed, Public domain, via Wikimedia Commons",
+			"description": "<p>A state that claims most of the territory of the former Spanish colony in Western Sahara, actually controlling only some of its eastern part - the so-called <b>Free Zone.</b> Western Sahara borders Morocco in the north, with Algeria in northeast, in the east and south - with Mauritania, in the west it is washed by the Atlantic Ocean; The free zone has very little access to the ocean in the southwest.</p><p>Until 1975, the region was a Spanish colony. On November 6, 1975, King Hassan II of Morocco organized the so-called <b>“Green March.”</b> At his call, 350 thousand unarmed Moroccans, including women and children, entered the territory of Western Sahara without encountering resistance. The southern part (1/3) of Western Sahara was captured by Mauritania. In 1979, after Mauritania renounced its rights to the southern part of Western Sahara, the latter was completely occupied by Morocco; This territory, most of which it now controls, is considered by it to be its so-called <b>Southern Provinces.</b></p><p>The SADR maintains diplomatic relations with 46 UN states and is a full member of the African Union.</b></p>",
+			"description_ru" : "<p>Государство, претендующее на бо́льшую часть территории бывшей испанской колонии в Западной Сахаре, фактически контролирующее лишь некоторую восточную её часть — так называемую <b>Свободную зону.</b> Западная Сахара на севере граничит с Марокко, на северо-востоке — с Алжиром, на востоке и юге — с Мавританией, с запада омывается Атлантическим океаном; Свободная зона имеет крайне незначительный выход к океану на юго-западе.</p><p>До 1975 года регион был испанской колонией. 6 ноября 1975 года король Марокко Хассан II  организовал так называемый <b>«Зелёный марш».</b> По его призыву 350 тыс. безоружных марокканцев, среди которых были женщины и дети, вошли на территорию Западной Сахары, не встречая сопротивления. Южная часть (1/3) Западной Сахары была захвачена Мавританией. В 1979 году, после отказа Мавритании от прав на южную часть Западной Сахары, последняя была полностью оккупирована Марокко; эта территория, бо́льшую часть которой оно сейчас контролирует, рассматривается им как свои так называемые <b>Южные провинции.</b></p><p>САДР поддерживает дипломатические отношения с 46 государствами ООН и является полноправным членом Африканского Союза.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic",
+					"label": "Sahrawi Arab Democratic Republic - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Free_Zone_(region)",
+					"label": "Free Zone - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Political_status_of_Western_Sahara",
+					"label": "Political status of Western Sahara - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%85%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0",
+					"label": "Сахарская Арабская Демократическая Республика - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B7%D0%BE%D0%BD%D0%B0_(%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%A1%D0%B0%D1%85%D0%B0%D1%80%D0%B0)",
+					"label": "Свободная зона - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE-%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%A1%D0%B0%D1%85%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%BE%D0%B9_%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8",
+					"label": "Международно-правовой статус Сахарской Арабской Демократической Республики - Википедия"
+				}
+			]
+		}, 
+    {
+			"id": "Canary_Islands",
+			"name": "Canary Islands",
+			"name_ru": "Канарские острова",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Flag_of_the_Canary_Islands.svg",
+			"flag_cc": "Zirland, Public domain, via Wikimedia Commons",
+			"description": "<p>An archipelago of seven volcanic islands in the Atlantic Ocean, off the northwestern coast of Africa. The islands belong to Spain and are one of the autonomous communities of this country.</p><p>There are some pro-independence political parties, like the <b>National Congress of the Canaries (CNC)</b> and the <b>Popular Front of the Canary Islands.</b> Their popular support is almost insignificant, with no presence in either the autonomous parliament or the cabildos insulares.</p>",
+			"description_ru" : "<p>Архипелаг из семи островов вулканического происхождения в Атлантическом океане, недалеко от северо-западного побережья Африки. Острова принадлежат Испании и являются одним из автономных сообществ этой страны.</p><p>Существуют некоторые политические партии, выступающие за независимость, такие как <b>Национальный конгресс Канарских островов</b> и <b>Народный фронт Канарских островов.</b> Их народная поддержка почти незначительна, и они не представлены в парламенте автономии.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Canary_Islands",
+					"label": "Canary Islands - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Canarian_nationalism",
+					"label": "Canarian nationalism - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/National_Congress_of_the_Canaries",
+					"label": "National Congress of the Canaries - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Popular_Front_of_the_Canary_Islands",
+					"label": "Popular Front of the Canary Islands - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Canary_Islands_Independence_Movement",
+					"label": "Canary Islands Independence Movement - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+					"label": "Канарские острова - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC",
+					"label": "Канарский национализм - Википедия"
+				},
+				{
+					"link": "https://ru.wikibrief.org/wiki/National_Congress_of_the_Canaries",
+					"label": "Национальный конгресс Канарских островов - ВикибриФ"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D1%80%D0%BE%D0%BD%D1%82_%D0%9A%D0%B0%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2",
+					"label": "Народный фронт Канарских островов - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8E_%D0%B8_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%9A%D0%B0%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3%D0%B0",
+					"label": "Движение за автономию и независимость Канарского архипелага - Википедия"
+				}
+			]
+		}, 
+    {
+			"id": "Republic_of_Cabinda",
+			"name": "Republic of Cabinda",
+			"name_ru": "Республика Кабинда",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Cabinda_%28FLEC_propose%29.svg",
+			"flag_cc": "odder, Public domain, via Wikimedia Commons",
+			"description": "<p>The government of the state, composed of members of the <b>Civil Society of Cabinda</b> and members of the <b>FLEC</b> and <b>FAC</b> movements, demands the sovereignty of the Angolan province of Cabinda as an independent state.</p><p>The Republic of Cabinda traces its claims to self-sovereignty to its initial status as a Portuguese protectorate, known as the Portuguese Congo. This protectorate had a separate history and legal status from that of the much larger Portuguese West Africa, dating to its inception on 19 September 1883. Also, in the Treaty of Simulambuco and the Berlin Conference in 1885, Cabinda and Angola were treated as distinct entities.</p>",
+			"description_ru" : "<p>Правительство государства, состоящее из членов <b>Гражданского общества Кабинды</b> и участников движений <b>FLEC</b> и <b>FAC</b>, требует суверенитета ангольской провинции Кабинда как независимого государства.</p><p>Республика Кабинда ведет свои претензии на самосуверенитет от своего первоначального статуса португальского протектората, известного как Португальское Конго, созданного 19 сентября 1883 года. Кроме того, в Симуламбукуском договоре и Берлинской конференции 1885 года Кабинда и Ангола рассматривались как отдельные образования.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Republic_of_Cabinda",
+					"label": "Republic of Cabinda - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Front_for_the_Liberation_of_the_Enclave_of_Cabinda",
+					"label": "Front for the Liberation of the Enclave of Cabinda - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/For%C3%A7as_Armadas_de_Cabinda",
+					"label": "Forças Armadas de Cabinda - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Treaty_of_Simulambuco",
+					"label": "Treaty of Simulambuco - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D0%B0%D0%B1%D0%B8%D0%BD%D0%B4%D0%B0",
+					"label": "Республика Кабинда - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82_%D0%B7%D0%B0_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B0%D0%BD%D0%BA%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9A%D0%B0%D0%B1%D0%B8%D0%BD%D0%B4%D0%B0",
+					"label": "Фронт за освобождение анклава Кабинда - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/For%C3%A7as_Armadas_de_Cabinda",
+					"label": "FAC - Википедия [en]"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D1%83%D0%BB%D0%B0%D0%BC%D0%B1%D1%83%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80",
+					"label": "Симуламбукский договор - Википедия"
+				}
+			]
+		}
+  ]  
+}

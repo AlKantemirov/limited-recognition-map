@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Limited recognition map</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Map of unrecognized countries of the world">
+    <meta name="keywords" content="micronations">
+    <link rel="stylesheet" href="./src/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Comfortaa&family=Oswald">
+    <link rel="apple-icon-touch" sizes="180x180" href="./apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+    <link rel="manifest" href="./site.webmanifest">
+  </head>
+
+  <body>          
+    <div id="header">
+      <div id="nav-title">
+        <a href="/"><img src="./resources/logo.png" width="64px" height="64px"></img></a>
+	<h1><a href="/">limited recognition map</a></h1>
+	<select id="lang-switcher">
+          <option value="en">&#x1f1fa;&#x1f1f8;</option>
+	  <option value="ru">&#x1f1f7;&#x1f1fa;</option>
+	</select>
+      </div>
+      <ul class="nav-menu">
+        <li class="nav-item" id="africa-toggler"><a href="#" data-lang="nav-1">Africa</a></li>
+        <li class="nav-item" id="middle-east-toggler"><a href="#" data-lang="nav-2">Middle East</a></li>
+	<li class="nav-item" id="south-caucasus-toggler"><a href="#" data-lang="nav-3">South Caucasus</a></li>
+        <li class="nav-item" id="asia-toggler"><a href="#" data-lang="nav-4">Asia</a></li>
+        <li class="nav-item" id="europe-toggler"><a href="#" data-lang="nav-5">Europe</a></li>
+        <li class="nav-item" id="oceania-toggler"><a href="#" data-lang="nav-6">Oceania</a></li> 
+        <li class="nav-item" id="north-america-toggler"><a href="#" data-lang="nav-7">North America</a></li>
+        <li class="nav-item" id="south-america-toggler"><a href="#" data-lang="nav-8">South America</a></li>
+      </ul>
+    </div>
+    <div class="content-wrapper">
+      <div class="map-wrapper">
+        <object type="image/svg+xml" data="./resources/map/states/main.svg" id="map"></object>
+      </div>
+      <div class="list-wrapper">
+	<ltitle id="ltitle" data-lang="anno__title">
+	  Unrecognized states of the world
+	  <p data-lang="anno"></p>
+	</ltitle>
+        <ul id="states">
+	</ul>
+      </div>
+    </div>
+    <overlay></overlay>
+    <description></description>
+    <div id="footer">
+      <div class="footer-content"></div>
+      <div class="footer-content"><a href="https://github.com/AlKantemirov" target="_blank"><img src="./resources/github-mark.svg" alt="GitHub" style="width:32px;height:32px;"></a></div>
+      <div class="footer-content">AlKantemirov<br>2024</div>
+    </div>
+  </body>
+  <script type="text/javascript" src="https://yastatic.net/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript" src="./src/bundle.js"></script>
+</html>

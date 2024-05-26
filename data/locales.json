@@ -1,0 +1,16 @@
+{
+    "data" : [
+	["nav-1", "Africa", "Африка"],
+	["nav-2", "Middle East", "Ближний Восток"],
+	["nav-3", "South Caucasus", "Закавказье"],
+	["nav-4", "Asia", "Азия"],
+	["nav-5", "Europe", "Европа"],
+	["nav-6", "Oceania", "Океания"],
+	["nav-7", "North America", "Северная Америка"],
+	["nav-8", "South America", "Южная Америка"],
+	
+	["anno__title",
+	 "<h2>Unrecognized states of the world</h2><p>Map of unrecognized, limited recognized and virtual countries of the world.</p><p>Presented information does not serve the purpose of promoting violation of territorial integrity.</p><h2></h2><br><p><i>All Members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations.</i> — UN Charter, Article 2, paragraph 4.</p><p style='text-align:center'><i><b>~ - - - - - ~</b></i></p><p><i>Indigenous peoples have the right to self-determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development.</i> — Article 3 of the United Nations Declaration on the Rights of Indigenous Peoples. Adopted by General Assembly resolution 61/295 on September 13, 2007.</p><h2></h2>",
+	 "<h2>Непризнанные государства мира</h2><p>Карта непризнанных, частично признанных и виртуальных государств мира.</p><p>Представленная информация не несёт цели пропаганды нарушения территориальной целостности.</p><h2></h2><br><p><i>Все Члены Организации Объединенных Наций воздерживаются в их международных отношениях от угрозы силой или ее применения как против территориальной неприкосновенности или политической независимости любого государства, так и каким-либо другим образом, несовместимым с Целями Объединенных Наций.</i> — Устав ООН, статья 2, п. 4.</p><p style='text-align:center'><i><b>~ - - - - - ~</b></i></p><p><i>Коренные народы имеют право на самоопределение. В силу этого права они свободно устанавливают свой политический статус и свободно осуществляют свое экономическое, социальное и культурное развитие.</i> — Статья 3 декларации Организации Объединенных Наций о правах коренных народов. Принята резолюцией 61/295 Генеральной Ассамблеи от 13 сентября 2007 года.</p><h2></h2>"]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "limitedrecognitionmap",
+    "version": "1.0.0",
+    "description": "Map of unrecognized, limited recognized and virtual countries of the world.",
+  "author": "AlKantemirov",
+  "devDependencies": {
+    "@types/jquery": "^3.5.30",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "build": "tsc --lib es2015,dom --resolveJsonModule --esModuleInterop ./src/index && webpack"
+  }
+}

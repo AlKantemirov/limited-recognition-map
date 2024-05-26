@@ -1,0 +1,393 @@
+{
+    "name": "Oceania",
+    "name_ru": "Австралии и Океании",
+    "viewPath": "./resources/map/states/oceania.svg",
+    "unrec": [
+		{
+			"id": "New_Caledonia",
+			"name": "New Caledonia",
+			"name_ru": "Новая Каледония",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_FLNKS.svg",
+			"flag_cc": "WarX, Public domain, via Wikimedia Commons",
+			"description": "<p>A special administrative-territorial entity of France, located in the Pacific Ocean. It is represented by a large island of the same name and a group of small islands in the southwestern part of the Pacific Ocean, in Melanesia. It borders in the southwest with the economic zone of Australia, in the north - with Vanuatu, in the southeast - with Fiji.</p><p>On September 13, 1987, the first referendum on the independence of New Caledonia was held. The referendum was boycotted by supporters of independence, so the turnout was only 59% of voters, and only 1.7% of those who came to the polling stations voted for independence.</p><p>In 1998, the <b>Nouméa Accord</b> was signed, according to which, after 20 years, residents of the territory have the right to hold three referendums on independence, two years apart. The first referendum provided for by the agreement was held on November 4, 2018. This vote concerned 'the transfer of state powers to New Caledonia, international status with full responsibility, and the organization of citizenship'. According to the results of the referendum, more than 56% of those voting opposed independence from France, the turnout at the referendum was 81%. In December 2021, the third and final referendum was held, in which 95% opposed the territory's independence from France, with a turnout of 44%.</p><p>On May 13, 2024, as parliament debated amending the constitution to allow migrants who arrived in New Caledonia to vote after the Nouméa Accord in 1998, riots broke out in New Caledonia. <br>On May 15, France declared a state of emergency on the island and the deployment of additional troops to maintain order.</p>",
+			"description_ru" : "<p>Особое административно-территориальное образование Франции, расположенное в Тихом океане. Представлена крупным одноимённым островом и группой мелких островов в юго-западной части Тихого океана, в Меланезии. Граничит на юго-западе с экономической зоной Австралии, на севере — с Вануату, на юго-востоке — с Фиджи.</p><p>13 сентября 1987 года прошёл первый референдум о независимости Новой Каледонии. Референдум был бойкотирован сторонниками независимости, поэтому явка на нём составила всего 59 % избирателей, а за независимость проголосовали всего 1,7 % пришедших на избирательные участки.</p><p>В 1998 году было подписано <b>Нумеанское соглашение</b>, согласно которому по прошествии 20 лет жители территории имеют право провести три референдума по вопросу независимости с разницей в два года. Первый из предусмотренных соглашением референдумов прошёл 4 ноября 2018 года. Это голосование касалось 'передачи Новой Каледонии государственных полномочий, международного статуса с полной ответственностью, а также организации гражданства'. По результатам референдума больше 56 % участвующих в голосовании выступили против независимости от Франции, явка на референдуме составила 81%. В декабре 2021 года состоялся третий и последний референдум, на котором 95% высказались против независимости территории от Франции, при этом явка составила 44%.</p><p>13 мая 2024 года на фоне обсуждения в парламенте внесения поправок в конституцию, которые разрешили бы участвовать в голосованиях мигрантам, прибывшим в Новую Каледонию после заключения Нумейского соглашения в 1998 году, в Новой Каледонии начались беспорядки. <br>15 мая Франция объявила о чрезвычайном положении на острове и о вводе дополнительного контингента войск для поддержания порядка.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/New_Caledonia",
+					"label": "New Caledonia - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Noum%C3%A9a_Accord",
+					"label": "Nouméa Accord - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/2024_New_Caledonia_unrest",
+					"label": "2024 New Caledonia unrest - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%9A%D0%B0%D0%BB%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F",
+					"label": "Новая Каледония - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9D%D1%83%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5",
+					"label": "Нумейское соглашение - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B_%D0%B2_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B9_%D0%9A%D0%B0%D0%BB%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D0%B8_(2024)",
+					"label": "Протесты в Новой Каледонии (2024) - Википедия"
+				},
+				{
+					"link": "https://ria.ru/20240515/attal-1946288233.html",
+					"label": "Франция ввела войска в Новую Каледонию из-за погромов - РИА новости"
+				}
+			]
+		},
+		{
+			"id": "Hawaiian_Islands",
+			"name": "Hawaiian Islands",
+			"name_ru": "Гавайские острова",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg",
+			"flag_cc": "Dbenbenn, Public domain, via Wikimedia Commons",
+			"description": "<p>An archipelago of 24 islands and atolls located in the North Pacific Ocean (between 19° and 29° north latitude). The archipelago stretches from northwest to southeast and is of volcanic origin, like the Fijian ones.</p><p>On August 21, 1959, the 'Territory of Hawaii' received the status of the 50th US state.</p><p><b>The Hawaiian Independence Movement</b> advocates in various forms for independence for the Hawaiian Islands. Most groups in the movement favor continuity with the Kingdom of Hawaii, considering the overthrow of the last Hawaiian queen, Liliuokalani, to be illegal, and the US takeover of the country in 1898 to be a military occupation that continues to this day.</p><p>The modern Hawaiian independence movement dates back to 1969, when the group 'Aloha' was founded. Its goal was only to obtain reparations from the US government and the return of certain territories to the indigenous population.</p>",
+			"description_ru" : "<p>Архипелаг из 24 островов и атоллов, расположенный в северной части Тихого океана (между 19° и 29° северной широты). Архипелаг вытянут с северо-запада на юго-восток, имеет вулканическое происхождение, как и фиджийские.</p><p>21 августа 1959 года 'Территория Гавайи' получила статус штата США, 50-го по счёту.</p><p><b>Движение за независимость Гавайских островов</b> выступает в различных формах за предоставление Гавайским островам независимости. Большинство групп движения выступает за преемственность по отношению к Королевству Гавайи, считая свержение последней гавайской королевы Лилиуокалани незаконным, а захват страны США в 1898 году — военной оккупацией, продолжающейся и по сей день.</p><p>Современное движение за независимость Гавайских островов берёт своё начало в 1969 году, когда была основана группа 'Aloha'. Её целью было лишь получение от правительства США репараций и возвращения для проживания коренного населения определённых территорий.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Hawaiian_Islands",
+					"label": "Hawaiian Islands - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Hawaiian_sovereignty_movement",
+					"label": "Hawaiian sovereignty movement - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B2%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+					"label": "Гавайские острова - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%93%D0%B0%D0%B2%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2",
+					"label": "Движение за независимость Гавайских островов - Википедия"
+				}
+			]
+		},
+		{
+			"id": "Irian_Jaya",
+			"name": "Western New Guinea",
+			"name_ru": "Западная Новая Гвинея",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Morning_Star_flag.svg",
+			"flag_cc": "Pumbaa80, Public domain, via Wikimedia Commons",
+			"description": "<p>The unofficial name for the western part of the island of New Guinea, which belongs to Indonesia. After this territory came under the sovereignty of Indonesia, for a long time it formed a single province called West Irian, then Irian Jaya. Since the beginning of the 2000s, its administrative and territorial disaggregation has occurred in several stages, and as of the beginning of 2023, it consists of six provinces: Papua, Central Papua, Papua Pegunungan, South Papua, West Papua and South West Papua.</p><p>In 1969, a referendum was held to join Indonesia, but instead of a vote by the entire population, the decision was made by 1,025 specially selected delegates. West Irian became part of Indonesia in August 1969. This limited voting demonstrated the problems of relations with the remaining 650,000 residents of the province. As a result, these problems led to the formation of the <b>Free Papua Movement</b>, which argued that if a full referendum were held, the people would vote for independence from Indonesia. On July 1, 1971, the movement made a new, also unsuccessful, attempt to proclaim the independence of the <b>Republic of West Papua.</b> Since then, this organization has been waging an insurgency against the Indonesian government. In 1984, the territory was again declared independent under the name <b>Republic of Western Melanesia</b>, but the leaders of the movement were arrested. Since 1973, the central Indonesian authorities have renamed the province of West Irian to <b>Irian Jaya.</b></p>",
+			"description_ru" : "<p>Неофициальное название западной части острова Новая Гвинея, принадлежащей Индонезии. После перехода этой территории под суверенитет Индонезии она длительное время составляла единую провинцию под названием Западный Ириан, затем — Ириан Джая. С начала 2000-х годов в несколько этапов происходило её административно-территориальное разукрупнение, и по состоянию на начало 2023 года она состоит из шести провинций: Папуа, Центральное Папуа, Папуа-Пегунунган, Южное Папуа, Западное Папуа и Юго-Западное Папуа.</p><p>В 1969 году был проведен референдум за присоединение к Индонезии, но вместо голосования всего населения, решение было принято 1025 специально выбранными делегатами. Западный Ириан стал частью Индонезии в августе 1969 года. Такое ограниченное голосование продемонстрировало проблемы взаимоотношений с остальными 650 000 жителями провинции. В результате эти проблемы привели к образованию <b>Движения за свободное Папуа</b>, которое утверждало, что в случае проведения полноценного референдума народ проголосовал бы за независимость от Индонезии. 1 июля 1971 года движением была предпринята новая, также безуспешная, попытка провозглашения независимости <b>Республики Западное Папуа.</b> С тех пор эта организация ведет против правительства Индонезии повстанческую борьбу. В 1984 году снова была провозглашена независимость территории под названием <b>Республика Западная Меланезия</b>, однако лидеры движения были арестованы. С 1973 года центральные индонезийские власти в знак увековечивания владения территорией переименовали провинцию Западный Ириан в <b>Ириан-Джаю.</b></p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Western_New_Guinea",
+					"label": "Western New Guinea - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Free_Papua_Movement",
+					"label": "Free Papua Movement - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Republic_of_West_Papua",
+					"label": "Republic of West Papua - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F",
+					"label": "Западная Новая Гвинея - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0_%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5_%D0%9F%D0%B0%D0%BF%D1%83%D0%B0",
+					"label": "Движение за свободное Папуа - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5_%D0%9F%D0%B0%D0%BF%D1%83%D0%B0",
+					"label": "Республика Западное Папуа - Википедия"
+				}
+			]
+		}, 
+		{
+			"id": "Republic_of_Minerva",
+			"name": "Republic of Minerva",
+			"name_ru": "Республика Минерва",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_Minerva.svg",
+			"flag_cc": "Gene Poole, Public domain, via Wikimedia Commons",
+			"description": "<p>A state proclaimed on the Minerva coral reefs south of the Fiji Islands on January 19, 1972. The founder of the republic was an American millionaire of Lithuanian origin, Michael Oliver.</p><p>It was assumed that the new state would be based on libertarian principles 'without taxes, benefits, subsidies and any other forms of economic interventionism,' and the main forms of income for its residents would be fishing, tourism, registration of foreign transport ships and light industry. In 1971, sand barges arrived from Australia and an artificial island was created on two reefs, allowing construction of a city called Sea City to begin. 200 thousand dollars were spent on the construction of the island. On January 19, 1972, the republic declared independence, and in February Morris 'Bud' S. Davis, a former Rockwell development engineer who lived in California, was elected its interim president. The state received its own flag, anthem and currency.</p><p>In 1982, Davis and a group of Americans again tried to create an independent state on Minerva, but after 3 weeks they were again expelled by the Royal Marines. For now, Davis continues to consider himself the president of Minerva. A group calling itself the 'government in exile' considers Minerva a 'principality', a non-hereditary constitutional monarchy.</p>",
+			"description_ru" : "<p>Государство, провозглашённое на коралловых рифах Минерва к югу от островов Фиджи 19 января 1972 года. Основателем республики стал американский миллионер литовского происхождения Майкл Оливер.</p><p>Предполагалось, что новое государство будет основано на либертарианских принципах 'без налогов, пособий, субсидий и любых других форм экономического интервенционизма', а основными формами дохода его жителей станут рыболовство, туризм, регистрация иностранных транспортных судов и лёгкая промышленность. В 1971 году из Австралии прибыли баржи с песком, на двух рифах был создан искусственный остров, что позволило начать строительство города под названием Си-Сити. На сооружение острова было потрачено 200 тысяч долларов. 19 января 1972 года республика провозгласила независимость, в феврале её временным президентом был избран Моррис 'Бад' С. Дэвис, бывший инженер-разработчик фирмы 'Роквелл', проживавший в Калифорнии. Государство получило собственные флаг, гимн и валюту.</p><p>В 1982 году Дэвис с группой американцев вновь попытался создать независимое государство на Минерве, но через 3 недели они были снова выдворены отделением королевской морской пехоты. На данный момент Дэвис продолжает считать себя президентом Минервы. Группа лиц, называющая себя 'правительством в изгнании', считает Минерву 'княжеством', ненаследственной конституционной монархией.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Republic_of_Minerva",
+					"label": "Republic of Minerva - Wikipedia"
+				},
+				{
+					"link": "https://wikimapia.org/17572826/MInerva-Reef-Republic-of-Minerva",
+					"label": "Republic of Minerva - Wikimapia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B2%D0%B0",
+					"label": "Республика Минерва - Википедия"
+				},
+				{
+					"link": "https://wikimapia.org/17572826/ru/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0-%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B2%D0%B0",
+					"label": "Республика Минерва - Викимапия"
+				}
+			]
+		},
+		{
+			"id": "Pitcairn_Islands",
+			"name": "Pitcairn Islands",
+			"name_ru": "Острова Питкэрн",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg",
+			"flag_cc": "User:Dbenbenn, Public domain, via Wikimedia Commons",
+			"description": "<p>The only British overseas territory in the Pacific Ocean. Includes five islands, one of which is inhabited. Located in the South Pacific Ocean, bordered to the west by French Polynesia.<br>The Pitcairn Islands are the most sparsely populated area in the world, with a population of 47 people as of 2021.</p><p>The United Nations Committee on Decolonization includes the Pitcairn Islands on the United Nations list of non-self-governing territories.</p><p>During the <b>sexual assault trial</b>, the trial was repeatedly interrupted by lawsuits from the island's residents, who denied the island's colonial status. Lawyers of seven defendants said that British sovereignty over the islands was unconstitutional. The mutineers of HMS Bounty, from whom almost the entire current population of the island (along with the Polynesians) are descended, effectively renounced their British citizenship.</p>",
+			"description_ru" : "<p>Единственная заморская территория Великобритании в Тихом океане. Включает в себя пять островов, один из которых обитаем. Находится в южной части Тихого океана, граничит на западе с Французской Полинезией.<br>Острова Питкэрн — самая малонаселённая территория в мире, с населением 47 человек по состоянию на 2021 год.</p><p>Комитет ООН по деколонизации включил острова Питкэрн в список несамоуправляющихся территорий Организации Объединенных Наций.</p><p>В ходе <b>судебного процесса по делу об изнасиловании</b> суд неоднократно прерывался судебными исками со стороны жителей острова, которые отрицали колониальный статус острова, а вместе с ним и судебную власть Великобритании. Адвокаты семи обвиняемых заявили, что британский суверенитет над островами является неконституционным. Мятежники HMS Bounty, от которых происходит почти всё нынешнее население острова (вместе с полинезийцами), фактически отказались от своего британского гражданства.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Pitcairn_Islands",
+					"label": "Pitcairn Islands - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/2004_Pitcairn_Islands_sexual_assault_trial",
+					"label": "2004 Pitcairn Islands sexual assault trial - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%9F%D0%B8%D1%82%D0%BA%D1%8D%D1%80%D0%BD",
+					"label": "Острова Питкэрн - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B4%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_%D0%BF%D0%BE_%D0%B4%D0%B5%D0%BB%D1%83_%D0%BE%D0%B1_%D0%B8%D0%B7%D0%BD%D0%B0%D1%81%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%9F%D0%B8%D1%82%D0%BA%D1%8D%D1%80%D0%BD%D0%B5_(2004)",
+					"label": "Судебный процесс по делу об изнасиловании на Питкэрне (2004) - Википедия"
+				}
+			]
+		},
+		{
+			"id": "Na-Griamel",
+			"name": "Na-Griamel",
+			"name_ru": "На-Гриамель",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Vemerana.svg",
+			"flag_cc": "Vectorized by Froztbyte, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+			"description": "<p>Nationalist socio-political movement of the New Hebrides, later Vanuatu.</p><p>In the 19th century, the New Hebrides were a disputed territory between Great Britain and France. In March 1906, an agreement was signed under which the New Hebrides became the joint possession of France and Britain, that is, they became an Anglo-French condominium. The land grabs of the indigenous islanders led to the formation of the 'NaGriamel' movement under the leadership of <b>Jimmy Stevens</b>, who was of Scottish and Tongan descent. This movement advocated securing land ownership rights for indigenous people and the revival of traditional values.</p><p>On 27th December 1975 the Northern islands (Aoba, Maewo, Banks, Torres and Espiritu Santo) proclaimed the independence of the Federation Na Griamel.</p>",
+			"description_ru" : "<p>Националистическое общественно-политическое движение Новых Гебрид, позднее Вануату.</p><p>В XIX веке Новые Гебриды были спорной территорией между Великобританией и Францией. В марте 1906 года было подписано соглашение, по которому Новые Гебриды стали совместным владением Франции и Британии, то есть становились англо-французским кондоминиумом. Захваты земель коренных островитян привели к формированию движения 'NaGriamel' под руководством <b>Джимми Стивенса</b>, который имел шотландские и тонганские корни. Это движение выступало за закрепление права землевладения за коренными жителями, возрождение традиционных ценностей.</p><p>27 декабря 1975 года Северные острова (Аоба, Маэво, Бэнкс, Торрес и Эспириту-Санто) провозгласили независимость Федерации На Гриамель.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Nagriamel",
+					"label": "Nagriamel - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Jimmy_Stevens_(politician)",
+					"label": "Jimmy Stevens - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/NaGriamel",
+					"label": "NaGriamel - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%D1%81,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8",
+					"label": "Джимми Стивенс - Википедия"
+				}
+			]
+		},
+		{
+			"id": "Tafea_Province",
+			"name": "Tafea Province",
+			"name_ru": "Тафеа",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tafea_Province_Flag.svg",
+			"flag_cc": "Germenfer, CC0, via Wikimedia Commons",
+			"description": "<p>A province of the state of Vanuatu, occupying the territory of the islands of Tanna, Aniva, Futuna, Erromango, Aneityum, from the first letters of whose names the province got its name. Population 32,540 people (2009), area 1,628 km². The administrative center of the province is the city of Isangel (on the island of Tanna).</p><p>A secessionist movement began in the 1970s, and the Nation of Tanna was proclaimed on 24 March 1974. While the British were more open to allowing its holdings in Vanuatu independence, it was opposed by the French colonists and finally suppressed by the Anglo-French Condominium authorities on 29 June 1974.</p><p>In 1980, there was another attempt to secede, declaring the Tafea Nation on 1 January 1980, its name coming from the initials of the five islands that were to be part of the nation (Tanna, Aniwa, Futuna, Erromango and Aneityum). British forces intervened on 26 May 1980, allowing the islands to become part of the newly independent nation of Vanuatu on 30 July 1980.</p>",
+			"description_ru" : "<p>Провинция государства Вануату, занимающая территорию островов Танна, Анива, Футуна, Эрроманго, Анейтюм, по первым буквам названий которых провинция и получила своё название. Население 32 540 человек (2009), площадь 1628 км². Административный центр провинции — город Исангел (на острове Танна).</p><p>Сепаратистское движение началось в 1970-х годах, и 24 марта 1974 года была провозглашена 'Нация Танна'. Хотя британцы были открыты для предоставления своим владениям в Вануату независимости, против движения выступили французские колонисты, и в конечном итоге оно было подавлено Англо-французским кондоминиумом.</p><p>В 1980 году была предпринята еще одна попытка отделения: 1 января 1980 года была провозглашена 'нация Тафеа', ее название произошло от инициалов пяти островов. Британские войска вмешались 26 мая 1980 года, в конце концов позволив островам стать частью нового независимого государства Вануату 30 июля 1980 года.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Tafea_Province",
+					"label": "Tafea Province - Wikipedia"
+				},
+				{
+					"link": "https://www.crwflags.com/fotw/flags/vu%7Dtafea.html",
+					"label": "Tafea Nation - Crwflags"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%84%D0%B5%D0%B0",
+					"label": "Тафеа - Википедия"
+				},
+				{
+					"link": "https://www.crwflags.com/fotw/flags/vu%7Dtafea.html",
+					"label": "Нация Тафеа - Crwflags [en]"
+				}
+			]
+		},
+		{
+			"id": "Tanna",
+			"name": "Tanna",
+			"name_ru": "Танна",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bandera_Tanna_Vanuatu.svg",
+			"flag_cc": "Walden69, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons",
+			"description": "<p>An island in the New Hebrides archipelago in the Pacific Ocean. It belongs to Vanuatu and is part of the Tafea province. To the north of the island is Eromanga Island, to the southeast is Aneityum, to the northeast is Aniva Island, and to the east is Futuna Island.</p><p>A secessionist movement began in the 1970s, and the Nation of Tanna was proclaimed on 24 March 1974. While the British were more open to allowing its holdings in Vanuatu independence, it was opposed by the French colonists and finally suppressed by the Anglo-French Condominium authorities on 29 June 1974.</p><p>On June 30, 1980, the New Hebrides gained independence from Great Britain and France, and the island of Tanna became the territory of the Republic of Vanuatu.</p>",
+			"description_ru" : "<p>Остров в архипелаге Новые Гебриды в Тихом океане. Принадлежит Вануату, входит в состав провинции Тафеа. К северу от острова расположен остров Эроманга, юго-востоку — Анейтьюм, к северо-востоку — остров Анива, к востоку — остров Футуна.</p><p>Сепаратистское движение началось в 1970-х годах, и 24 марта 1974 года была провозглашена 'Нация Танна'. Хотя британцы были открыты для предоставления своим владениям в Вануату независимости, против движения выступили французские колонисты, и в конечном итоге оно было подавлено Англо-французским кондоминиумом.</p><p>30 июня 1980 года Новые Гебриды получили независимость от Великобритании и Франции, и остров Танна стал территорией Республики Вануату.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Tanna_(island)",
+					"label": "Tanna - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D0%BD%D0%B0_(%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2)",
+					"label": "Танна - Википедия"
+				}
+			]
+		},
+		{
+			"id": "N_Makiaute",
+			"name": "N'Makiaute",
+			"name_ru": "Н'Макиауте",
+			"flag": "https://karty.narod.ru/maps/n-mak/vu-nmaki.gif",
+			"flag_cc": "https://karty.narod.ru/maps/n-mak/vu-nmaki.gif",
+			"description": "<p>On June 30, a group of independentists proclaimed the state of N'Makiaute in the north of Malekula island.</p>",
+			"description_ru" : "<p>30 июня группа сторонников независимости провозгласила государство Н'Макиауте на севере острова Малекула.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Malakula",
+					"label": "Malakula - Wikipedia"
+				},
+				{
+					"link": "https://www.crwflags.com/fotw/flags/vu%7Dnmaki.html",
+					"label": "N'Makiaute - Malakula island secessionist movement - Crwflags"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D0%B0",
+					"label": "Малекула - Википедия"
+				},
+				{
+					"link": "https://karty.narod.ru/maps/n-mak/n-mak.html",
+					"label": "Н'Макиауте - Karty.narod"
+				}
+			]
+		},
+		{
+			"id": "Vemerana",
+			"name": "Vemerana",
+			"name_ru": "Вемерана",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Vemerana.svg",
+			"flag_cc": "Vectorized by Froztbyte, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+			"description": "<p>Vemerana was proclaimed on June 1, 1980 on the island of Espiritu Santo (capital Luganville) and the adjacent islands of Aoba and Malakula after the declaration of independence of the New Hybrids as Vanuatu. Anglo-French troops suppressed the uprising by July 24, 1980. On August 18, the Anglo-French troops were replaced by corps from Australia and Papua New Guinea and Vanuatu police. The rebellion was finally put down on August 31, when Prime Minister Vemerana Stevens was captured.</p>",
+			"description_ru" : "<p>Вемерана была провозглашена 1 июня 1980 на острове Эспириту-Санту (столица Луганвиль) и прилегающих островах Аоба и Малакула после провзглашения независимости Новых Гибрид как Вануату. Англо-французские войска подавили восстание к 24 июля 1980. 18 августа англо-французские войска были заменены на корпус из Австралии и Папуа-Новой Гвинеи и полицию Вануату. Мятеж окончательно был подавлен 31 августа, когда был захвачен премьер-министр Вемераны Стивенс.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Coconut_War",
+					"label": "Coconut War - Wikipedia"
+				},
+				{
+					"link": "https://www.crwflags.com/fotw/flags/vu%7Dvemer.html",
+					"label": "State of Vemarana - Crwflags"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D0%BE%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0",
+					"label": "Кокосовая война - Википедия"
+				},
+				{
+					"link": "https://karty.narod.ru/maps/vem/vem.html",
+					"label": "Вемерана - Karty.narod"
+				}
+			]
+		},
+		{
+			"id": "Empire_of_Atlantium",
+			"name": "Empire of Atlantium",
+			"name_ru": "Империя Атлантиум",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bandera_d%27Atlantium.svg",
+			"flag_cc": "See page for author, Public domain, via Wikimedia Commons",
+			"description": "<p>State and secular, pluralist, progressive lobby group based in New South Wales, Australia.</p><p>Atlantium was created in 1981 by three Sydney teenagers - George Francis Cruickshank, Geoffrey John Duggan and Claire Marie Coulter. They declared a 10 square meter Provisional Territory in the southern Sydney suburb of Narvi as Atlantium's first capital and declared Cruickshank to become supreme Head of State under the name 'Emperor George II'. Geoffrey Duggan was elected Prime Minister. Damian Scott from 1986-1988 and Kevin Fanucchi from 1988-1990 were also 'Prime Ministers', but by 1990, when the original members of the group graduated from university and moved to various places in the country, the group ceased to be active.</p><p>Among the causes Atlantium supports are the right to unrestricted international freedom of movement, the right to abortion, the right to assisted suicide and decimal calendar reform.</p><p>In 2015, the micronation had almost 3,000 'citizens', most of whom signed up online from over a hundred countries, and have never been to Atlantium.</p>",
+			"description_ru" : "<p>Государство и светская, плюралистическая, прогрессивная лобби-группа, базирующаяся в штате Новый Южный Уэльс, Австралия.</p><p>Атлантиум был создан в 1981 году тремя сиднейскими подростками — Джорджем Фрэнсисом Круикшэнком, Джеффри Джоном Дуггэном и Клэр Мари Коултер. Они объявили 10 квадратных метров Временной Территорией в южном пригороде Сиднея Нарви первой столицей Атлантиума и объявили, что Круикшэнк становится верховным Главой государства под именем 'Император Джордж II'. Джеффри Дуггэн был избран премьер-министром. Дамиан Скотт в 1986—1988 и Кевин Фанукки в 1988—1990 годах также были 'премьер-министрами', но к 1990 году, когда первоначальные члены группы окончили университет и переехали в различные места в стране, группа прекратила быть активной.</p><p>Среди причин поддержки Атлантиума — право на неограниченную международную свободу передвижения, право на аборт, право на помощь в самоубийстве и реформа десятичного календаря.</p><p>В 2015 году в микронации насчитывалось почти 3000 'граждан', большинство из которых зарегистрировались онлайн из более чем ста стран и никогда не были в Атлантиуме.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Empire_of_Atlantium",
+					"label": "Empire of Atlantium - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F_%D0%90%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%83%D0%BC",
+					"label": "Империя Атлантиум - Википедия"
+				}
+			]
+		},
+		{
+			"id": "Duchy_of_Avram",
+			"name": "Grand Duchy of Avram",
+			"name_ru": "Великое княжество Аврам",
+			"flag": "http://www.grandduchy.org/images/orderofavramregalia.jpg",
+			"flag_cc": "http://www.grandduchy.org/images/orderofavramregalia.jpg",
+			"description": "<p>State founded in the early 1980s by Tasmanian John Charlton Rudge, who styles himself the 'Grand Duke of Avram'.</p><p>The public manifestation of the Duchy was the Royal Bank of Avram, which at one time operated from retail premises owned by Rudge in George Town, Tasmania, and which still issues its own banknotes and coinage and platinum 1 ounce coins. This enterprise was later relocated to Strahan, on Tasmania's west coast. Customers were required to exchange Australian currency for the Avram equivalents in order to obtain the currency. The Bank still operates today.</p>",
+			"description_ru" : "<p>Государство, основанное в начале 1980-х годов тасманийцем Джоном Чарльтоном Раджем, который называет себя 'Великим герцогом Аврам'.</p><p>Публичным проявлением герцогства стал Королевский банк Аврама, который одно время действовал в торговых помещениях, принадлежавших Раджу в Джорджтауне, Тасмания, и который до сих пор выпускает свои собственные банкноты и монеты, а также платиновые монеты весом в 1 унцию. Позже это предприятие было перенесено в Страхан, на западное побережье Тасмании. Клиенты должны были обменять австралийскую валюту на эквиваленты Аврам, чтобы получить валюту. Банк работает и сегодня.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Avram",
+					"label": "Grand Duchy of Avram - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Avram",
+					"label": "Великое княжество Аврам - Википедия [en]"
+				}
+			]
+		},
+		{
+			"id": "Province_of_Bumbunga",
+			"name": "Province of Bumbunga",
+			"name_ru": "Провинция Бумбунга",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Bumbunga.svg",
+			"flag_cc": "Himasaram, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
+			"description": "<p>State proclaimed by Alex Brackstone on March 29, 1976. The area of ​​the self-proclaimed state is 4 hectares. The province of Bumbunga is located on the territory of Alex Brackstone's farm, 137 km away. northeast of the city of Adelaide, the capital of the state of South Australia. The nearest town is Lochiel, 8 km away.</p><p>On November 11, 1975, British Governor-General John Kerr, acting as the official representative of Britain's Queen Elizabeth II, dismissed the Social Democratic government of Prime Minister Gough Whitlam. As a result, sentiment in Australian society began to grow in favor of a more independent course for the country in relation to the mother country. Alex Brackstone, a staunch monarchist, explained his secessionist actions as a desire to 'resist the alarming republican encroachments and defend the ancestral rights of the British crown.' 'This tiny piece of Australia under my rule will forever remain part of the British Empire,' Alex Braxton told the media.<br>In 1999, Alex Brackstone was expatriated to the United Kingdom of Great Britain and Northern Ireland by a court decision for illegal possession of firearms and never visited Australia again. Trustees on behalf of Brackstone continue to actively exploit its recreational potential.</p>",
+			"description_ru" : "<p>Государство, провозглашённое Алексом Брэкстоуном 29 марта 1976 года. Площадь самопровозглашенного государства — 4 гектара.Провинция Бумбунга расположена на территории фермерского хозяйства Алекса Брэкстоуна в 137 км. к северо-востоку от города Аделаида, административного центра штата Южная Австралия. Ближайший город Лохьел расположен в 8 км.</p><p>11 ноября 1975 года британский генерал-губернатор Джон Керр, действуя в качестве официального представителя британской королевы Елизаветы II, отправил в отставку социал-демократическое правительство премьер-министра Гофа Уитлэма. В результате в австралийском обществе стали нарастать настроения в пользу более независимого курса страны по отношению к метрополии. Алекс Брэкстоун, убежденный монархист, объяснил свои сепаратистские действия желанием 'противостоять тревожным республиканским поползновениям и встать на защиту исконных прав британской короны'. 'Этот крохотный кусочек Австралии под моим управлением навеки останется частью Британской империи', — заявил Алекс Брэкстоун средствам массовой информации.<br>В 1999 году Алекс Брэкстоун за нелегальное владение огнестрельным оружием по решению суда экспатриировался в Соединенное Королевство Великобритании и Северной Ирландии и больше в Австралии не бывал. Доверенные лица от имени Брэкстоуна продолжают активно эксплуатировать его рекреационный потенциал.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Province_of_Bumbunga",
+					"label": "Province of Bumbunga - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F_%D0%91%D1%83%D0%BC%D0%B1%D1%83%D0%BD%D0%B3%D0%B0",
+					"label": "Провинция Бумбунга - Википедия"
+				}
+			]
+		},
+		{
+			"id": "Principality_of_Hutt_River",
+			"name": "Principality of Hutt River",
+			"name_ru": "Княжество Хатт-Ривер",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/7/70/Hutt_River_Flag.svg",
+			"flag_cc": "Abigbro, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+			"description": "<p>State founded by Leonard Casley in 1970. Located on the Casley family farm, 517 km north of Perth, the capital of Western Australia. Nearest town is Northampton.</p><p>In 1969, the state of Western Australia introduced a quota on wheat cultivation, which threatened the existence of many farms in the territory. The Casley family interpreted existing laws to give them the right to form their own government and secede from Australia. Following a protracted dispute over quotas, Leonard George Casley formally seceded from the Commonwealth of Australia in 1970 and took over the newly formed Hutt River Province on 21 April 1970.</p><p>In 2008, the Council of the European Union published a memorandum on 'fictitious passports... issued by private organizations and individuals', which prohibit the issuance of official transit visas. Among these 'fictitious' passports, the document mentions passports from the Principality of Hutt River.</p><p>On 3 August 2020, the Principality was formally dissolved, amidst disputes with the Australian Taxation Office demanding the Principality pay millions in unpaid taxes across its 50-year history as well as the financial impact caused by the COVID-19 pandemic. The Principality's owned land was sold off to settle the tax dispute.</p>",
+			"description_ru" : "<p>Государство, основанное Леонардом Кэсли в 1970 году. Расположено на территории фермерского хозяйства семьи Кэсли в 517 км к северу от города Перт, административного центра штата Западная Австралия. Ближайший город Нортгемптон.</p><p>В 1969 году администрация штата Западная Австралия ввела квоту на выращивание пшеницы, что поставило под угрозу существование многих фермерских хозяйств территории. Семья Кэсли интерпретировала существующие законы так, что они дают им право образовать своё правительство и отделиться от Австралии. Вследствие затянувшегося диспута по поводу квот в 1970 году Леонард Джордж Кэсли формально отделился от Австралийского союза и 21 апреля 1970 года возглавил образованную Провинцию Хатт-Ривер.</p><p>В 2008 году Совет Европейского союза опубликовал меморандум о 'вымышленных паспортах … выдаваемых частными организациями и отдельными лицами', по которым воспрещается выдавать официальные транзитные визы. Среди таких 'вымышленных' паспортов в документе упомянуты и паспорта Княжества Хатт-Ривер.</p><p>3 августа 2020 года княжество было официально распущено на фоне споров с налоговой службой Австралии, требующей от княжества уплаты миллионов невыплаченных налогов за свою 50-летнюю историю, а также финансовых последствий, вызванных пандемией COVID-19. Земля, принадлежащая княжеству, была продана для урегулирования налогового спора.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Principality_of_Hutt_River",
+					"label": "Principality of Hutt River - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A5%D0%B0%D1%82%D1%82-%D0%A0%D0%B8%D0%B2%D0%B5%D1%80",
+					"label": "Княжество Хатт-Ривер - Википедия"
+				}
+			]
+		}
+    ]
+}

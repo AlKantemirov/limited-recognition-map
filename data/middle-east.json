@@ -1,0 +1,252 @@
+{
+  "name": "Middle East",
+  "name_ru": "Ближнего Востока",
+  "viewPath": "./resources/map/states/middle-east.svg",
+  "unrec": [
+    {
+	    "id": "Balochistan",
+	    "name": "Balochistan",
+	    "name_ru": "Белуджистан",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/d/de/Balochistan_flag.svg",
+	    "flag_cc": "HapHaxion, CC0, via Wikimedia Commons",
+	    "description": "<p>Pakistani province in eastern Baluchistan. Located in the west of the country on the border with Iran.</p><p>The armed conflict in Balochistan began in 1948 and continues to this day. The governments of Iran and Pakistan are opposed by Baloch nationalists who are seeking independence for a divided people. The conflict is ethno-confessional: in Iran, the Baluchis, the majority of whom are Sunnis, resist the Shiite Persians, and in Pakistan they terrorize the Shiite Hazaras, who are a minority in this region.</p><p>The News International reported in 2012 that a Gallup survey conducted for DFID revealed that the most of the Balochistan province does not support independence from Pakistan.</p>",
+	    "description_ru" : "<p>Пакистанская провинция на территории восточного Белуджистана. Расположена на западе страны на границе с Ираном.</p><p>Вооружённый конфликт в Белуджистане начался в 1948 году и продолжается до настоящего времени. Правительствам Ирана и Пакистана противостоят националисты-белуджи, добивающиеся независимости разделённого народа. Конфликт является этноконфессиональным: в Иране белуджи, большинство из которых относится к суннитам, оказывают сопротивление персам-шиитам, а в Пакистане они же терроризируют шиитов-хазарейцев, которые в этом регионе составляют меньшинство.</p><p>В 2012 году газета News International сообщила, что опрос института Гэллапа, проведенный для министерства международного развития Великобритании, показал, что большая часть провинции Белуджистан не поддерживает независимость от Пакистана.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Balochistan,_Pakistan",
+				"label": "Balochistan - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Insurgency_in_Balochistan",
+				"label": "Insurgency in Balochistan - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D1%83%D0%B4%D0%B6%D0%B8%D1%81%D1%82%D0%B0%D0%BD",
+				"label": "Белуджистан - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82_%D0%B2_%D0%91%D0%B5%D0%BB%D1%83%D0%B4%D0%B6%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B5",
+				"label": "Конфликт в Белуджистане - Википедия"
+			}
+		]
+	  },
+    {
+	    "id": "Kurdistan",
+	    "name": "Kurdistan",
+	    "name_ru": "Курдистан",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg",
+	    "flag_cc": "Unknown author, Public domain, via Wikimedia Commons",
+	    "description": "<p>Ethnogeographical and historical region in the East. Most of the Kurdish lands are located at the junction of the Armenian and Iranian plateaus, as well as in the territories of Upper Mesopotamia. The territory is mainly inhabited by Kurds who host the indigenous people. It is not important to define the external and permanent borders of Kurdistan.</p><p><b>Turkish Kurdistan:</b></p><p>Turkey's annexation of the Kurdish-inhabited regions of eastern Anatolia provoked resistance from many Kurds and led to a long-running separatist conflict</p><p>In an attempt to deny the existence of the Kurds, the Turkish government classified the Kurds as 'Mountain Turks' until 1991. The words 'Kurds', 'Kurdistan' or 'Kurdish' have been officially banned by the Turkish government. After the 1980 military coup, the Kurdish language was officially banned in public and private life. Many people who spoke, published or sang in Kurdish were arrested and imprisoned. Throughout the 1990s and early 2000s, political parties representing Kurdish interests were banned.</p><p>In 1983, the Kurdish provinces were included in the region of emergency, which was declared under martial law in response to the activities of the militant separatist organization <b>Kurdistan Workers' Party.</b> In the 1980s and 1990 a guerrilla war raged, during which much of the countryside was evacuated, thousands of Kurdish villages were destroyed by the government, and numerous summary executions were carried out by both sides. A food embargo was imposed on Kurdish villages and towns. Tens of thousands have been killed in the violence, and hundreds of thousands have been forced from their homes.</p><p><b>Iraqi Kurdistan:</b></p><p>The successful 2014 Northern Iraq offensive by the Islamic State of Iraq and the Levant, with the resultant weakening of the ability of the Iraqi state to project power, also presented a 'golden opportunity' for the Kurds to increase their independence and possibly declare an independent Kurdish state. On 28 June 2014 Hüseyin Çelik, a spokesman for the ruling Justice and Development Party, made comments to the Financial Times indicating Turkey's readiness to accept an independent Kurdistan in northern Iraq.</p>",
+	    "description_ru" : "<p>Этногеографическая и историческая область на Ближнем Востоке. Бо́льшая часть курдских земель расположена на стыке Армянского и Иранского нагорий, а также на территориях Верхней Месопотамии. Территорию в основном населяют курды, являющиеся коренными жителями. Определённых и фиксированных границ Курдистан не имеет.</p><p><b>Турецкий Курдистан:</b></p><p>Присоединение к Турции населенных курдами регионов восточной Анатолии вызвало сопротивление многих курдов и привело к длительному сепаратистскому конфликту, в котором погибли десятки тысяч человек.</p><p>Пытаясь отрицать существование Курдов, турецкое правительство до 1991 года классифицировало курдов как «горных турок». Слова «курды», «Курдистан» или «курдский» были официально запрещены турецким правительством. После военного переворота 1980 года курдский язык был официально запрещен в общественной и частной жизни. Многие люди, которые говорили, публиковали или пели на курдском языке, были арестованы и заключены в тюрьму. На протяжении 1990-х и начала 2000-х годов политические партии, представляющие курдские интересы, были запрещены.</p><p>В 1983 году курдские провинции были включены в регион чрезвычайного положения, в котором было введено военное положение в ответ на деятельность боевой сепаратистской организации <b>«Рабочая партия Курдистана» (РПК).</b> В 1980-х и 1990-х годах шла партизанская война, в ходе которой большая часть сельской местности была эвакуирована, тысячи курдских деревень были разрушены правительством, а обе стороны провели многочисленные казни без суда и следствия. На курдские деревни и города было введено продовольственное эмбарго. Десятки тысяч были убиты в результате насилия, а сотни тысяч были вынуждены покинуть свои дома.</p><p><b>Иракский Курдистан:</b></p><p>Успешное наступление Исламского Государства Ирака и Леванта на север Ирака в 2014 году, повлекшее за собой ослабление способности иракского государства проецировать силу, также предоставило курдам «прекрасную возможность» повысить свою независимость и, возможно, провозгласить независимую Курдское государство. 28 июня 2014 года Хусейн Челик, представитель правящей Партии справедливости и развития (ПСР), сделал комментарий Financial Times, указав на готовность Турции принять независимый Курдистан на севере Ирака.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Kurdistan",
+				"label": "Kurdistan - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party",
+				"label": "Kurdistan Workers' Party - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict",
+				"label": "Kurdish–Turkish conflict - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict",
+				"label": "Iraqi–Kurdish conflict - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/2017_Iraqi%E2%80%93Kurdish_conflict",
+				"label": "2017 Iraqi–Kurdish conflict - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD",
+				"label": "Курдистан - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F_%D0%9A%D1%83%D1%80%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0",
+				"label": "Рабочая партия Курдистана - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%BE-%D0%BA%D1%83%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82",
+				"label": "Турецко-курдский конфликт - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B0%D0%BA%D1%81%D0%BA%D0%BE-%D0%BA%D1%83%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82_(2017)",
+				"label": "Иракско-курдский конфликт (2017) - Википедия"
+			}
+		]
+	  },
+    {
+	    "id": "Hazarajat",
+	    "name": "Hazarajat",
+	    "name_ru": "Хазареджат",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_Hazaristan.svg",
+	    "flag_cc": "CzarJobKhaya, Public domain, via Wikimedia Commons",
+	    "description": "<p>A historical mountainous region in the central part of modern Afghanistan. It is impossible to establish the exact borders of Hazaredjat.</p><p>During the rule of the Taliban, once again, ethnic and sectarian violence struck Hazarajat. In 1997, a revolt broke out among Hazara people in Mazar-e Sharif when they refused to be disarmed by the Taliban; 600 Taliban were killed in subsequent fighting. In retaliation, the genocidal policies of Amir Abdur Rahman Khan's era were adopted by the Taliban. In 1998, six thousand Hazaras were killed in the north; the intention was ethnic cleansing of Hazara. At that stage, Hazarajat does not exist as an official region; the area comprises the administrative provinces of Bamyan, Ghor, Maidan Wardak, Ghazni, Oruzgan, Juzjan, and Samangan.</p>",
+	    "description_ru" : "<p>Историческая горная область на центральной части современной территории Афганистана. Точных границ Хазареджата установить не представляет возможности.</p><p>Во время правления Талибана на Хазараджат обрушилось этническое и религиозное насилие. В 1997 году среди хазарейцев в Мазари-Шарифе вспыхнуло восстание, когда они отказались быть разоруженными талибами. В ответ Талибан перенял политику геноцида времен Амира Абдур Рахман Хана. В 1998 году на севере было убито шесть тысяч хазарейцев; намерением была этническая чистка. На данный момент Хазараджат не существует как официальный регион; В состав территории входят административные провинции Бамиан, Гор, Майдан-Вардак, Газни, Орузган, Джузджан и Саманган.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Hazarajat",
+				"label": "Hazarajat - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Hazara_nationalism",
+				"label": "Hazara nationalism - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Persecution_of_Hazaras",
+				"label": "Persecution of Hazaras - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B4%D0%B6%D0%B0%D1%82",
+				"label": "Хазареджат - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B9%D1%86%D1%8B#%D0%9F%D1%80%D0%B5%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F",
+				"label": "Преследования хазарейцев - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D0%B8%D1%8F_%D0%B8%D1%81%D0%BB%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B5%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B0_%D0%B0%D1%84%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B0",
+				"label": "Про-хазарейская политическая партия - партия исламского единства афганского народа - Википедия"
+			}
+		]
+	  },
+    {
+	    "id": "State_of_Palestine",
+	    "name": "State of Palestine",
+	    "name_ru": "Государство Палестина",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+	    "flag_cc": "Orionist, previous versions by Makaristos, Mysid, etc., Public domain, via Wikimedia Commons",
+	    "description": "<p>The formation of a Palestinian state is envisaged in accordance with UN decisions on the territory of the <b>West Bank</b> (or part of it, including the territory of East Jerusalem) and the <b>Gaza Strip.</b> There are various proposals for its creation depending on the opinion of Palestinian statehood, as well as various definitions of it as a territory.</p><p>The declaration of the State of Palestine took place on November 15, 1988 in Algeria at a session of the Palestinian National Council - the highest deliberative body of the <b>Palestine Liberation Organization (PLO)</b> - 253 votes in favor, 46 against and 10 people abstained from voting. However, the PLO did not control any territory it claimed.</p><p>In 1994, as a result of the Oslo Accords between Israel and the PLO of September 13, 1993, the <b>Palestinian National Authority</b> was created.</p><p>On January 5, 2013, a decree was issued by PNA Chairman Mahmoud Abbas, ordering from now on, instead of the name “Palestinian National Authority,” to use exclusively the name <b>“State of Palestine”</b> for official purposes. As of January 2019, a number of countries in in particular: Israel, Spain, Norway, the USA, Sweden and some others did not recognize this decision.</p><p><b>Arab-Israeli conflict:</b></p><p><b>The Arab-Israeli War (1947-1949)</b> began immediately after Israel declared independence in May 1948. The war involved fighting between the newly formed state of Israel and Arab countries such as Egypt, Jordan, Syria and Iraq. The war ended with the signing of a series of truces and a ceasefire agreement in 1949. As a result of this war, Israel received more territory than was allocated to it by the UN division plan in 1947.</p><p><b>Six-Day War</b> occurred in June 1967 between Israel and a coalition of Arab countries, including Egypt, Jordan and Syria. The war began with preliminary military actions and was caused by the tense situation in the region. Israel carried out a warning strike on its neighbors' military airfields, which allowed it to gain a strategic advantage. In six days of fighting, Israel conquered significant territories, including East Jerusalem, the West Bank, the Sinai Peninsula and the Golan Heights.</p><p><b>The Gaza Strip War</b>, called Operation Iron Swords in Israel, was declared by Israel on October 7, 2023, in response to the <b>Hamas</b> invasion.</p><br><p>The State of Palestine is recognized by 138 nations as of July 2019.</p>",
+	    "description_ru" : "<p>Формирование палестинского государства предусматривается в соответствии с решениями ООН на территории <b>Западного берега реки Иордан</b> (или его части, в том числе на территории Восточного Иерусалима) и <b>сектора Газа.</b> Существуют различные предложения по его созданию в зависимости от мнения о палестинской государственности, а также различные его определения как территории.</p><p>Провозглашение Государства Палестина состоялось 15 ноября 1988 года в Алжире на сессии Палестинского национального совета — высшего совещательного органа <b>Организации освобождения Палестины (ООП)</b> — 253 голоса «за», 46 — «против» и 10 человек воздержались от голосования. При этом ООП не контролировала какую-либо территорию, на которую претендовала.</p><p>В 1994 году в результате Соглашений в Осло между Израилем и ООП от 13 сентября 1993 была создана <b>Палестинская национальная администрация.</b></p><p>5 января 2013 года был издан указ председателя ПНА Махмуда Аббаса, предписывающий впредь вместо названия «Палестинская национальная администрация» использовать в официальных целях исключительно название <b>«Государство Палестина».</b> На январь 2019 года ряд стран, в частности: Израиль, Испания, Норвегия, США, Швеция и некоторые другие — это решение не признали.</p><p><b>Арабо-израильский конфликт:</b></p><p><b>Арабо-израильская война (1947-1949)</b> началась сразу после объявления независимости Израиля в мае 1948 года. Война включала в себя борьбу между новообразованным государством Израиль и арабскими странами, такими как Египет, Иордания, Сирия и Ирак. Война завершилась подписанием ряда перемирий и договором о прекращении огня в 1949 году. В результате этой войны Израиль получил большую территорию, чем ему было отведено планом деления ООН в 1947 году.</p><p><b>Шестидневная война</b> произошла в июне 1967 года между Израилем и коалицией арабских стран, включая Египет, Иорданию и Сирию. Война началась с предварительных военных действий и была вызвана напряженной обстановкой в регионе. Израиль провел предупредительный удар по военным аэродромам своих соседей, что позволило ему получить стратегическое преимущество. За шесть дней боевых действий Израиль завоевал значительные территории, включая Восточный Иерусалим, Западный берег реки Иордан, Синайский полуостров и Голанские высоты.</p><p><b>Война в секторе Газа</b>, называемая в Израиле операцией «Железные мечи» была объявлена Израилем 7 октября 2023 года в ответ на вторжение <b>ХАМАС</b></p><br><p>По состоянию на июль 2019 года Государство Палестина признано 138 странами.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/State_of_Palestine",
+				"label": "State of Palestine - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/West_Bank",
+				"label": "West Bank - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Gaza_Strip",
+				"label": "Gaza Strip - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Palestinian_Authority",
+				"label": "Palestinian Authority - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Palestine_Liberation_Organization",
+				"label": "Palestine Liberation Organization - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Hamas",
+				"label": "Hamas - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict",
+				"label": "Israeli–Palestinian conflict - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict",
+				"label": "Arab–Israeli conflict - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Six-Day_War",
+				"label": "Six-Day War - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Israel%E2%80%93Hamas_war",
+				"label": "Israel–Hamas war - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/International_recognition_of_the_State_of_Palestine",
+				"label": "International recognition of the State of Palestine - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%B0",
+				"label": "Государство Палестина - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3_%D1%80%D0%B5%D0%BA%D0%B8_%D0%98%D0%BE%D1%80%D0%B4%D0%B0%D0%BD",
+				"label": "Западный берег реки Иордан - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D0%93%D0%B0%D0%B7%D0%B0",
+				"label": "Сектор Газа - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
+				"label": "Палестинская национальная администрация - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D1%8B",
+				"label": "Организация освобождения Палестины - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A5%D0%90%D0%9C%D0%90%D0%A1",
+				"label": "ХАМАС - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%BE-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82",
+				"label": "Палестино-израильский конфликт - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%B1%D0%BE-%D0%B8%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82",
+				"label": "Арабо-израильский конфликт - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%B8%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0",
+				"label": "Шестидневная война - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%93%D0%B0%D0%B7%D0%B5_(%D1%81_2023)",
+				"label": "Война в Газе (с 2023) - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE-%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0_%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%B0",
+				"label": "Международно-правовой статус Государства Палестина - Википедия"
+			}
+		]
+	  },
+    {
+	    "id": "Northern_Cyprus",
+	    "name": "Turkish Republic of Northern Cyprus",
+	    "name_ru": "Турецкая Республика Северного Кипра",
+	    "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg",
+	    "flag_cc": "See File History, below for details., Public domain, via Wikimedia Commons",
+	    "description": "<p>A state occupying the northern third of the island of Cyprus, located on the borders of the Republic of Cyprus. Recognized only by Turkey. The republic is a member of the Organization of Islamic Cooperation and the Organization of Turkic States as an observer.</p><p>Under the terms of the peace agreement, the creation of a federal republic was envisaged and in 1975 the Turkish Federative State of Northern Cyprus was self-proclaimed, formally as part of the federation, but with the caveats that the federation should review and bring its constitution into agreement with the de facto current situation. This idea did not find support either from the Republic of Cyprus or from the international community. After 8 years of negotiations with the Republic of Cyprus, the Turkish Federative State of Northern Cyprus declared its “independence from Cyprus” in 1983. The new state became known as the Turkish Republic of Northern Cyprus (TRNC). <b>The Declaration of Independence of the Turkish Republic of Northern Cyprus</b>, however, was rejected by the UN. In a referendum on May 5, 1985, the Constitution of the Turkish Republic of Northern Cyprus was adopted by a majority of 70.2%.</p>",
+	    "description_ru" : "<p>Государство, занимающее северную треть острова Кипр, расположенного в границах Республики Кипр. Признана только Турцией. Республика входит в Организацию исламского сотрудничества и Организацию тюркских государств как наблюдатель.</p><p>По условиям мирного соглашения предполагалось создание федеративной республики и в 1975 году было самопровозглашено Турецкое Федеративное Государство Северного Кипра, формально как часть федерации, но с оговорками, что следует федерацию пересмотреть и привести её конституцию к согласию с de facto сложившимся положением. Эта идея не нашла поддержки ни у Республики Кипр, ни у международного сообщества. После 8 лет переговоров с Республикой Кипр Турецкое Федеративное Государство Северного Кипра объявило в 1983 году о своей «независимости от Кипра». Новое государство стало называться Турецкой Республикой Северного Кипра (ТРСК). <b>Декларация независимости Турецкой Республики Северного Кипра</b>, впрочем, была отклонена ООН. На референдуме 5 мая 1985 года большинством в 70,2 % была принята Конституция Турецкой Республики Северного Кипра.</p>",
+	    "links": [
+			{
+				"link": "https://en.wikipedia.org/wiki/Northern_Cyprus",
+				"label": "Northern Cyprus - Wikipedia"
+			},
+			{
+				"link": "https://en.wikipedia.org/wiki/Declaration_of_Independence_of_the_Turkish_Republic_of_Northern_Cyprus",
+				"label": "Declaration of Independence of the Turkish Republic of Northern Cyprus - Wikipedia"
+			}
+		],
+	    "links_ru": [
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9A%D0%B8%D0%BF%D1%80%D0%B0",
+				"label": "Турецкая Республика Северного Кипра - Википедия"
+			},
+			{
+				"link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9A%D0%B8%D0%BF%D1%80%D0%B0",
+				"label": "Декларация независимости Турецкой Республики Северного Кипра - Википедия"
+			}
+		]
+	  }
+  ]  
+}

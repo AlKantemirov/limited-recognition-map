@@ -1,0 +1,826 @@
+{
+	"name": "Europe",
+	"name_ru": "Европы",
+	"viewPath": "./resources/map/states/europe.svg",
+	"unrec": [
+    	{
+			"id": "Canton_of_Jura",
+			"name": "Canton of Jura",
+			"name_ru": "Кантон Юра",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_Canton_of_Jura.svg",
+			"flag_cc": "offizielle PDF, Public domain, via Wikimedia Commons",
+			"description": "<p>Canton in northwestern Switzerland, the youngest canton in the Swiss confederation. The administrative center is the city of Delémont.</p><p>On March 1, 1970 a referendum was held in which residents were asked to answer the following question: do they agree with the prospect of the separation of seven northwestern Berne communities (Catholic and French-speaking) and the creation of a sovereign canton of Jura on their basis. The majority of voters agreed with this prospect. This was followed by a referendum in the Jura district itself. On June 12, 1974, in seven communities, a majority of citizens voted to create a new canton of Jura. The advantage was insignificant: 'for' - 36,802, 'against' - 30,057. In this regard, an additional referendum was held on the same issue in the three southern communities of Courtelary, La Neuville and Moutiers. Residents of these districts spoke in favor of maintaining their communities within the canton of Bern.</p><p>In 1962–1993, the political movement <b>'Jura Liberation Front'</b> was active in Switzerland. The movement began to take shape in the 1960s, when the activity of fighters for the independence of the canton of Jura became most noticeable. Even before it was formed in the mid-1970s as a separatist movement advocating the separation of the French-speaking areas of the canton of Bern and the formation of the independent canton of Jura, activists committed various provocative actions against the 'pro-Bern' citizens of the canton of Bern.</p>",
+			"description_ru" : "<p>Кантон на северо-западе Швейцарии, самый молодой кантон в составе швейцарской конфедерации. Административный центр — город Делемон.</p><p>В кантоне Берн 1 марта 1970 года был проведен референдум, на котором жителям предлагалось ответить на следующий вопрос: согласны ли они с перспективой отделения семи северо-западных бернских общин (католических и франкоговорящих) и созданием суверенного кантона Юра на их основе. Большинство проголосовавших согласились с этой перспективой. Далее последовал референдум в самом округе Юра. 12 июня 1974 года в семи общинах большинство граждан проголосовало за создание нового кантона Юра. Перевес был незначительным: 'за' — 36 802, 'против' — 30 057. В связи с этим был проведен дополнительный референдум по этому же вопросу в трех южных общинах Куртелари, Ла-Нёвилль и Мутье. Жители этих округов высказались за сохранение их общин в составе кантона Берн.</p><p>В 1962–1993 годах в Швейцарии действовало политическое движение <b>'Фронт освобождения Юры'.</b> Движение начало оформляться в 1960-е годы, когда активность борцов за независимость кантона Юра стала наиболее заметной. Ещё до оформления в середине 1970-х годов как сепаратистского движения, выступающего за отделение франкоговорящих областей кантона Берн и образования независимого кантона Юра, активистами были совершены различные провокационные акции против «пробернски» настроенных граждан кантона Берн: взрывались телеграфные столбы, совершались покушения на военные сооружения и крестьянские дворы.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Canton_of_Jura",
+					"label": "Canton of Jura - Wikipedia"
+				},
+				{
+					"link": "https://fr.wikipedia.org/wiki/Front_de_lib%C3%A9ration_jurassien",
+					"label": "Jura Liberation Front - Wikipedia [fr]"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%AE%D1%80%D0%B0_(%D0%BA%D0%B0%D0%BD%D1%82%D0%BE%D0%BD)",
+					"label": "Кантон Юра - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%AE%D1%80%D1%8B",
+					"label": "Фронт освобождения Юры - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Savoy",
+			"name": "Savoy",
+			"name_ru": "Савойя",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Savoie.svg",
+			"flag_cc": "Patricia.fidi, CC0, via Wikimedia Commons",
+			"description": "<p>Historical region in southeastern France at the foot of the Alps. For some time it existed as an independent duchy, which in its heyday included the territories of Nice, Genoa, Geneva and Piedmont. Since 1860, it has been part of France, although it was the Savoy dynasty that became the ruling dynasty in the newly created Italy. In modern France, on the territory of Savoy, there are 2 departments - Savoy and Haute Savoie.</p><p>In 1860, after the Austro-Italian-French War of 1859 and the annexation of Lombardy, Parma, Tuscany, Modena and Romagna to the Sardinian kingdom, Napoleon III obtained from the Sardinian government the conclusion of the Treaty of Turin, according to which the Sardinian king Victor Emmanuel II actually transferred Savoy to France together with Nice. The cession of this territory caused great irritation against the government.</p><p>The party <b>'Mouvement Région Savoie'</b> supports the creation of the Savoie region, consisting of the departments of Savoie and Haute Savoie. Both of these departments are part of the larger Rhône-Alpes region, an 'artificial' region built in 1972. It also supports Arpitan, the old language of the region.</p>",
+			"description_ru" : "<p>Историческая область на юго-востоке Франции у подножия Альп. Некоторое время существовала в качестве самостоятельного герцогства, которое в период своего расцвета включало территории Ниццы, Генуи, Женевы и Пьемонта. С 1860 года в составе Франции, хотя именно Савойская династия становится правящей во вновь созданной Италии. В современной Франции на территории Савойи расположены 2 департамента — Савойя и Верхняя Савойя.</p><p>В 1860 году после Австро-итало-французской войны 1859 года и присоединения к Сардинскому королевству Ломбардии, Пармы, Тосканы, Модены и Романьи Наполеон III добился от сардинского правительства заключения Туринского договора, по которому сардинский король Виктор Эммануил II фактически передавал Франции Савойю вместе с Ниццей. Правда, при этом была соблюдена формальность плебисцита, но были приняты меры, чтобы плебисцит оказался в пользу присоединения. Уступка этой территории вызвала большое раздражение против правительства.</p><p>Партия <b>'Движение региона Савой'</b> поддерживает создание региона Савойя, состоящего из департаментов Савойя и Верхняя Савойя. Оба этих департамента являются частью более крупного региона Рона-Альпы, «искусственного» региона, построенного в 1972 году. Он также поддерживает арпитанский язык, старый язык этого региона.</p></p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Savoy",
+					"label": "Savoy - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Savoy_Region_Movement",
+					"label": "Savoy Region Movement - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B2%D0%BE%D0%B9%D1%8F",
+					"label": "Савойя - Википедия"
+				},
+				{
+					"link": "https://ru.wikibrief.org/wiki/Savoy_Region_Movement",
+					"label": "Движение региона Савой - ВикибриФ"
+				}
+			]
+		}, 
+    	{
+			"id": "Occitania",
+			"name": "Occitania",
+			"name_ru": "Окситания ",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Occitania_%28with_star%29.svg",
+			"flag_cc": "Nimlar, Public domain, via Wikimedia Commons",
+			"description": "<p>Historical and cultural region in the south of France and a small part of Spain and Italy; basically corresponds to the southern half of France. The region-forming factor is the territory of distribution of the Occitan language, the core of the region is the historical region of Aquitaine.</p><p>After the end of World War II, organizations dedicated to promoting the Occitan language and culture appeared in the south of France, and the number of activists involved in the preservation and study of regional identity increased.<br>In 1959, the first regional political party advocating the independence of Occitania emerged - the <b>Party of the Occitan Nation.</b> In 1987, the less radical <b>Occitan Party</b> was created, advocating the autonomy of Occitania</p><p>Now there is a region of France, created in accordance with the territorial reform of the French regions in 2016 as a result of the unification of the Languedoc-Roussillon and Midi-Pyrenees regions. The date of formation of the new region is considered to be January 1, 2016.</p>",
+			"description_ru" : "<p>Историко-культурная область на юге Франции и небольшой части Испании и Италии; в основном соответствует южной половине Франции. Регионообразующий фактор — территория распространения окситанского языка, ядро региона — историческая область Аквитания.</p><p>После окончания Второй мировой войны на юге Франции появились организации, занимающиеся продвижением окситанского языка и культуры, увеличилось число активистов, занимающихся сохранением и изучением регионального своеобразия.<br>В 1959 году возникла первая региональная политическая партия, выступающая за независимость Окситании — <b>Партия окситанской нации.</b> В 1987 году была создана менее радикальная <b>Окситанская партия</b>, выступающая за автономию Окситании</p><p>Сейчас же существует регион Франции, созданный в соответствии с территориальной реформой французских регионов 2016 года в результате объединения регионов Лангедок-Руссильон и Юг-Пиренеи. Датой образования нового региона считается 1 января 2016 года.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Occitania",
+					"label": "Occitania - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Partit_de_la_Nacion_Occitana",
+					"label": "Partit de la Nacion Occitana - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Occitan_Party",
+					"label": "Occitan Party - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_(%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+					"label": "Окситания - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Partit_de_la_Nacion_Occitana",
+					"label": "Партия окситанской нации - Википедия [en]"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F",
+					"label": "Окситанская партия - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Corsica",
+			"name": "Corsica",
+			"name_ru": "Корсика",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Flag_of_Corsica.svg",
+			"flag_cc": "Patricia.fidi, CC0, via Wikimedia Commons",
+			"description": "<p>The fourth largest island in the Mediterranean Sea; one of the 18 regions of France. Nevertheless, Corsica has a special status - <b>Territorial Community of Corsica.</b> Includes the departments of Southern Corsica and Upper Corsica.</p><p>In November 1942, after the landing of Anglo-American troops in North Africa, the island was occupied by Italian and German troops.<br>After the armistice between Italy and the Allies in September 1943, Italian troops and Free French Forces drove the Germans from the island, making Corsica the first French department to be liberated. Subsequently, the US military created 17 airfields that served as bases for attacks on targets in German-occupied Italy. In 1943-1945, 22 tactical aviation airfields were deployed - the Western allies in the anti-Hitler coalition called the island 'USS Corsica'.</p><p>A new wave for the independence of Corsica arose in the 1970s, with the emergence of the <b>National Liberation Front of Corsica</b> - a separatist organization based in the south of France, whose goal is to achieve complete political independence or expand the rights of autonomy of Corsica, as well as recognition by the country's authorities of the 'people of Corsica', considered French under French law.</p>",
+			"description_ru" : "<p>Четвёртый по величине остров в Средиземном море; один из 18 регионов Франции. Тем не менее Корсика имеет особый статус — <b>Территориальная общность Корсика.</b> Включает департаменты Южная Корсика и Верхняя Корсика.</p><p>В ноябре 1942 года, после высадки англо-американских войск в Северной Африке, остров был оккупирован итальянскими и немецкими войсками.<br>После перемирия между Италией и союзниками в сентябре 1943 года итальянские войска и Свободные французские силы вытеснили немцев с острова, сделав Корсику первым освобожденным французским департаментом. Впоследствии американские военные создали 17 аэродромов, которые служили базами для ударов по целям в оккупированной немцами Италии. В 1943—1945 годах было развёрнуто 22 аэродрома тактической авиации — западные союзники по антигитлеровской коалиции называли остров 'USS Corsica'.</p><p>Новая волна за независимость Корсики зародилась в 1970-х годах, появляется <b>фронт национального освобождения Корсики</b> — сепаратистская организация, базирующаяся на юге Франции, ставящая своей целью достижение полной политической независимости или же расширения прав автономии Корсики, а также признание властями страны 'народа Корсики', считающихся французами по французским законам.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Corsica",
+					"label": "Corsica - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Corsica",
+					"label": "National Liberation Front of Corsica - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%81%D0%B8%D0%BA%D0%B0",
+					"label": "Корсика - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9A%D0%BE%D1%80%D1%81%D0%B8%D0%BA%D0%B8",
+					"label": "Фронт национального освобождения Корсики - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Brittany",
+			"name": "Brittany",
+			"name_ru": "Бретань",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Flag_of_the_Union_D%C3%A9mocratique_Bretonne.svg",
+			"flag_cc": "Fry1989, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+			"description": "<p>The region in northwestern France, makes up most of the historical region of the same name and is located on the peninsula of the same name, washed from the north by the English Channel and from the south by the Bay of Biscay. The administrative center of the region is the city of Rennes.</p><p>In 1963, the <b>Breton Liberation Front</b> was created, which began the struggle for the independence of Brittany. In 1964, the political party <b>'Breton Democratic Union'</b> was created, advocating autonomy for Brittany.</p>",
+			"description_ru" : "<p>Регион на северо-западе Франции, составляет большую часть одноимённой исторической области и расположен на одноимённом полуострове, омываемом с севера Ла-Маншем, а с юга Бискайским заливом. Административный центр региона — город Ренн.</p><p>В 1963 году создан <b>Фронт освобождения Бретани</b>, начавший борьбу за независимость Бретани. В 1964 году создана политическая партия <b>«Демократический Бретонский Союз»</b>, выступающая за автономию Бретани.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Brittany_(administrative_region)",
+					"label": "Brittany - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Breton_Liberation_Front",
+					"label": "Breton Liberation Front - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Breton_Democratic_Union",
+					"label": "Breton Democratic Union - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D1%82%D0%B0%D0%BD%D1%8C",
+					"label": "Бретань - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%91%D1%80%D0%B5%D1%82%D0%B0%D0%BD%D0%B8",
+					"label": "Фронт освобождения Бретани - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%80%D0%B5%D1%82%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7",
+					"label": "Демократический бретонский союз - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Padania",
+			"name": "Padania",
+			"name_ru": "Падания",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Flag_of_Padania.svg",
+			"flag_cc": "user:Orzetto, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
+			"description": "<p>The name of Piedmont, Lombardy and other northern regions of Italy (Padan Plain), where Northern Italian languages ​​are spoken.</p><p>This term came into widespread use in the 1990s, when the separatist party <b>'Lega Nord'</b> demanded the separation of Padania from the backward agrarian South, created a 'shadow' parliament in Mantua and held similar elections there. To attract attention to its activities, the Northern League organized the Padania national football team in 1998.</p><p>Padania as defined in <b>Lega Nord's 1996 Declaration of Independence and Sovereignty of Padania</b> goes beyond Northern Italy and includes much of Central Italy, for a greater Padania that includes more than half of the Republic of Italy (161,000 of 301,000 km2 in area, 34 million out of 60 million in population).</p>",
+			"description_ru" : "<p>Название Пьемонта, Ломбардии и других северных областей Италии (Паданская равнина), где распространены северноитальянские языки.</p><p>Этот термин вошёл в широкий обиход в 1990-е годы, когда партия сепаратистов <b>'Лига Севера'</b> потребовала отделения Падании от отсталого аграрного Юга, создала «теневой» парламент в Мантуе и провела подобие выборов в него. Для привлечения внимания к своей деятельности лига Севера организовала в 1998 году сборную Падании по футболу.</p><p>Падания, как она определена Лигой Севера в <b>Декларации независимости и суверенитета Падании 1996 года</b>, выходит за пределы Северной Италии и включает большую часть Центральной Италии, образуя большую Паданию, включающую более половины Итальянской Республики (161 000 из 301 000 км2).</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Padania",
+					"label": "Padania - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Lega_Nord",
+					"label": "Lega Nord - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Padania_national_football_team",
+					"label": "Padania national football team - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Padanian_nationalism",
+					"label": "Padanian nationalism - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Padanian_Declaration_of_Independence",
+					"label": "Padanian Declaration of Independence - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F",
+					"label": "Падания - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%B0",
+					"label": "Лига Севера - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%9F%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83",
+					"label": "Сборная Падании по футболу - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Padanian_nationalism",
+					"label": "Паданский национализм - Википедия [en]"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Padanian_Declaration_of_Independence",
+					"label": "Паданская декларация независимости - Википедия [en]"
+				}
+			]
+		}, 
+    	{
+			"id": "Basque_Country",
+			"name": "Basque Country",
+			"name_ru": "Страна Басков",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Flag_of_the_Basque_Country.svg",
+			"flag_cc": "Daniele Schirmo aka Frankie688, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons",
+			"description": "<p><p>The Autonomous Community of the Basque Country is part of the historical region of the same name, the territory of which also includes the Autonomous Community of Navarre (identical to the Spanish province of the same name) and the Northern Basque Country in the south of France.</p></p><p>Navarre is one of the historical Basque territories and even claimed by the Basque nationalists as the core of the Basque nation. There are also two enclaves surrounded by Basque territory — Treviño and Valle de Villaverde — which belong to the fellow neighbouring communities of Castile and León and Cantabria respectively, for which a legal connection to the Basque Country has become an on-off matter of political discussion.</p>",
+			"description_ru" : "<p>Автономное сообщество Страна Басков является частью одноимённого исторического региона, территория которого распространяется также на автономное сообщество Наварра (тождественное одноимённой испанской провинции) и Северную Страну басков на юге Франции.</p><p>Наварра является одной из исторических баскских территорий и даже считается баскскими националистами ядром баскской нации. Есть также два анклава, окруженных территорией Басков — Тревиньо и Валье-де-Вильяверде, которые принадлежат соседним общинам Кастилии и Леона и Кантабрии соответственно, для которых существует юридическая связь с территорией Басков. Страна Басков стала предметом политических дискуссий.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)",
+					"label": "Basque Country - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Basque_Country_(greater_region)",
+					"label": "Basque Country (greater region) - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Basque_Country_independence",
+					"label": "Basque Country independence - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0_%D0%91%D0%B0%D1%81%D0%BA%D0%BE%D0%B2",
+					"label": "Страна Басков - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%BA%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8",
+					"label": "Баскские земли - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Basque_Country_independence",
+					"label": "Независимость Страны Басков - Википедия [en]"
+				}
+			]
+		}, 
+    	{
+			"id": "Catalonia",
+			"name": "Catalan Republic",
+			"name_ru": "Каталонская Республика",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg",
+			"flag_cc": "Motoroil, Public domain, via Wikimedia Commons",
+			"description": "<p>A failed state in Southwestern Europe, self-proclaimed on October 27, 2017 on the territory of the Autonomous Community of Catalonia (an administrative-territorial unit within the Kingdom of Spain) by the authorities of Catalonia based on the results of the <b>referendum on independence.</b> According to According to Spanish legislation, the results of the referendum and other actions based on them are recognized as legally void. On October 30, the Catalan Parliament recognized the Spanish government's decision to dissolve itself and stopped working until early elections were held. On October 31, the Spanish Constitutional Court, citing Article 161.2 of the Spanish Constitution, annulled the declaration of independence of Catalonia. The head of the Catalan Republic, Carles Puigdemont, and some government ministers of the unrecognized republic are currently in Belgium, calling on the population of Catalonia for non-violent resistance. They also called for using the elections of December 21 to strengthen the Catalan Republic. On March 25, 2018, Carles Puigdemont, again put on the international wanted list by the Supreme Court of Spain, was detained and arrested by German police after crossing the border with Denmark on his way to Belgium.</p><p>Currently exists as an autonomous community of Spain</p>",
+			"description_ru" : "<p>Несостоявшееся государство в Юго-Западной Европе, самопровозглашённое 27 октября 2017 года на территории Автономного сообщества Каталония (административно-территориальная единица в составе Королевства Испания) властями Каталонии на основании итогов проведённого ими <b>референдума о независимости.</b> Согласно законодательству Испании итоги референдума и прочие действия, основанные на них, признаны юридически ничтожными. 30 октября парламент Каталонии признал решение испанского правительства о своем роспуске и прекратил работу до проведения досрочных выборов. 31 октября Конституционный суд Испании, сославшись на статью 161.2 испанской конституции, аннулировал декларацию о независимости Каталонии. Глава Каталонской Республики Карлес Пучдемон и некоторые министры правительства непризнанной республики в настоящее время находятся в Бельгии, призывая оттуда население Каталонии к ненасильственному сопротивлению. Также они призывали использовать выборы от 21 декабря для укрепления Каталонской Республики. 25 марта 2018 г. Карлес Пучдемон, вновь объявленный Верховным судом Испании в международный розыск, был задержан и арестован немецкой полицией после пересечения границы с Данией по пути в Бельгию.</p><p>На данный момент существует как автономное сообщество Испании</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Catalan_declaration_of_independence",
+					"label": "Catalan declaration of independence - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Catalan_independence_movement",
+					"label": "Catalan independence movement - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/2017_Catalan_independence_referendum",
+					"label": "2017 Catalan independence referendum - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_(2017)",
+					"label": "Каталонская Республика - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D0%B8",
+					"label": "Движение за независимость Каталонии - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D0%B4%D1%83%D0%BC_%D0%BE_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D0%B8_(2017)",
+					"label": "Референдум о независимости Каталонии - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Gibraltar",
+			"name": "Gibraltar",
+			"name_ru": "Гибралтар",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
+			"flag_cc": "Created on behalf of Isabella I of Castile in 1502; this version uploaded by Denelson83 (talk · contribs), Public domain, via Wikimedia Commons",
+			"description": "<p>A British overseas territory, disputed by Spain, in the south of the Iberian Peninsula, including the Rock of Gibraltar and the sandy isthmus connecting the rock to the Iberian Peninsula.</p><p>In a referendum held in Gibraltar in September 2002, Gibraltarian voters rejected even partial Spanish sovereignty. Gibraltarians seem to remain distrustful of Spain despite improved relations. In 2022, following increased pressure from the Spanish government, Chief Minister Fabian Picardo said 'Gibraltar will never be Spanish'.</p>",
+			"description_ru" : "<p>Заморская территория Великобритании, оспариваемая Испанией, на юге Пиренейского полуострова, включающая в себя Гибралтарскую скалу и песчаный перешеек, соединяющий скалу с Пиренейским полуостровом.</p><p>На референдуме, проведенном в Гибралтаре в сентябре 2002 года, гибралтарские избиратели отвергли даже частичное владение Испании. Гибралтарцы по-прежнему не доверяют Испании, несмотря на улучшение отношений. В 2022 году, после усиления давления со стороны правительства Испании, главный министр Фабиан Пикардо заявил, что 'Гибралтар никогда не будет испанским'.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Gibraltar",
+					"label": "Gibraltar - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Status_of_Gibraltar",
+					"label": "Status of Gibraltar - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B1%D1%80%D0%B0%D0%BB%D1%82%D0%B0%D1%80",
+					"label": "Гибралтар - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Status_of_Gibraltar",
+					"label": "Статус Гибралтара - Википедия [en]"
+				}
+			]
+		}, 
+    	{
+			"id": "Kingdom_of_Elleore",
+			"name": "Kingdom of Elleore",
+			"name_ru": "Королевство Эллеоры",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/9/95/Flag_of_Elleore.svg",
+			"flag_cc": "original Scottish flag by Kbolino, recoloured by TeVe, Public domain, via Wikimedia Commons",
+			"description": "<p>A virtual state located on the island of Elleore in the Roskilde Fjord, north of Roskilde on the Danish island of Zealand.</p><p>During the German occupation of Denmark, the island was purchased by a group of Copenhagen schoolteachers in 1944 for use as a summer camp. They proclaimed the island's tongue-in-cheek 'independence' as a Kingdom as a gentle parody of the government structure and royal traditions of Denmark.</p><p>The area of ​​the island is estimated to be approximately 15,000 square meters. Elleor is devoid of people, except for the annual gathering of dozens of its 'citizens', known as the 'Elleuge'. At this time, the ceremonial enthronement of the reigning monarch takes place. The proposed capital is the tent city of Maglelil, erected only for weekly stays.</p>",
+			"description_ru" : "<p>Виртуальное государство, расположенное на острове Эллеоре во Роскилле-фьорде, к северу от Роскилле на датском острове Зеландия.</p><p>Во время немецкой оккупации Дании в 1944 году остров был куплен группой школьных учителей Копенгагена для использования в качестве летнего лагеря. Они иронично провозгласили 'независимость' острова пародию на правительственную структуру и королевские традиции Дании. Учителя утверждают, что происхождение королевства можно проследить до 'монашеского общества ирландских монахов, прибывшего в середине 10 века'.</p><p>Площадь острова оценивается примерно в 15 000 квадратных метров. В Эллеоре нет людей, за исключением ежегодного собрания, на которое собираются десятки его 'граждан', известного как 'Elleuge'. В это время происходит торжественное возведение на престол правящего монарха. Предполагаемая столица — палаточный городок Маглелиль, возводимый только для недельного проживания.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Kingdom_of_Elleore",
+					"label": "Kingdom of Elleore - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE_%D0%AD%D0%BB%D0%BB%D0%B5%D0%BE%D1%80%D1%8B",
+					"label": "Королевство Эллеоры - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Freetown_Christiania",
+			"name": "Freetown Christiania",
+			"name_ru": "Свободный город Христиания",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Christiania.svg",
+			"flag_cc": "Original: Unknown Vector:  Liftarn, Public domain, via Wikimedia Commons",
+			"description": "<p>An unofficial self-governing commune located in the Christianshavn district of Copenhagen, the capital of Denmark. It represents a great deal of commonality with the socialist structure of the economy, although the inhabitants of Christiania themselves do not use the term 'socialism'. The territory is actually not controlled by the Danish authorities; the form of political organization of society is different from the state one.</p><p>Due to the lack of control of the Danish police, the Copenhagen drug trade took root in Christiania in the 1970s, and the area became known as a criminal drug den. However, the open trade of cannabis was shut down in April 2024 as a collaborative effort with police and the majority inhabitants of Christania.</p>",
+			"description_ru" : "<p>Неофициальная самоуправляемая коммуна, расположенная в районе Кристиансхавн города Копенгагена, столицы Дании. Представляет собой большую общность с социалистическим укладом в экономике, хотя сами жители Христиании термин 'социализм' не используют. Территория фактически не контролируется властями Дании, форма политической организации общества отлична от государственной.</p><p>Из-за неподконтрольности датской полиции на территории Христиании в 1970-х годах укоренилась копенгагенская наркоторговля, и район получил известность как преступный наркопритон. Тем не менее, открытая торговля каннабисом была прекращена в апреле 2024 года благодаря совместным усилиям полиции и большинства жителей Христании.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Freetown_Christiania",
+					"label": "Freetown Christiania - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D0%B8%D1%8F",
+					"label": "Свободный город Христиания - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Faroe_Islands",
+			"name": "Faroe Islands",
+			"name_ru": "Фарерские острова",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
+			"flag_cc": "It was made by User:IceKarma (Jeffrey Connell), who released it to the public domain., Public domain, via Wikimedia Commons",
+			"description": "<p>Autonomous region and group of islands in the North Atlantic Ocean between Scotland (Shetland Islands) and Iceland.</p><p>Currently, the Faroe Islands, along with Greenland and Denmark, are part of the United Kingdom of Denmark. <b>The Faroe Islands Self-Government Act 1948</b> defines the manner in which self-government is to be exercised. The law states: '...The Faroe Islands are a self-governing community within the Danish state.' According to it, local governments are formed, as well as the Faroese parliament, Løgting. More importantly, this law also specifically defines the scope of power that is transferred from the Danish government: the formation of local government and the resolution of municipal issues; taxation; control over public services, including the police and urban planning; various social services, including housing; primary and secondary education; archives, libraries, museums; agricultural activities and fishing; cultural and entertainment programs and much more. The federal government remained in charge of defense, foreign policy, justice and monetary affairs.</p>",
+			"description_ru" : "<p>Автономный регион и группа островов в северной части Атлантического океана между Шотландией (Шетландскими островами) и Исландией.</p><p>На данный момент Фарерские острова, наряду с Гренландией и Данией, являются частью Датского Соединённого королевства. <b>'Закон о самоуправлении Фарерских островов'</b> от 1948 года определяет порядок осуществления самоуправления. Закон гласит: '…На Фарерских островах располагается самоуправляющаяся община внутри Датского государства'. Согласно ему формируются органы местного самоуправления, а также фарерский парламент, Лёгтинг. Что более важно, этот закон также конкретно определяет рамки власти, которая передаётся от датского правительства: образование местного правительства и решение вопросов муниципального уровня; налогообложение; контроль над общественными службами, включая полицию и городское планирование; различные социальные услуги, в том числе предоставление жилья; начальное и среднее образование; архивы, библиотеки, музеи; сельскохозяйственная деятельность и рыбный промысел; культурные и развлекательные программы и многое другое. В ведении федерального правительства остались вопросы обороны, внешней политики, юстиции и валютных дел.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Faroe_Islands",
+					"label": "Faroe Islands - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Faroese_independence_movement",
+					"label": "Faroese independence movement - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/The_Red_1_May_Group_(Faroe_Islands)",
+					"label": "The Red 1 May Group - Wikipedia"
+				},
+				{
+					"link": "https://english.stm.dk/media/10516/fo-hjemmestyrelov-uk.pdf",
+					"label": "HOME RULE ACT of the Faroe Islands"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0",
+					"label": "Фарерские острова - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%A4%D0%B0%D1%80%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2",
+					"label": "Движение за независимость Фарерских островов - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%C2%AB%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%C2%BB",
+					"label": "Группа 'Красный Первомай' - Википедия"
+				},
+				{
+					"link": "https://worldconstitutions.ru/?p=979",
+					"label": "Закон №11 от 31 марта 1948 о Внутреннем Правительстве Фарерских островов - Worldconstitutions"
+				}
+			]
+		}, 
+    	{
+			"id": "Saarland",
+			"name": "Saarland",
+			"name_ru": "Саар",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Saarland.svg",
+			"flag_cc": "Public domain, via Wikimedia Commons",
+			"description": "<p>Land of Germany, bordering France and Luxembourg, named after the Saar River. The capital is the city of Saarbrücken.</p><p>After World War II, the Saarland was occupied by the Allies, becoming a French protectorate, and even managed to take part in the Olympic Games as an independent state. The United States and Great Britain sought to include the Saar, following Alsace and Lorraine, into France, while France itself advocated turning the Saar into an independent border state, like Luxembourg. This last proposal was put to a referendum and rejected by 67.7% of the Saarans who sought reunification with Germany. On January 1, 1957, after a fierce public debate, the Saarland became part of the Federal Republic of Germany, becoming its tenth federal state.</p>",
+			"description_ru" : "<p>Земля Германии, граничащая с Францией и Люксембургом, названная по реке Саар. Столица — город Саарбрюккен.</p><p>После Второй мировой войны Саар был оккупирован союзниками, став французским протекторатом, и даже успел принять участие в Олимпийских играх как самостоятельное государство. США и Великобритания стремились включить Саар, вслед за Эльзасом и Лотарингией, в состав Франции, в то время как сама Франция выступала за превращение Саара в независимое пограничное государство, наподобие Люксембурга. Это последнее предложение было вынесено на референдум и отклонено 67,7 % саарцев, которые стремились к воссоединению с ФРГ. 1 января 1957 года после ожесточённой общественной дискуссии Саар вошёл в состав ФРГ, став её десятой федеральной землёй.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Saarland",
+					"label": "Saarland - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B0%D1%80",
+					"label": "Саар - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Lusatia",
+			"name": "Lusatia",
+			"name_ru": "Лужица",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Sorbs.svg",
+			"flag_cc": "Mysid, Public domain, via Wikimedia Commons",
+			"description": "<p>The region, located on the territory of the current German states of Saxony and Brandenburg and southwestern Poland, was previously a Slavic region, since 1815 one part has been part of Prussia, the other part of Saxony.<br>It is divided into Lower Lusatia (flat northern part) and Upper Lusatia (hilly southern part). Each part has its own language. The capital of Lower Lusatia is the city of Chotebus, and the capital of Upper Lusatia is Budyshin. In Lusatia, along with the Germans, there lives a small Slavic nation - the Lusatians, or Lusatian Serbs.</p><p>In 1815, as part of the administrative reform of the Prussian state, part of Lusatia was annexed to the newly formed province of Silesia. Since 1871 it has been subordinated to the united Germany. In 1919, a delegation of Lusatians attended the Versailles conference, where they agreed on the creation of a common state with the Czechs. Nevertheless, Lusatians were not allowed to vote.<br>After the reunification of Germany on October 3, 1990, the Lusatians fought to acquire the status of an administrative unit of autonomy, but the federal authorities did not agree to this and a new division occurred between Saxony and Brandenburg. However, Lusatians enjoy the privileges of national minorities - they own their own schools and cultural organizations, and the inscriptions on local signs are bilingual.</p>",
+			"description_ru" : "<p>Регион, расположенный на территории нынешних немецких земель Саксония и Бранденбург и юго-западной Польши, ранее славянская область, с 1815 года одной частью входящая в состав Пруссии, другой — Саксонии. Подразделяется на Нижнюю Лужицу (равнинная северная часть) и Верхнюю Лужицу (холмистая южная часть). В каждой части существует свой язык. Столицей Нижней Лужицы является город Хотебус, а Верхней Лужицы — Будышин. В Лужице наряду с немцами живёт малая славянская народность — лужичане, или лужицкие сербы.</p><p>В 1815 году в рамках административной реформы прусского государства часть Лужицы была присоединена к новообразованной провинции Силезия. С 1871 года подчинена объединённой Германии. В 1919 году делегация лужичан присутствовала на работе версальской конференции, где договаривалась о создании общего с чехами государства. Тем не менее лужичане не были допущены к голосованию.<br>После повторного объединения Германии 3 октября 1990 года лужичане боролись за приобретение статуса административной единицы автономии, однако федеральные власти не дали на это согласия и произошёл новый раздел между Саксонией и Бранденбургом. Тем не менее, лужичане пользуются привилегиями национальных меньшинств — владеют собственными школами и культурными организациями, а надписи на местных вывесках двуязычны.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Lusatia",
+					"label": "Lusatia - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%B6%D0%B8%D1%86%D0%B0",
+					"label": "Лужица - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Bavaria",
+			"name": "Bavaria",
+			"name_ru": "Свободное государство Бавария",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_Bavaria_%28lozengy%29.svg",
+			"flag_cc": "diese Datei: Jwnabd, Public domain, via Wikimedia Commons",
+			"description": "<p>It is the largest state in terms of area and the second most populous state in the Federal Republic of Germany. Historically, it arose as a tribal principality, and then a voivodeship (duchy) and a grand duchy within the Holy Roman Empire.</p><p>Bavarians have often emphasized a separate national identity and considered themselves as 'Bavarians' first, 'Germans' second. In the 19th-century sense, an independent Kingdom of Bavaria existed from only 1806 to 1871. A separate Bavarian identity was emphasized more strongly when Bavaria joined the Prussia-dominated German Empire in 1871, while the Bavarian nationalists wanted to keep Bavaria as Catholic and an independent state.</p><p>More than half of Bavarians now accept Bavaria as part of Germany. In a 2017 poll by YouGov, 32 percent of Bavarians supported the idea of independence.</p>",
+			"description_ru" : "<p>Является наибольшей по площади и второй по численности населения землёй в составе ФРГ. Исторически возникла как родоплеменное княжество, а потом воеводство (герцогство) и великокняжество в составе Священной Римской Империи.</p><p>Баварцы часто подчеркивают свою национальную идентичность и считают себя в первую очередь 'баварцами', а затем 'немцами'. Баварская идентичность была проявлена еще сильнее, когда Бавария присоединилась к Германской империи в 1871 году, в то время как баварские националисты хотели сохранить Баварию как католическое и независимое государство.</p><p>Большая часть баварцев теперь признают Баварию частью Германии. По данным опроса YouGov, проведенного в 2017 году, 32 процента баварцев поддержали идею независимости.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Bavaria",
+					"label": "Bavaria - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Bavarian_nationalism",
+					"label": "Bavarian nationalism - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Bavaria_Party",
+					"label": "Bavaria Party - Wikipedia"
+				},
+				{
+					"link": "https://yougov.de/travel/articles/18631-bundeslandervergleich-jeder-dritte-bayer-fur-unabh",
+					"label": "'One in three Bavarians in favour of independence from Germany' - YouGov [de]"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B2%D0%B0%D1%80%D0%B8%D1%8F",
+					"label": "Бавария - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B2%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC",
+					"label": "Баварский национализм - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Bavaria_Party",
+					"label": "Баварская партии - Википедия [en]"
+				},
+				{
+					"link": "https://yougov.de/travel/articles/18631-bundeslandervergleich-jeder-dritte-bayer-fur-unabh",
+					"label": "'Каждый третий баварец выступает за независимость от Германии' - YouGov [de]"
+				}
+			]
+		}, 
+    	{
+			"id": "Frestonia",
+			"name": "Frestonia",
+			"name_ru": "Фрестония",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Flag_of_Frestonia.svg",
+			"flag_cc": "Germenfer, CC0, via Wikimedia Commons",
+			"description": "<p>The Free and Independent Republic of Frestonia was created in 1977. Its founders were squatters (usually hippies, musicians, actors, artists, etc.) who settled in dilapidated and abandoned houses in London. The name of the state comes from Freston Hill Street.</p><p>The state acquired its own newspaper, radio, anthem and postage stamps. The film institute regularly showed footage from Sex Pistols concerts. The country adopted the Bill of Rights and ratified the UN Declaration of Human Rights. It even had its own minister of state (its head) and minister of foreign affairs. A few years later, embassies began to operate in other countries. Frestonians applied for membership in the UN and EU.</p>",
+			"description_ru" : "<p>Свободная и независимая республика Фрестония была создана в 1977 году. Ее основателями были скваттеры (как правило, хиппи, музыканты, актеры, художники и пр.), которые поселялись в полуразрушенных и заброшенных домах Лондона. Название государства происходит от улицы Фрестон-Хилл.</p><p>Государство обзавелось собственной газетой, радио, гимном и почтовыми марками. Собственный институт кинематографии регулярно демонстрировал кадры с концертов Sex Pistols. В стране был принят Билль о правах и ратифицирована Декларация ООН о правах человека. Здесь даже существовал свой министр государства (его глава) и министр иностранных дел. Через несколько лет начали работу посольства в других странах. Фрестонцы подавали заявление на членство в ООН и ЕС.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Frestonia",
+					"label": "Frestonia - Wikipedia"
+				},
+				{
+					"link": "https://wikimapia.org/40046183/Frestonia",
+					"label": "Frestonia - Wikimapia"
+				},
+				{
+					"link": "https://www.frestonia.org/#archive",
+					"label": "National Archive of Frestonia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Frestonia",
+					"label": "Фрестония - Википедия [en]"
+				},
+				{
+					"link": "https://wikimapia.org/40046183/Frestonia",
+					"label": "Фрестония - Викимапия"
+				},
+				{
+					"link": "https://www.frestonia.org/#archive",
+					"label": "Национальный архив Фрестонии [en]"
+				}
+			]
+		}, 
+    	{
+			"id": "Wales",
+			"name": "Wales",
+			"name_ru": "Уэльс",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
+			"flag_cc": "Unknown  Vector graphics by Tobias Jakobs, Public domain, via Wikimedia Commons",
+			"description": "<p>Wales has never been a sovereign state within its current borders. From about 1057 to 1063, the king of Gwynedd, Gruffydd ap Llywelyn, managed to temporarily take possession of almost all of the lands that make up present-day Wales. After Gruffydd's death this did not happen again, and by the time of the English conquest of West Wales in 1282 the country had once again been divided between several kingdoms. In 1400, a descendant of two ancient royal families of Wales, Owen Glyndwr, led a rebellion against the English and was proclaimed King of Wales, but completely lost support by 1410 and was forced to go into hiding. Welsh laws were not completely supplanted by English ones until 1542. It was only in 1955 that the Queen officially proclaimed Cardiff the capital of Wales (before this the country simply did not have a capital), although the Prince of Wales usually undergoes investiture in Carnarvon.</p><p>In 1997, the National Assembly for Wales was created, which has the right to amend laws passed by the UK Parliament. In 2006 and 2013, the powers of the Assembly were expanded.</p><p>Following the 2016 Brexit referendum, Welsh authorities and local activists began promoting pro-independence policies.<br><b>YesCymru</b> was launched. A non party-political campaign for an independent Wales which held its first rally in Cardiff in 2019. An opinion poll in March 2021 showed a record 39 per cent support for Welsh independence when excluding don't knows.</p>",
+			"description_ru" : "<p>Одна из четырёх административно-политических частей Соединённого Королевства Великобритании и Северной Ирландии, в прошлом — конгломерат независимых кельтских княжеств.</p><p>Уэльс никогда в истории не был суверенным государством в существующих современных границах. Правда, примерно с 1057 по 1063 годы король Гвинеда Грифид ап Лливелин сумел временно овладеть почти всеми теми землями, что составляют нынешний Уэльс. После смерти Грифида такого уже не повторялось, и ко времени английского завоевания Западного Уэльса в 1282 году страна уже вновь была поделена между несколькими королевствами. В 1400 году потомок двух древних королевских родов Уэльса, Оуэн Глиндур, возглавил восстание против англичан и был провозглашён королём Уэльса, однако полностью потерял поддержку к 1410 году и был вынужден скрыться. Валлийские законы не были полностью вытеснены английскими до 1542 года. Лишь в 1955 году королева официально провозгласила Кардифф столицей Уэльса (до этого столицы у страны попросту не было), хотя Принц Уэльский обычно проходит инвеституру в Карнарвоне.</p><p>В 1997 году была создана Национальная ассамблея Уэльса, имеющая право вносить поправки в законы, которые принимает парламент Великобритании. В 2006 и 2013 году полномочия Ассамблеи были расширены.</p><p>После референдума 2016 года о выходе Великобритании из ЕС власти Уэльса и местные активисты начали продвижение политики за независимость.<br>Была запущена <b>YesCymru</b>, внепартийно-политическая кампания за независимый Уэльс, которая провела свой первый митинг в Кардиффе в 2019 году. Опрос общественного мнения, проведенный в марте 2021 года, показал рекордные 39 процентов поддержки независимости Уэльса.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Wales",
+					"label": "Wales - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Welsh_independence",
+					"label": "Welsh independence - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/YesCymru",
+					"label": "YesCymru - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A3%D1%8D%D0%BB%D1%8C%D1%81",
+					"label": "Уэльс - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Welsh_independence",
+					"label": "Независимость Уэльса - Википедия [en]"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/YesCymru",
+					"label": "YesCymru - Википедия [en]"
+				}
+			]
+		}, 
+    	{
+			"id": "Principality_of_Sealand",
+			"name": "Principality of Sealand",
+			"name_ru": "Княжество Силенд",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Flag_of_Sealand.svg",
+			"flag_cc": "Zscout370, Public domain, via Wikimedia Commons",
+			"description": "<p>A state proclaimed in 1967 by retired British Major Paddy Roy Bates.<br>Claims sovereignty over the territory of an offshore platform in the North Sea 10 kilometers from the coast of Great Britain and the territorial waters around.<br>The first constitution of Sealand came into force in 1975.</p>",
+			"description_ru" : "<p>Государство, провозглашённое в 1967 году британским отставным майором Пэдди Роем Бейтсом.<br>Претендует на суверенитет над территорией морской платформы в Северном море в 10 километрах от побережья Великобритании и на территориальные воды вокруг.<br>Первая конституция Силенда вступила в силу в 1975 году.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Principality_of_Sealand",
+					"label": "Principality of Sealand - Wikipedia"
+				},
+				{
+					"link": "https://sealandgov.org/",
+					"label": "Sealand Oficcial"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4",
+					"label": "Силенд - Википедия"
+				},
+				{
+					"link": "https://sealandgov.org/ru",
+					"label": "Официальный портал княжества Силенд"
+				}
+			]
+		}, 
+    	{
+			"id": "Northern_Ireland",
+			"name": "Northern Ireland",
+			"name_ru": "Северная Ирландия",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ulster_Nationalist_flag.png",
+			"flag_cc": "Ulsternorthman, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+			"description": "<p>Autonomy, administrative and political part of the United Kingdom of Great Britain and Northern Ireland, located in the north-eastern part of the island of Ireland and occupying 13,843 km2, which is approximately 16.5% of its total area. The capital and largest city is Belfast.</p><p>Northern Ireland was created in 1921 when Ireland was partitioned under the Government of Ireland Act 1920, creating a devolved government for the six north-eastern counties. As expected, there was a majority of Unionists in Northern Ireland who wanted to remain in the United Kingdom; they were generally Protestant descendants of colonists from Great Britain. Meanwhile, the majority in Southern Ireland (which became the Irish Free State in 1922) and a significant minority in Northern Ireland were Irish nationalists and Catholics who wanted a <b>united, independent Ireland.</b></p><p>The idea of ​​independence is supported by such a group of nationalists as the <b>'Ulster Third Way'</b>, as well as some factions of the <b>Ulster Defense Association.</b> However, this point of view is marginal in Northern Ireland. It is not supported by any of the political parties represented in the Northern Ireland Assembly, nor by the Government of the United Kingdom or the Government of the Irish Republic.</p>",
+			"description_ru" : "<p>Автономия, административно-политическая часть Соединённого Королевства Великобритании и Северной Ирландии, расположенная в северо-восточной части острова Ирландия и занимающая 13 843 км2, что составляет примерно 16,5 % его общей площади. Столица и крупнейший город — Белфаст.</p><p>Северная Ирландия была создана в 1921 году, когда Ирландия была разделена в соответствии с Актом о правительстве Ирландии 1920 года, в результате чего было создано автономное правительство для шести северо-восточных графств. Как и предполагалось, в Северной Ирландии было большинство юнионистов, которые хотели остаться в Соединённом Королевстве; они, как правило, были протестантскими потомками колонистов из Великобритании. Между тем, большинство в Южной Ирландии (которая стала Ирландским Свободным государством в 1922 году) и значительное меньшинство в Северной Ирландии составляли ирландские националисты и католики, которые хотели <b>единой независимой Ирландии.</b></p><p>Идею независимости поддерживает такая группа националистов как <b>'Третий путь Ольстера'</b>, а также некоторые фракции <b>Ассоциации обороны Ольстера.</b> Тем не менее такая точка зрения в Северной Ирландии является маргинальной. Она не поддерживается ни одной из политических партий, представленных в Ассамблее Северной Ирландии, а также правительством Соединенного Королевства и правительством Ирландской Республики.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Northern_Ireland",
+					"label": "Northern Ireland - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Irish_nationalism",
+					"label": "Irish nationalism - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/United_Ireland",
+					"label": "United Ireland - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Ulster_nationalism",
+					"label": "Ulster nationalism - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Ulster_Third_Way",
+					"label": "Ulster Third Way - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Ulster_Defence_Association",
+					"label": "Ulster Defence Association - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F",
+					"label": "Северная Ирландия - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC",
+					"label": "Ирландский национализм - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F",
+					"label": "Объединённая Ирландия - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D1%8C%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC",
+					"label": "Ольстерский национализм - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Ulster_Third_Way",
+					"label": "'Третий путь Ольстера' - Википедия [en]"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%9E%D0%BB%D1%8C%D1%81%D1%82%D0%B5%D1%80%D0%B0",
+					"label": "Ассоциация обороны Ольстера - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Thrace",
+			"name": "Provisional Government of Western Thrace",
+			"name_ru": "Гюмюрджинская республика",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_TRWT.svg",
+			"flag_cc": "Darwinek, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
+			"description": "<p>The state of West Thracian Muslims, which existed in the fall of 1913 on the territory of the Balkan region of Thrace. The capital is the city of Komotini.</p><p>In total, this Muslim republic existed for 56 days (from August 31, 1913 to October 25, 1913). In 1913, Bulgarian troops annexed the territory of the self-proclaimed republic: this right was given to them by the <b>Bucharest Treaty of 1913.</b> Until 1919, on the territory of the former republic there was the Thrace district as part of the Bulgarian kingdom, which gave it temporary access to the Aegean Sea. Since Bulgaria was an ally of Germany in the First World War, the latter's loss gave rise to French troops to occupy the Aegean coast of Bulgaria. <b>The Treaty of Neuilly-sur-Seine of 1919</b> transferred the southern half of the Thrace district to Greece: Bulgaria retained its northern part, but forever lost access to the Aegean Sea. The territory of the former republic after 1922 finally passed to independent Greece, but the majority of the Muslim population of the region remains here to this day.</p>",
+			"description_ru" : "<p>Государство западнофракийских мусульман, существовавшее осенью 1913 года на территории балканской области Фракия. Столица — город Комотини.</p><p>В общей сложности, данная мусульманская республика просуществовала 56 дней (с 31 августа 1913 года по 25 октября 1913 года). В 1913 году болгарские войска аннексировали территорию самопровозглашённой республики: это право им дал <b>Бухарестский договор 1913 года.</b> До 1919 года на территории бывшей республики существовал Гюмюрджинский округ в составе Болгарского царства, давший ему временный выход в акваторию Эгейского моря. Поскольку Болгария была союзником Германии в Первой мировой войне, проигрыш последней дал повод французским войскам оккупировать эгейское побережье Болгарии. <b>Нёйиский договор 1919 года</b> передал южную половину Гюмюрджинского округа Греции: Болгария сохранила его северную часть, но навсегда лишилась выхода к Эгейскому морю. Территория бывшей республики после 1922 года окончательно перешла к независимой Греции, однако большинство мусульманского населения региона сохраняется здесь и поныне.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Provisional_Government_of_Western_Thrace",
+					"label": "Provisional Government of Western Thrace - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Treaty_of_Bucharest_(1913)",
+					"label": "Treaty of Bucharest (1913) - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Treaty_of_Neuilly-sur-Seine",
+					"label": "Treaty of Neuilly-sur-Seine - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%93%D1%8E%D0%BC%D1%8E%D1%80%D0%B4%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0",
+					"label": "Гюмюрджинская республика - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%85%D0%B0%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_(1913)",
+					"label": "Бухарестский мирный договор (1913) - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9D%D1%91%D0%B9%D0%B8%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80",
+					"label": "Нёйиский договор - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Flanders",
+			"name": "Flanders",
+			"name_ru": "Фламандский регион",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Flag_of_Flanders.svg",
+			"flag_cc": "Tom Lemmens, CC0, via Wikimedia Commons",
+			"description": "<p>Historical region in the territory of modern France, Belgium and the Netherlands.</p><p>Several state reforms took place in the second half of the 20th century, which transformed the unitary Belgium into a federal state with communities, regions and language areas. This resulted also in the establishment of a Flemish Parliament and Government. During the 1970s, all major political parties split into a Dutch and French-speaking party.</p><p>The 2007 federal elections showed more support for Flemish autonomy, marking the start of the 2007–2011 Belgian political crisis. All the political parties that advocated a significant increase of Flemish autonomy gained votes as well as seats in the Belgian federal parliament.</p><p>However, sociological studies show no parallel between the rise of nationalist parties and popular support for their agenda. Instead, a recent study revealed a majority in favour of returning regional competences to the federal level.</p>",
+			"description_ru" : "<p>Историческая область на территории современных Франции, Бельгии и Нидерландов.</p><p>Во второй половине 20 века было проведено несколько государственных реформ, которые превратили унитарную Бельгию в федеративное государство с общинами, регионами и языковыми областями. Это привело также к созданию фламандского парламента и правительства. В 1970-е годы все основные политические партии раскололись на голландскую и франкоязычную партии.</p><p>Федеральные выборы 2007 года продемонстрировали большую поддержку фламандской автономии, ознаменовав начало политического кризиса в Бельгии 2007–2011 годов. Все политические партии, выступавшие за значительное расширение фламандской автономии, получили голоса, а также места в федеральном парламенте Бельгии.</p><p>Социологические исследования не показывают параллелей между ростом популярности националистических партий и народной поддержкой их программ. Более того, недавнее исследование показало, что большинство выступает за возвращение региональных компетенций на федеральный уровень.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Flanders",
+					"label": "Flanders - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D1%8F_(%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)",
+					"label": "Фландрия - Википедия"
+				}
+			]
+		}, 
+    	{
+			"id": "Wallonia",
+			"name": "Wallonia",
+			"name_ru": "Валлония",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_Wallonia.svg",
+			"flag_cc": "Tom Lemmens, CC0, via Wikimedia Commons",
+			"description": "<p>Subject of Belgium along with the Flemish Region and the Brussels-Capital Region. The capital is Namur.</p><p>The profitability of the heavy industries to which Wallonia owed its prosperity started declining in the first half of the 20th century, and the centre of industrial activity shifted north to Flanders. The loss of prosperity caused social unrest, and Wallonia sought greater autonomy in order to address its economic problems. In the wake of the <b>1960-1961 Winter General Strike</b>, the process of state reform in Belgium got underway.</p><p>In 1968, the conflict between the communities burst out. French speakers in Flanders (who were not necessarily Walloons) were driven out of, most notably the Leuven-based Catholic University amid shouts of 'Walloons out!'. After a formal split of the university in two and the creation of a brand new campus in Wallonia, a wider series of State reforms was passed in Belgium, which resulted in the federalisation of the nation and the creation of the Walloon Region and the French Community (comprising both Wallonia and Brussels), administrative entities each of which would gain various levels of considerable autonomy.</p>",
+			"description_ru" : "<p>Субъект Бельгии наряду с Фламандским регионом и Брюссельским столичным регионом. Столица — Намюр.</p><p>Рентабельность тяжелой промышленности, которой Валлония была обязана своим процветанием, начала снижаться в первой половине 20 века, и центр промышленной деятельности переместился на север, во Фландрию. Утрата процветания вызвала социальные волнения, и Валлония стремилась к большей автономии для решения своих экономических проблем. После <b>Зимней всеобщей забастовки 1960–1961 годов</b> в Бельгии начался процесс государственной реформы.</p><p>В 1968 году разразился конфликт между общинами. Франкоговорящие во Фландрии были изгнаны, в первую очередь из Католического университета в Левене, под крики 'Валлоны вон!'. После формального разделения университета на две части и создания совершенно нового кампуса в Валлонии, в Бельгии была проведена более широкая серия государственных реформ, которые привели к федерализации нации и созданию Валлонского региона.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Wallonia",
+					"label": "Wallonia - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Belgian_general_strike_of_1960%E2%80%931961",
+					"label": "Belgian general strike of 1960–1961 - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F",
+					"label": "Валлония - Википедия"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Belgian_general_strike_of_1960%E2%80%931961",
+					"label": "Всеобщая забастовка в Бельгии 1960–1961 гг. - Википедия [en]"
+				}
+			]
+		}, 
+    	{
+			"id": "Kosovo",
+			"name": "Kosovo",
+			"name_ru": "Республика Косово",
+			"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
+			"flag_cc": "Cradel (current version), earlier version by Ningyou, Public domain, via Wikimedia Commons",
+			"description": "<p>A state in South-Eastern Europe, on the Balkan Peninsula, in the geographical region of Kosovo. The capital is Pristina.</p><p>According to the Constitution of Serbia, the territory of the Republic of Kosovo is part of the Republic of Serbia and is part of it as the <b>Autonomous Province of Kosovo and Metohija</b>, but in fact Kosovo is not controlled by the Serbian authorities. In turn, the northern part of Kosovo, populated predominantly by Serbs, is not subject to the authorities in Pristina.</p><p>Currently, the population of the Republic of Kosovo is predominantly Albanian (over 90%).</p><p>On September 22, 1991, the creation of the independent Republic of Kosovo was proclaimed, and then an unauthorized (among the Albanian community) <b>referendum on independence</b> was held (99% of voters with a turnout of 87% voted for independence) and presidential elections, at of which Ibrahim Rugova was elected president. On October 22, 1991, Albania recognized the independence of the Republic of Kosovo. The creation of separatist armed formations began, which in 1996 were united into the <b>Kosovo Liberation Army.</b> A guerrilla-terrorist war broke out in the region, the victims of which were hundreds of civilians, officials and military personnel of Yugoslavia. Initially, only police units fought the separatists, but in 1998 the Yugoslav army entered into hostilities. The war was accompanied by massive repression, killings of civilians and ethnic cleansing. Albanian militias destroyed many monuments of Orthodox culture. In 1999, NATO intervened in the hostilities: Yugoslav cities and military installations were subjected to massive bombing. About half a million, mostly Albanians, were left homeless. As a result, the Serbian government was forced to agree to the deployment of the NATO KFOR military contingent to Kosovo and the transfer of the region under the control of the United Nations, which was carried out on the basis of UN Security Council Resolution No. 1244 of June 10, 1999.</p><p>On February 17, 2008, the Kosovo Parliament announced the <b>independence of Kosovo unilaterally.</b> On March 14, Kosovo Serbs, protesting against the independence of the region, took action and seized the Albanian court building.</p><p>On April 19, 2013, in Brussels, Serbian Prime Minister Ivica Dacic and Kosovo Prime Minister Hashim Thaci initialed an agreement on the principles of normalizing relations. It concerns the status and functions of the Serb communities in the north of Kosovo, but not the status of Kosovo itself. The agreement provides for the formation of a new unified community/association of Serb communities in Kosovo, which should control the areas of economic development, education, health, urban and agriculture.</p>",
+			"description_ru" : "<p>Государство в Юго-Восточной Европе, на Балканском полуострове, в географическом регионе Косово. Столица — Приштина.</p><p>Согласно конституции Сербии, территория Республики Косово является частью Республики Сербия и входит в её состав как <b>Автономный край Косово и Метохия</b>, однако фактически Косово властями Сербии не контролируется. В свою очередь, Северная часть Косова, населённая преимущественно сербами, не подчиняется властям в Приштине.</p><p>В настоящее время население Республики Косово составляют преимущественно албанцы (свыше 90 %).</p><p>22 сентября 1991 года было провозглашено создание независимой Республики Косово, а затем проведены несанкционированные (среди албанской общины) <b>референдум о независимости</b> (99 % голосовавших при явке 87 % проголосовали за независимость) и президентские выборы, на которых президентом был избран Ибрагим Ругова. 22 октября 1991 года независимость Республики Косово признала Албания. Началось создание вооружённых формирований сепаратистов, которые в 1996 году были объединены в <b>Армию освобождения Косова.</b> В крае развернулась партизанско-террористическая война, жертвами которой стали сотни мирных жителей, чиновников и военных Югославии. Первоначально борьбу с сепаратистами вели лишь милицейские подразделения, но в 1998 году в военные действия вступила югославская армия. Война сопровождалась массовыми репрессиями, убийствами мирных жителей и этническими чистками. Албанскими ополченцами были разрушены многие памятники православной культуры. В 1999 году в военные действия вмешалась НАТО: массированным бомбардировкам были подвергнуты югославские города и военные объекты. Около полумиллиона, в основном албанцев, осталось без крова. В результате сербское правительство было вынуждено согласиться на ввод в Косово военного контингента НАТО KFOR и переход края под управление Организации Объединённых Наций, что и было осуществлено на основании резолюции СБ ООН № 1244 от 10 июня 1999 года.</p><p>17 февраля 2008 года Парламент Косова объявил о <b>независимости Косова в одностороннем порядке.</b> 14 марта косовские сербы, протестующие против независимости края, приступили к действиям и захватили здание албанского суда.</p><p>19 апреля 2013 года в Брюсселе премьер-министр Сербии Ивица Дачич и премьер-министр Косова Хашим Тачи парафировали соглашение о принципах нормализации отношений. Оно касается статуса и функций сербских общин на севере Косова, но не статуса самого Косова. Соглашение предусматривает формирование нового единого сообщества/ассоциации сербских общин Косова, которые должны контролировать области экономического развития, образования, здравоохранения, городского и сельского хозяйства.</p>",
+			"links": [
+				{
+					"link": "https://en.wikipedia.org/wiki/Kosovo",
+					"label": "Kosovo - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/1991_Kosovan_independence_referendum",
+					"label": "1991 Kosovan independence referendum - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Kosovo_Liberation_Army",
+					"label": "Kosovo Liberation Army - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Kosovo_War",
+					"label": "Kosovo War - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1244",
+					"label": "United Nations Security Council Resolution 1244 - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/2008_Kosovo_declaration_of_independence",
+					"label": "2008 Kosovo declaration of independence - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Partition_of_Kosovo",
+					"label": "Partition of Kosovo - Wikipedia"
+				},
+				{
+					"link": "https://en.wikipedia.org/wiki/Advisory_opinion_on_Kosovo%27s_declaration_of_independence",
+					"label": "Advisory opinion on Kosovo's declaration of independence - Wikipedia"
+				}
+			],
+			"links_ru": [
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE",
+					"label": "Республика Косово - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D0%B4%D1%83%D0%BC_%D0%BE_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%B0_(1991)",
+					"label": "Референдум о независимости Косова (1991) - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BC%D0%B8%D1%8F_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%B0",
+					"label": "Армия освобождения Косова - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0",
+					"label": "Косовская война - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%9E%D0%9E%D0%9D_1244",
+					"label": "Резолюция Совета Безопасности ООН 1244 - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%B0",
+					"label": "Провозглашение независимости Косова - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%B0",
+					"label": "Раздел Косова - Википедия"
+				},
+				{
+					"link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B7%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%B0",
+					"label": "Правомерность провозглашения независимости Косова - Википедия"
+				}
+			]
+		}
+  	]
+}
