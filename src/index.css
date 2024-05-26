@@ -229,7 +229,7 @@ description.active {
     }
     main {
 	overflow-y: auto;
-	max-height: 200px;
+	max-height: 10rem;
  	text-align: justify;
 	text-indent: 1rem;
 	padding: 16px 1.8em 10px 1.8em;
@@ -243,6 +243,7 @@ description.active {
 	display: block;
 	margin: auto;
 	max-width: 400px;
+	max-height: 10rem;
 	width: 100%;
 	height: 100%;
 	object-fit: contain;
@@ -261,7 +262,7 @@ description.active {
 }
 ul.desc__links {
     overflow-y: auto;
-    max-height: 200px;
+    max-height: 5rem;
     border-top: 2px solid #303030;
     padding-top: 8px;
     padding-inline: 40px 20px;
